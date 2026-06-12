@@ -1,0 +1,3426 @@
+actor,nepo,n_films,won_national,won_filmfare
+Anupam Kher,False,107,False,True
+Akshay Kumar,False,99,False,True
+Sanjay Dutt,True,87,False,True
+Ajay Devgn,False,84,True,True
+Paresh Rawal,False,83,False,True
+Jackie Shroff,False,75,False,True
+Rajpal Yadav,False,75,False,False
+Amitabh Bachchan,False,70,True,True
+Om Puri,False,61,True,True
+Abhishek Bachchan,True,60,False,True
+Salman Khan,True,59,False,True
+Kareena Kapoor,True,58,False,True
+John Abraham,False,57,False,True
+Boman Irani,False,57,False,False
+Shah Rukh Khan,False,53,True,True
+Irrfan Khan,False,51,False,True
+Arshad Warsi,False,50,False,True
+Gulshan Grover,False,50,False,False
+Naseeruddin Shah,False,49,False,True
+Sunil Shetty,False,48,False,False
+Divya Dutta,False,47,False,True
+Saif Ali Khan,True,46,False,True
+Nawazuddin Siddiqui,False,46,False,True
+Emraan Hashmi,True,46,False,True
+Priyanka Chopra,False,45,False,True
+Anil Kapoor,False,45,False,True
+Arjun Rampal,False,45,False,True
+Tabu,False,45,False,True
+Jimmy Sheirgill,False,45,False,False
+Riteish Deshmukh,False,45,False,True
+Kay Kay Menon,False,45,False,False
+Bipasha Basu,False,43,False,True
+Ranvir Shorey,False,43,False,True
+Vinay Pathak,False,43,False,True
+Johnny Lever,False,43,False,False
+Vijay Raaz,False,42,False,False
+Sunny Deol,True,41,False,True
+Rishi Kapoor,True,41,False,True
+Aftab Shivdasani,False,41,False,False
+Katrina Kaif,False,40,False,True
+Sanjay Mishra,False,40,False,True
+Govinda,False,40,False,True
+Bobby Deol,True,39,False,True
+Arbaaz Khan,True,38,False,True
+Neha Dhupia,False,38,False,True
+Shreyas Talpade,False,38,False,True
+Kangana Ranaut,False,36,False,True
+Rajkummar Rao,False,35,False,True
+Shahid Kapoor,True,35,False,True
+Juhi Chawla,False,34,False,True
+Manisha Koirala,False,34,False,True
+Mithun Chakraborty,False,34,False,True
+Pankaj Tripathi,False,34,False,True
+Rani Mukerji,True,33,False,True
+Akshaye Khanna,True,33,False,True
+Randeep Hooda,False,32,False,True
+Tusshar Kapoor,True,32,False,True
+Vivek Oberoi,True,32,False,True
+Vidya Balan,False,31,False,True
+Nana Patekar,False,31,False,True
+Raveena Tandon,False,31,False,True
+Sharman Joshi,False,31,False,True
+Ashutosh Rana,False,31,False,False
+Deepika Padukone,False,31,False,True
+Hrithik Roshan,True,31,False,True
+Sanjay Suri,False,30,False,False
+Manoj Bajpayee,False,30,False,True
+Lara Dutta,False,29,False,False
+Sonakshi Sinha,True,28,False,True
+Fardeen Khan,True,28,False,True
+Sharat Saxena,False,28,False,False
+Mahima Chaudhry,False,28,False,True
+Aishwarya Rai,False,28,False,True
+Manoj Pahwa,False,27,False,True
+Isha Koppikar,False,26,False,True
+Rajat Kapoor,False,26,False,True
+Rajesh Sharma,False,26,False,False
+Preity Zinta,False,26,False,True
+Dino Morea,False,26,False,False
+Konkona Sen Sharma,False,26,False,True
+Rahul Dev,False,26,False,False
+Suniel Shetty,False,25,False,True
+Saurabh Shukla,False,25,False,False
+Mahesh Manjrekar,False,25,False,False
+Atul Kulkarni,False,24,False,True
+Taapsee Pannu,False,24,False,True
+Ravi Kishan,False,24,False,False
+Manoj Bajpai,False,24,False,True
+Esha Deol,True,24,False,False
+Amrita Rao,False,23,False,True
+Rati Agnihotri,False,23,False,True
+Zakir Hussain,False,23,False,False
+Jacqueline Fernandez,False,23,False,False
+Dia Mirza,False,23,False,True
+Shakti Kapoor,False,23,False,False
+Ranbir Kapoor,True,23,False,True
+Sushmita Sen,False,22,False,True
+Manoj Joshi,False,22,False,False
+Brijendra Kala,False,22,False,False
+Abhay Deol,True,21,False,True
+Rahul Bose,False,21,False,False
+Raima Sen,False,21,False,False
+Yami Gautam,False,21,False,True
+Neena Gupta,False,21,False,True
+Mukesh Tiwari,False,21,False,False
+Sonali Kulkarni,False,21,False,True
+Shilpa Shetty,False,21,False,True
+Chunky Pandey,False,20,False,True
+Sachin Khedekar,False,20,False,False
+Sanjay Kapoor,True,20,False,False
+Javed Jaffrey,False,20,False,False
+Yashpal Sharma,False,20,False,False
+Mallika Sherawat,False,20,False,False
+Aamir Khan,True,20,False,True
+Annu Kapoor,False,20,False,False
+Shraddha Kapoor,False,20,False,True
+Soha Ali Khan,True,20,False,True
+Radhika Apte,False,20,False,False
+Bhumi Pednekar,False,20,False,True
+Vikrant Massey,False,20,False,True
+Satish Kaushik,False,20,False,False
+Purab Kohli,False,19,False,False
+R. Madhavan,False,19,False,True
+Sonam Kapoor,True,19,False,True
+Ayesha Takia,False,19,False,False
+Ayushmann Khurrana,False,19,False,True
+Sonu Sood,False,19,False,True
+Kajol,True,19,False,True
+Raghubir Yadav,False,19,False,False
+Kriti Sanon,False,19,True,True
+Neil Nitin Mukesh,False,19,False,True
+Sohail Khan,True,19,False,False
+Parineeti Chopra,False,19,False,True
+Varun Dhawan,True,19,False,True
+Urmila Matondkar,False,19,False,True
+Ranveer Singh,False,19,False,True
+Arjun Kapoor,True,19,False,False
+Anushka Sharma,False,19,False,True
+Kumud Mishra,False,18,False,True
+Mohnish Bahl,True,18,False,True
+Kalki Koechlin,False,18,False,True
+Murali Sharma,False,18,False,False
+Huma Qureshi,False,18,False,True
+Alia Bhatt,True,18,False,True
+Priyanshu Chatterjee,False,18,False,False
+Asrani,False,18,False,True
+Prateik Babbar,True,18,False,True
+Jimmy Shergill,False,17,False,True
+Dalip Tahil,False,17,False,False
+Ronit Roy,False,17,False,True
+Deepak Dobriyal,False,17,False,True
+Parvin Dabas,False,17,False,False
+Kunal Khemu,False,17,False,False
+Zayed Khan,True,17,False,True
+Dharmendra,False,17,False,True
+Dimple Kapadia,False,17,False,True
+Amisha Patel,False,17,False,False
+Vicky Kaushal,True,17,True,True
+Amrish Puri,False,17,False,True
+Ram Kapoor,False,17,False,False
+Kartik Aaryan,False,16,False,True
+Shabana Azmi,False,16,False,True
+Lillete Dubey,False,16,False,False
+Supriya Pathak,False,16,False,True
+Akshay Oberoi,False,16,False,False
+Kunal Kapoor,False,16,False,True
+Ali Fazal,False,16,False,False
+Sanya Malhotra,False,16,False,True
+Seema Biswas,False,16,False,True
+Sidharth Malhotra,False,16,False,True
+Preeti Jhangiani,False,16,False,True
+Mahie Gill,False,16,False,False
+Vir Das,False,16,False,True
+Prem Chopra,False,15,False,True
+Sharib Hashmi,False,15,False,False
+Pulkit Samrat,False,15,False,False
+Amrita Arora,False,15,False,False
+Danny Denzongpa,False,15,False,True
+Milind Soman,False,15,False,False
+Rimi Sen,False,15,False,True
+Kiara Advani,False,15,False,True
+Adil Hussain,False,15,False,False
+Satish Shah,False,15,False,False
+Raj Babbar,False,15,False,True
+Karisma Kapoor,True,15,False,True
+Ashish Vidyarthi,False,15,False,False
+Amit Sadh,False,15,False,False
+Rakul Preet Singh,False,15,False,False
+Shefali Shah,False,14,False,True
+Kirron Kher,False,14,False,True
+Riya Sen,False,14,False,False
+Darshan Jariwala,False,14,False,False
+Aditya Roy Kapur,True,14,False,True
+Madhuri Dixit,False,14,False,True
+Aditi Rao Hydari,False,14,False,False
+Tannishtha Chatterjee,False,14,False,False
+Farhan Akhtar,False,14,False,True
+Arjun Mathur,False,14,False,False
+Hrishita Bhatt,False,14,False,False
+Minissha Lamba,False,14,False,False
+Sameera Reddy,False,14,False,False
+Manav Kaul,False,14,False,True
+Vishal Malhotra,False,14,False,False
+Gajraj Rao,False,14,False,True
+Sharad Kelkar,False,13,False,False
+Tiger Shroff,True,13,False,False
+Gul Panag,False,13,False,False
+Murli Sharma,False,13,False,False
+Rekha,True,13,False,True
+Prakash Raj,False,13,False,False
+Ameesha Patel,False,13,False,True
+Rohit Roy,False,13,False,False
+Aman Verma,False,13,False,False
+Kim Sharma,False,13,False,False
+Tanushree Dutta,False,13,False,False
+Abhishek Banerjee,False,13,False,True
+Sumeet Vyas,False,13,False,False
+Tara Sharma,False,12,False,False
+Prachi Desai,False,12,False,True
+Namrata Shirodkar,False,12,False,False
+Mrunal Thakur,False,12,False,False
+Vinod Khanna,False,12,False,True
+Imran Khan,True,12,False,True
+Rajeev Khandelwal,False,12,False,False
+Mugdha Godse,False,12,False,True
+Sandhya Mridul,False,12,False,True
+Zarina Wahab,False,12,False,True
+Milind Gunaji,False,12,False,False
+Deepti Naval,False,12,False,True
+Payal Rohatgi,False,12,False,False
+Mohammed Zeeshan Ayyub,False,12,False,False
+Ileana D'Cruz,False,12,False,False
+Anjana Sukhani,False,12,False,False
+Nandita Das,False,12,False,False
+Richa Chadda,False,12,False,False
+Varun Sharma,False,12,False,False
+Aashish Chaudhary,False,12,False,False
+Abhimanyu Singh,False,12,False,False
+Vidyut Jammwal,False,12,False,False
+Gulshan Devaiah,False,12,False,True
+Fatima Sana Shaikh,False,12,False,True
+Govind Namdev,False,12,False,False
+Piyush Mishra,False,12,False,False
+Shiney Ahuja,False,11,False,True
+Sushant Singh,False,11,False,False
+Kader Khan,False,11,False,False
+Diana Penty,False,11,False,True
+Anurag Kashyap,False,11,False,False
+Nushrratt Bharuccha,False,11,False,False
+Shriya Saran,False,11,False,False
+Kirti Kulhari,False,11,False,True
+Sushant Singh Rajput,False,11,False,True
+Rajneesh Duggal,False,11,False,False
+Jaideep Ahlawat,False,11,False,True
+Janhvi Kapoor,True,11,False,True
+Sara Ali Khan,True,11,False,False
+Celina Jaitly,False,11,False,False
+Rituparna Sengupta,False,11,True,False
+Nargis Fakhri,False,11,False,True
+Evelyn Sharma,False,11,False,False
+Uday Chopra,True,11,False,False
+Nauheed Cyrusi,False,11,False,False
+Saqib Saleem,False,11,False,False
+Ashmit Patel,False,11,False,False
+Richa Chadha,False,11,False,True
+Ila Arun,False,11,False,False
+Vijay Varma,False,10,False,True
+Johny Lever,False,10,False,False
+Adah Sharma,False,10,False,True
+Kunaal Roy Kapur,True,10,False,False
+Sunny Leone,False,10,False,False
+Tillotama Shome,False,10,False,True
+Prashant Narayanan,False,10,False,False
+Sunny Singh,False,10,False,False
+Diljit Dosanjh,False,10,False,True
+Aditya Seal,False,10,False,False
+Himesh Reshammiya,False,10,False,False
+Akhilendra Mishra,False,10,False,False
+Pankaj Kapur,False,10,False,True
+Shiv Panditt,False,10,False,False
+Kriti Kharbanda,False,10,False,False
+Manu Rishi,False,10,False,False
+Neha Sharma,False,10,False,False
+Shahana Goswami,False,10,False,True
+Chitrangada Singh,False,10,False,False
+Shamita Shetty,False,10,False,True
+Ashwin Mushran,False,10,False,False
+Esha Gupta,False,10,False,False
+Swara Bhaskar,False,10,False,True
+Harshvardhan Rane,False,9,False,False
+Shashank Arora,False,9,False,False
+Jisshu Sengupta,False,9,False,False
+Vipin Sharma,False,9,False,False
+Aryan Vaid,False,9,False,False
+Hema Malini,False,9,False,True
+Revathi,False,9,False,False
+Arif Zakaria,False,9,False,False
+Tinnu Anand,False,9,False,False
+Sayani Gupta,False,9,False,False
+Diya Mirza,False,9,False,False
+Vineet Kumar Singh,False,9,False,True
+Aditya Pancholi,False,9,False,False
+Hemant Pandey,False,9,False,False
+Mouni Roy,False,9,False,True
+Vaani Kapoor,False,9,False,False
+Aamir Bashir,False,9,False,False
+Antara Mali,False,9,False,True
+Manjari Fadnis,False,9,False,False
+Shruti Haasan,False,9,False,False
+Jaya Bachchan,False,9,False,True
+Udita Goswami,False,9,False,False
+Ananya Panday,True,9,False,False
+Sonali Bendre,False,9,False,False
+Dipannita Sharma,False,9,False,False
+Gracy Singh,False,9,False,False
+Himanshu Malik,False,9,False,False
+Kurush Deboo,False,9,False,False
+Chandan Roy Sanyal,False,9,False,False
+Ratna Pathak Shah,False,9,False,True
+Mushtaq Khan,False,9,False,False
+Pratik Gandhi,False,9,False,True
+Sarika,False,9,False,True
+Neetu Chandra,False,9,False,False
+Farida Jalal,False,9,False,True
+Prabhu Deva,False,9,False,False
+Ali Asgar,False,8,False,False
+Rahul Khanna,False,8,False,True
+Bhumika Chawla,False,8,False,True
+Divyenndu,False,8,False,False
+Rakhi Sawant,False,8,False,False
+Aarti Chabria,False,8,False,False
+Samir Soni,False,8,False,False
+Tisca Chopra,False,8,False,True
+Yash Tonk,False,8,False,False
+Aparshakti Khurana,False,8,False,True
+Hrishitaa Bhatt,False,8,False,False
+Genelia D'Souza,False,8,False,False
+Arjan Bajwa,False,8,False,False
+Kiran Kumar,False,8,False,False
+Sharad Kapoor,False,8,False,False
+Shweta Tripathi,False,8,False,False
+Avinash Tiwary,False,8,False,False
+Vidya Malvade,False,8,False,False
+Omkar Das Manikpuri,False,8,False,False
+Amyra Dastur,False,8,False,False
+Amit Sial,False,8,False,False
+Kashmera Shah,False,8,False,False
+Sonnalli Seygall,False,8,False,False
+Arunoday Singh,False,8,False,False
+Saiyami Kher,False,8,False,True
+Sudesh Berry,False,8,False,False
+Makrand Deshpande,False,8,False,False
+Radhika Madan,False,8,False,True
+Rajit Kapur,False,8,False,False
+Adhyayan Suman,False,8,False,False
+Raj Zutshi,False,8,False,False
+Nikita Dutta,False,8,False,False
+Pooja Batra,False,8,False,True
+Nora Fatehi,False,8,False,False
+Javed Sheikh,False,8,False,False
+Sai Tamhankar,False,8,False,False
+Kabir Bedi,False,8,False,False
+Alok Nath,False,8,False,False
+Urvashi Rautela,False,8,False,False
+Ritesh Deshmukh,False,8,False,False
+Waheeda Rehman,False,7,False,True
+Mir Sarwar,False,7,False,False
+Nandana Sen,False,7,False,False
+Reema Lagoo,False,7,False,True
+Raghav Juyal,False,7,False,True
+Nassar,False,7,False,False
+Disha Patani,False,7,False,False
+Harsh Chhaya,False,7,False,False
+Nisha Kothari,False,7,False,False
+Rajat Bedi,False,7,False,False
+Sobhita Dhulipala,False,7,False,False
+Ruslaan Mumtaz,False,7,False,False
+Kajal Aggarwal,False,7,False,True
+Shraddha Das,False,7,False,False
+Suresh Menon,False,7,False,False
+Sameer Dattani,False,7,False,False
+Jim Sarbh,False,7,False,True
+Upen Patel,False,7,False,False
+Rasika Dugal,False,7,False,False
+Mukesh Rishi,False,7,False,True
+Sheeba Chaddha,False,7,False,False
+Divyendu Sharma,False,7,False,False
+Angad Bedi,False,7,False,False
+Jackky Bhagnani,True,7,False,False
+Aditya Srivastava,False,7,False,False
+Reema Sen,False,7,False,False
+Yuvika Chaudhary,False,7,False,False
+Nushrat Bharucha,False,7,False,False
+Shilpa Shukla,False,7,False,True
+Shweta Basu Prasad,False,7,False,False
+Govind Namdeo,False,7,False,False
+Arya Babbar,True,7,False,False
+Shahbaz Khan,False,7,False,False
+Jitendra Kumar,False,7,False,False
+Chandrachur Singh,False,7,False,True
+Kanwaljit Singh,False,7,False,False
+Tulip Joshi,False,7,False,False
+Neeraj Kabi,False,7,False,False
+Sonal Sehgal,False,7,False,False
+Ayesha Jhulka,False,7,False,True
+Jugal Hansraj,False,7,False,False
+Tanvi Azmi,False,7,False,True
+Victor Banerjee,False,7,False,False
+Rahul Singh,False,7,False,False
+Tahir Raj Bhasin,False,6,False,True
+Mandira Bedi,False,6,False,False
+Parambrata Chatterjee,False,6,False,False
+Sara Loren,False,6,False,False
+Harman Baweja,False,6,False,False
+Namit Das,False,6,False,False
+Pooja Hegde,False,6,False,False
+Mohan Agashe,False,6,False,False
+Kavin Dave,False,6,False,False
+Rashmika Mandanna,False,6,False,False
+Indraneil Sengupta,False,6,False,False
+Pallavi Joshi,False,6,False,True
+Vikas Kalantri,False,6,False,False
+Rajshri Deshpande,False,6,False,False
+Sharmila Tagore,False,6,False,True
+Siddhant Chaturvedi,False,6,False,False
+Neil Bhoopalam,False,6,False,False
+Rajesh Tailang,False,6,False,False
+Vatsal Sheth,False,6,False,False
+Nikhil Dwivedi,False,6,False,False
+Amrita Singh,False,6,False,True
+Archana Puran Singh,False,6,False,True
+Rannvijay Singh,False,6,False,False
+Sahil Vaid,False,6,False,False
+Shriya Pilgaonkar,False,6,False,False
+Pavan Malhotra,False,6,False,False
+Lisa Haydon,False,6,False,True
+Sunil Grover,False,6,False,False
+Paoli Dam,False,6,False,False
+Rinke Khanna,True,6,False,False
+Tara Sutaria,False,6,False,True
+Zeenat Aman,False,6,False,True
+Jaaved Jaaferi,False,6,False,False
+Vikram Gokhale,False,6,True,False
+Sugandha Garg,False,6,False,False
+Sanjana Sanghi,False,6,False,False
+Manushi Chhillar,False,6,False,True
+Seema Pahwa,False,6,False,True
+Deepal Shaw,False,6,False,False
+Himansh Kohli,False,6,False,False
+Sikandar Kher,True,6,False,False
+Kulraj Randhawa,False,6,False,False
+Siddhanth Kapoor,False,6,False,False
+Sayali Bhagat,False,6,False,False
+Omi Vaidya,False,6,False,False
+Tanishaa Mukerji,True,6,False,False
+Amol Parashar,False,6,False,False
+Darshan Kumar,False,6,False,True
+Mahaakshay Chakraborty,True,6,False,False
+Rana Daggubati,False,6,False,False
+Amruta Subhash,False,6,False,False
+Ahsaas Channa,False,6,False,False
+Meghna Naidu,False,6,False,False
+Divya Khosla Kumar,False,6,False,False
+Perizaad Zorabian,False,6,False,False
+Makarand Deshpande,False,6,False,False
+Inder Kumar,False,6,False,False
+Upasana Singh,False,6,False,False
+Dolly Ahluwalia,False,6,False,False
+Suhasini Mulay,False,6,False,True
+Malaika Arora,False,6,False,False
+Asawari Joshi,False,6,False,False
+Ali Zafar,False,6,False,False
+Celina Jaitley,False,6,False,False
+Simone Singh,False,6,False,False
+Anshuman Jha,False,6,False,False
+Sayaji Shinde,False,6,False,True
+Krishna Abhishek,False,6,False,False
+Vivan Bhatena,False,6,False,False
+Natassha,False,6,False,False
+Manjot Singh,False,6,False,False
+Lisa Ray,False,6,False,False
+Deepak Tijori,False,6,False,False
+Aahana Kumra,False,6,False,False
+Priyanshu Painyuli,False,6,False,False
+Ishaan Khatter,True,6,False,True
+Tigmanshu Dhulia,False,6,False,False
+Anup Soni,False,6,False,False
+Tiku Talsania,False,6,False,False
+Anang Desai,False,5,False,False
+Amy Jackson,False,5,False,False
+Twinkle Khanna,True,5,False,False
+Swanand Kirkire,False,5,False,False
+Barun Sobti,False,5,False,False
+Amrita Puri,False,5,False,True
+Gurmeet Choudhary,False,5,False,False
+Neeraj Sood,False,5,False,False
+Pawan Malhotra,False,5,False,False
+Sudhir Pandey,False,5,False,False
+Koena Mitra,False,5,False,False
+Karan Nath,False,5,False,False
+Rambha,False,5,False,False
+Ira Dubey,False,5,False,False
+Karan Singh Grover,False,5,False,False
+Nishikant Kamat,False,5,False,False
+Rakesh Bapat,False,5,False,False
+Sudeep,False,5,False,False
+Rani Mukherji,False,5,False,False
+Sahil Khan,False,5,False,False
+Rajesh Khanna,False,5,False,True
+Alaya F,False,5,False,False
+Jas Arora,False,5,False,False
+Bruna Abdullah,False,5,False,False
+Anand Tiwari,False,5,False,False
+Alka Amin,False,5,False,False
+Amole Gupte,False,5,False,False
+Tamannaah,False,5,False,False
+Tom Alter,False,5,False,False
+Randhir Kapoor,False,5,False,True
+Kiran Janjani,False,5,False,False
+Sherlyn Chopra,False,5,False,False
+Vardhan Puri,False,5,False,False
+Dharmesh Yelande,False,5,False,False
+Puja Gupta,False,5,False,False
+Neha,False,5,False,False
+Rajeev Verma,False,5,False,False
+Anuj Sawhney,False,5,False,False
+Nikitin Dheer,False,5,False,False
+Virendra Saxena,False,5,False,False
+Asin,False,5,False,False
+Asif Basra,False,5,False,False
+Priyanka Bose,False,5,False,False
+Rhea Chakraborty,False,5,False,False
+Ganesh Acharya,False,5,False,False
+Bidita Bag,False,5,False,False
+Isha Sharvani,False,5,False,False
+Hiten Tejwani,False,5,False,False
+Gautam Rode,False,5,False,False
+Zareen Khan,False,5,False,False
+Anjali Patil,False,5,False,False
+Gaurav Gera,False,5,False,False
+Kapil Sharma,False,5,False,False
+Vikram Kochhar,False,5,False,False
+Ayub Khan,False,5,False,False
+Sunny Kaushal,True,5,False,False
+Tushar Kapoor,False,5,False,False
+Wamiqa Gabbi,False,5,False,False
+Raghuvir Yadav,False,5,False,False
+Kulbhushan Kharbanda,False,5,False,True
+Lucky Ali,False,5,False,False
+Kiron Kher,False,5,False,False
+Arun Govil,False,5,False,False
+Pavail Gulati,False,5,False,False
+Kishori Shahane,False,5,False,False
+Faisal Khan,True,5,False,False
+Prithviraj Sukumaran,False,5,False,False
+Priyamani,False,5,False,True
+Priya Anand,False,5,False,False
+Zoya Hussain,False,5,False,False
+Pooja Chopra,False,5,False,False
+Sophie Choudry,False,5,False,False
+Taaha Shah,False,5,False,False
+Mona Singh,False,5,False,False
+Mrinalini Sharma,False,5,False,False
+Sakshi Tanwar,False,5,False,False
+Karan Johar,False,5,False,False
+Ammy Virk,False,4,False,False
+Raza Murad,False,4,False,False
+Neeru Bajwa,False,4,False,False
+Rajat Barmecha,False,4,False,False
+Richa Pallod,False,4,False,False
+Hansika Motwani,False,4,False,True
+Shenaz Treasurywala,False,4,False,True
+Rajeshwari Sachdev,False,4,False,False
+Himani Shivpuri,False,4,False,False
+Kabir Sadanand,False,4,False,False
+Kunal Kumar,False,4,False,False
+Nishant Dahiya,False,4,False,False
+Rahul Roy,False,4,False,False
+Shernaz Patel,False,4,False,False
+Rahul Bagga,False,4,False,False
+Mohit Chadda,False,4,False,False
+Aditi Sharma,False,4,False,False
+Smita Jaykar,False,4,False,False
+Sagarika Ghatge,False,4,False,False
+Tarun Arora,False,4,False,False
+Subrat Dutta,False,4,False,False
+Amruta Khanvilkar,False,4,False,False
+Lilette Dubey,False,4,False,False
+Rajesh Jais,False,4,False,False
+Rakesh Bedi,False,4,False,False
+Richa Chaddha,False,4,False,True
+Shaad Randhawa,False,4,False,False
+Vineet Kumar,False,4,False,False
+Sonal Chauhan,False,4,False,True
+Hiten Paintal,False,4,False,False
+Atul Parchure,False,4,False,False
+Kamal Haasan,False,4,True,True
+Meera Chopra,False,4,False,False
+Kushal Punjabi,False,4,False,False
+Shruti Seth,False,4,False,False
+Sandali Sinha,False,4,False,False
+Sonam Bajwa,False,4,False,False
+Tanisha,False,4,False,False
+Adarsh Gourav,False,4,False,False
+Tripti Dimri,False,4,False,True
+Upendra Limaye,False,4,False,False
+Mithila Palkar,False,4,False,False
+Vasundhara Das,False,4,False,False
+Sohum Shah,False,4,False,False
+Soni Razdan,False,4,False,True
+Mohit Ahlawat,False,4,False,False
+Manish Paul,False,4,False,True
+Supriya Karnik,False,4,False,False
+Suresh Oberoi,False,4,False,True
+Suchitra Krishnamoorthi,False,4,False,False
+Sneha Ullal,False,4,False,False
+Ishwak Singh,False,4,False,False
+Khushalii Kumar,False,4,False,True
+Maanvi Gagroo,False,4,False,True
+Ishtiyak Khan,False,4,False,False
+Sudhanshu Pandey,False,4,False,False
+Dhanush,False,4,True,True
+Surekha Sikri,False,4,False,False
+Sana Khan,False,4,False,False
+Punit Pathak,False,4,False,False
+Tinu Anand,False,4,False,False
+Sooraj Pancholi,True,4,False,True
+Ehan Bhat,False,4,False,True
+Gauahar Khan,False,4,False,False
+Meezaan Jaffery,True,4,False,False
+Nidhi Subbaiah,False,4,False,False
+Triptii Dimri,False,4,False,False
+Mohit Raina,False,4,False,False
+Nimrat Kaur,False,4,False,False
+Saiee Manjrekar,False,4,False,True
+Sikander Kher,False,4,False,False
+Tamannaah Bhatia,False,4,False,False
+Rahul Bhat,False,4,False,False
+Gurmeet Ram Rahim Singh,False,4,False,False
+Poonam Dhillon,False,4,False,True
+Banita Sandhu,False,4,False,True
+Supriya Pilgaonkar,False,4,False,False
+Omkar Kapoor,False,4,False,False
+Genelia Deshmukh,False,4,False,False
+Aakash Dahiya,False,4,False,False
+Manjari Phadnis,False,4,False,False
+Upasna Singh,False,4,False,False
+Darsheel Safary,False,4,False,True
+Juhi Babbar,True,4,False,False
+Anupriya Goenka,False,4,False,False
+Navin Nischol,False,4,False,False
+Mahi Gill,False,4,False,True
+Eijaz Khan,False,4,False,False
+Rahul Bhatt,True,4,False,False
+Tia Bajpai,False,4,False,False
+Geetanjali Thapa,False,4,False,False
+Vikas Bhalla,False,4,False,False
+Vivaan Shah,False,4,False,False
+Mahek Chahal,False,4,False,False
+Abhimanyu Dassani,False,4,False,True
+Masumeh Makhija,False,4,False,False
+Gurleen Chopra,False,4,False,False
+Puneet Issar,False,4,False,False
+Flora Saini,False,4,False,False
+Raashii Khanna,False,4,False,False
+Daisy Shah,False,4,False,False
+Mohan Joshi,False,4,False,False
+Arzoo Govitrikar,False,4,False,False
+Sanjeeda Sheikh,False,4,False,False
+Cyrus Sahukar,False,4,False,False
+Zoa Morani,False,4,False,False
+Vikram Singh,False,4,False,False
+Suman Ranganathan,False,4,False,False
+Anant Mahadevan,False,4,False,False
+Parmeet Sethi,False,4,False,False
+Mita Vasisht,False,4,False,False
+Joy Sengupta,False,4,False,False
+Shishir Sharma,False,4,False,False
+Kishor Kadam,False,4,False,False
+Avinash Dhyani,False,4,False,False
+Prit Kamani,False,4,False,False
+Farooq Sheikh,False,4,False,False
+Monika Panwar,False,4,False,False
+Isha Talwar,False,4,False,False
+Shreya Dhanwanthary,False,4,False,False
+Shawar Ali,False,4,False,False
+Ragini Khanna,False,4,False,False
+Anita Raj,False,4,False,False
+Sara Khan,False,4,False,False
+Vishal Jethwa,False,4,False,False
+Rohan Mehra,False,4,False,False
+Ashwini Kalsekar,False,4,False,False
+Parikshit Sahni,False,4,False,False
+Ratna Pathak,False,4,False,False
+Mohnish Behl,False,4,False,True
+Sudha Chandran,False,3,False,False
+Smiriti Kalra,False,3,False,False
+Linda Arsenio,False,3,False,False
+Chinmay Mandlekar,False,3,False,False
+Jay Bhanushali,False,3,False,False
+Swastika Mukherjee,False,3,False,False
+Sumeet Raghavan,False,3,False,False
+Vikas Kumar,False,3,False,False
+Aditi Govitrikar,False,3,False,False
+Shagufta Ali,False,3,False,False
+Meiyang Chang,False,3,False,False
+Aamna Sharif,False,3,False,False
+Rufy Khan,False,3,False,False
+Vedika Pinto,False,3,False,False
+Harsh Mayar,False,3,False,False
+Rajesh Kumar,False,3,False,False
+Rohit Saraf,False,3,False,False
+Kaveri Jha,False,3,False,False
+Patralekha,False,3,False,False
+Kavi Shastri,False,3,False,False
+Shalini Pandey,False,3,False,False
+Sapna Pabbi,False,3,False,False
+Pratima Kazmi,False,3,False,False
+Elena Kazan,False,3,False,False
+Zain Khan,False,3,False,False
+Vinay Anand,False,3,False,False
+Tara Alisha Berry,False,3,False,False
+Pankaj Berry,False,3,False,False
+Babil Khan,True,3,False,False
+Aayush Sharma,False,3,False,False
+Veena Malik,False,3,False,False
+Utkarsh Sharma,False,3,False,False
+Neena Kulkarni,False,3,False,False
+Rinku Rajguru,False,3,False,False
+Suhail Nayyar,False,3,False,False
+Avneet Kaur,False,3,False,False
+Bhagyashree,False,3,False,True
+Prabhas,False,3,False,False
+Shweta Menon,False,3,False,False
+Alankrita Sahai,False,3,False,False
+Tina Desai,False,3,False,False
+Pooja Bhatt,True,3,False,False
+Harshvardhan Kapoor,True,3,False,False
+Saswata Chatterjee,False,3,False,False
+Deepika Amin,False,3,False,False
+Ashok Samarth,False,3,False,False
+Shantanu Maheshwari,False,3,False,False
+Athiya Shetty,True,3,False,False
+Karanvir Bohra,False,3,False,False
+Niharika Singh,False,3,False,False
+Barkha Singh,False,3,False,False
+Avtar Gill,False,3,False,False
+Dev Anand,False,3,False,True
+Barry John,False,3,False,False
+Aasif Sheikh,False,3,False,False
+Sidhant Gupta,False,3,False,False
+Monica Dogra,False,3,False,False
+Pranutan Bahl,False,3,False,True
+Natasha Rastogi,False,3,False,False
+Karanvir Sharma,False,3,False,False
+Mohanlal,False,3,False,True
+Apoorva Agnihotri,False,3,False,False
+Vibha Chibber,False,3,False,False
+Tota Roy Chowdhury,False,3,False,True
+Prakash Jha,False,3,False,False
+Yusuf Hussain,False,3,False,False
+Mukul Dev,False,3,False,False
+Shataf Figar,False,3,False,False
+Gashmeer Mahajani,False,3,False,False
+Tania Zaetta,False,3,False,False
+Ali Haji,False,3,False,False
+Vishwajeet Pradhan,False,3,False,False
+Apoorva Arora,False,3,False,False
+Pramod Moutho,False,3,False,False
+Saloni Batra,False,3,False,False
+Ranjeet,False,3,False,False
+Sheetal Thakur,False,3,False,False
+Vikas Verma,False,3,False,False
+Sadiya Siddiqui,False,3,False,False
+Achint Kaur,False,3,False,False
+Rukhsar Rehman,False,3,False,False
+Tej Sapru,False,3,False,False
+Manoj Bakshi,False,3,False,False
+Urvashi Sharma,False,3,False,True
+Suraj Sharma,False,3,False,False
+Fawad Khan,False,3,False,True
+Shatrughan Sinha,False,3,False,True
+Niharica Raizada,False,3,False,False
+Imaad Shah,False,3,False,False
+Shweta Bhardwaj,False,3,False,False
+Sridevi,False,3,False,True
+Atul Agnihotri,False,3,False,False
+Roshan Mathew,False,3,False,False
+Mahesh Thakur,False,3,False,False
+Neetu Singh,False,3,False,True
+Razzak Khan,False,3,False,False
+Kusha Kapila,False,3,False,False
+Hazel Crowney,False,3,False,False
+Rani Mukherjee,False,3,False,False
+Girish Karnad,False,3,False,True
+Priya Banerjee,False,3,False,False
+Ekavali Khanna,False,3,False,False
+Karishma Tanna,False,3,False,False
+Shazahn Padamsee,False,3,False,False
+Raj Arjun,False,3,False,True
+Salil Acharya,False,3,False,False
+Anjan Srivastav,False,3,False,False
+Rehan Khan,False,3,False,False
+Santosh Juvekar,False,3,False,False
+Suvinder Vicky,False,3,False,False
+Sheeba Chadha,False,3,False,False
+Sunny Hinduja,False,3,False,False
+Chitrangda Singh,False,3,False,False
+Amar Upadhyay,False,3,False,False
+Gaurav Pandey,False,3,False,False
+Rushad Rana,False,3,False,False
+Vivek Shauq,False,3,False,False
+Aanjjan Srivastav,False,3,False,False
+Usha Jadhav,False,3,False,False
+Rajendra Gupta,False,3,False,False
+Sameer Dharmadhikari,False,3,False,False
+Feroz Khan,False,3,False,True
+Plabita Borthakur,False,3,False,False
+Varun Badola,False,3,False,False
+Reecha Sinha,False,3,False,False
+Lauren Gottlieb,False,3,False,False
+Ninad Kamat,False,3,False,False
+Sarah-Jane Dias,False,3,False,False
+Rajesh Khattar,False,3,False,False
+Harish Khanna,False,3,False,False
+Paresh Ganatra,False,3,False,False
+Kirti Reddy,False,3,False,False
+Shweta Tiwari,False,3,False,False
+Yatin Karyekar,False,3,False,False
+Denzil Smith,False,3,False,False
+Sandeepa Dhar,False,3,False,True
+Nitesh Pandey,False,3,False,False
+Sahil Anand,False,3,False,False
+Aashim Gulati,False,3,False,False
+Vikas Anand,False,3,False,False
+Jatin Grewal,False,3,False,False
+Inayat Verma,False,3,False,False
+Aarti Chhabria,False,3,False,False
+Sharvari,False,3,False,False
+Aarya Babbar,False,3,False,False
+Ishita Raj Sharma,False,3,False,False
+Kiran Juneja,False,3,False,False
+Faisal Malik,False,3,False,False
+Zaira Wasim,False,3,False,True
+Bharati Achrekar,False,3,False,False
+Khushi Kapoor,True,3,False,False
+Tushar Pandey,False,3,False,False
+Meher Vij,False,3,False,False
+Prosenjit Chatterjee,False,3,False,False
+Mansi Multani,False,3,False,False
+Aindrita Ray,False,3,False,False
+Kubbra Sait,False,3,False,False
+Sachiin Joshi,False,3,False,False
+Akshay Kapoor,False,3,False,False
+Tridha Choudhury,False,3,False,False
+Madhavan,False,3,False,False
+Raai Laxmi,False,3,False,False
+Ashish Chaudhary,False,3,False,False
+Swini Khara,False,3,False,False
+Pallavi Sharda,False,3,False,False
+Tanuj Virwani,False,3,False,False
+Inaamulhaq,False,3,False,False
+Anita Hassanandani,False,3,False,False
+Jiah Khan,False,3,False,True
+Ishita Sharma,False,3,False,False
+Abhay Verma,False,3,False,False
+Karan Kundra,False,3,False,False
+Rajit Kapoor,False,3,False,False
+Shivaji Satam,False,3,False,False
+Karan Khanna,False,3,False,False
+Raju Kher,False,3,False,False
+Aamir Ali,False,3,False,False
+Heena Panchal,False,3,False,False
+Navneet Nishan,False,3,False,False
+Kitu Gidwani,False,3,False,False
+Sushmita Mukherjee,False,3,False,False
+Smilie Suri,False,3,False,False
+Ankita Lokhande,False,3,False,False
+Anant V Joshi,False,3,False,False
+Rajeev Mehta,False,3,False,False
+Vijay Sethupathi,False,3,False,False
+Mansi Dovhal,False,3,False,False
+Vrajesh Hirjee,False,3,False,False
+Shivaleeka Oberoi,False,3,False,True
+Nivedita Bhattacharya,False,3,False,False
+Manav Vij,False,3,False,False
+Shadab Kamal,False,3,False,False
+Elli AvrRam,False,3,False,False
+Kapil Jhaveri,False,3,False,False
+Tara Deshpande,False,3,False,False
+Yash Pandit,False,3,False,False
+Gavie Chahal,False,3,False,False
+Ajaz Khan,False,3,False,False
+Snehal Dabi,False,3,False,False
+Simran Kaur Mundi,False,3,False,False
+Simran,False,3,False,True
+Nidhi Singh,False,3,False,False
+Ankur Nayyar,False,2,False,False
+Aksha Pardasany,False,2,False,False
+Saadhika Randhawa,False,2,False,False
+Shilpa Anand,False,2,False,False
+Jaya Prada,False,2,False,True
+Sarah Jane Dias,False,2,False,False
+Monica Bedi,False,2,False,False
+Sheetal Singh,False,2,False,False
+Prabal Panjabi,False,2,False,False
+Sanjay Bishnoi,False,2,False,False
+Bikramjeet Kanwarpal,False,2,False,False
+Digangana Suryavanshi,False,2,False,False
+Jamnadas Majethia,False,2,False,False
+Shivam Bhaargava,False,2,False,False
+Manurishi Chaddha,False,2,False,False
+Anuradha Menon,False,2,False,False
+Alok Chaturvedi,False,2,False,False
+Shamim Khan,False,2,False,False
+Sonia Balani,False,2,False,False
+Jagapathi Babu,False,2,False,False
+Mohammad Samad,False,2,False,False
+Mamta Kulkarni,False,2,False,False
+Pranati Rai Prakash,False,2,False,False
+Vikram Chatwal,False,2,False,False
+Karan Patel,False,2,False,False
+Siddhi Idnani,False,2,False,False
+Tanvi Vyas,False,2,False,False
+Mahakshay Chakraborty,False,2,False,False
+Ferena Wazeir,False,2,False,False
+Uday Sabnis,False,2,False,False
+Dwij Yadav,False,2,False,False
+Sakshi Gulati,False,2,False,False
+Nausheen Ali Sardar,False,2,False,False
+Vedang Raina,False,2,False,False
+Sangram Singh,False,2,False,False
+Mia Uyeda,False,2,False,False
+Mika Singh,False,2,False,False
+Malavika Mohanan,False,2,False,False
+Parvathy Omanakuttan,False,2,False,False
+Sasha Agha,False,2,False,False
+Krushna Abhishek,False,2,False,False
+Shekhar Kapur,False,2,False,False
+Vedita Pratap Singh,False,2,False,False
+Abhilash Chaudhary,False,2,False,False
+Dara Singh,False,2,False,False
+Priyanka Kothari,False,2,False,False
+Tejaswini Kolhapure,False,2,False,False
+Ashima Bhalla,False,2,False,False
+Sanjay Narvekar,False,2,False,True
+Rasheed Naz,False,2,False,False
+Priya Bapat,False,2,False,False
+Taaruk Raina,False,2,False,False
+Vaibhav Jhalani,False,2,False,False
+Dhairya Karwa,False,2,False,False
+Meera Vasudevan,False,2,False,False
+Rajendranath Zutshi,False,2,False,False
+Vivek Dahiya,False,2,False,False
+Ishitta Arun,False,2,False,False
+Swati Kapoor,False,2,False,False
+Aparna Bajpai,False,2,False,False
+Vivek Madan,False,2,False,False
+Madalasa Sharma,False,2,False,False
+Pinky Rajput,False,2,False,False
+Zarine Khan,False,2,False,False
+Chhaya Kadam,False,2,False,False
+Jaya Bhattacharya,False,2,False,False
+Arvind Swami,False,2,False,False
+Vikram,False,2,False,False
+Naseer Abdullah,False,2,False,False
+Anurag Sinha,False,2,False,False
+Rahul Pendkalkar,False,2,False,False
+Palash Sen,False,2,False,False
+Sunidhi Chauhan,False,2,False,False
+Reyhna Malhotra,False,2,False,False
+Naina Ganguly,False,2,False,False
+Tanuja,False,2,False,True
+Ipshita Chakraborty Singh,False,2,False,False
+Harrdy Sandhu,False,2,False,False
+J. D. Chakravarthy,False,2,False,False
+Shikha Talsania,False,2,False,False
+Dinesh Lamba,False,2,False,False
+Amrit Maghera,False,2,False,False
+Jassie Gill,False,2,False,False
+Narayani Shastri,False,2,False,False
+Junaid Khan,True,2,False,False
+Ravi Gossain,False,2,False,False
+Sadhana Singh,False,2,False,False
+Deepshika,False,2,False,False
+Vikas Sethi,False,2,False,False
+Suparna Marwah,False,2,False,False
+Bhoomika Chawla,False,2,False,False
+Vijayant Kohli,False,2,False,False
+Salman Yusuff Khan,False,2,False,False
+Sumit Nijhawan,False,2,False,False
+Smita Tambe,False,2,False,False
+Gurdas Maan,False,2,False,False
+Ayesha Kapur,False,2,False,True
+Amar Babaria,False,2,False,False
+Sukant Goel,False,2,False,False
+Arvind Swamy,False,2,False,False
+Rasika Duggal,False,2,False,False
+Parth Samthaan,False,2,False,False
+Amita Pathak,False,2,False,False
+Sparsh Srivastav,False,2,False,False
+Girish Kumar,False,2,False,False
+Manisha Kelkar,False,2,False,False
+Devoleena Bhattacharjee,False,2,False,False
+Shiv Darshan,False,2,False,False
+Delnaaz Irani,False,2,False,False
+Nikhil Pandey,False,2,False,False
+Uvika Choudhary,False,2,False,False
+Andrea Jeremiah,False,2,False,False
+Pankaj Kapoor,False,2,False,False
+Elli Avram,False,2,False,False
+Rashami Desai,False,2,False,False
+Satyadeep Mishra,False,2,False,False
+Pradeep Kharab,False,2,False,False
+Angira Dhar,False,2,False,False
+Nafisa Ali,False,2,False,False
+Randheer Rai,False,2,False,False
+Rituraj Singh,False,2,False,False
+Sunita Rajwar,False,2,False,False
+Arjun Fauzdar,False,2,False,False
+Ankur Bhatia,False,2,False,False
+Adi Irani,False,2,False,False
+Ravi Kissen,False,2,False,False
+Farooq Shaikh,False,2,False,False
+Voice-over by,False,2,False,False
+Monali Thakur,False,2,False,False
+Sonu Nigam,False,2,False,False
+Diana Khan,False,2,False,False
+Luv Sinha,True,2,False,False
+Raqesh Bapat,False,2,False,False
+Varun Buddhadev,False,2,False,False
+Karan Kapadia,False,2,False,False
+Vishakha Singh,False,2,False,False
+Karishma,False,2,False,False
+Amir Dalvi,False,2,False,False
+Palak Tiwari,False,2,False,False
+Pooja Thakur,False,2,False,False
+Svar Kamble,False,2,False,False
+Zohra Sehgal,False,2,False,False
+Pranitha Subhash,False,2,False,False
+Zulfi Syed,False,2,False,False
+Devansh Doshi,False,2,False,False
+Adhvik Mahajan,False,2,False,False
+Prashant Raj Sachdev,False,2,False,False
+Neil Mukesh,False,2,False,False
+Kal Penn,False,2,False,False
+Satyajeet Dubey,False,2,False,False
+Vega Tamotia,False,2,False,False
+Ishrat Ali,False,2,False,False
+Alyy Khan,False,2,False,False
+Mona Ambegaonkar,False,2,False,False
+Shreya Sharma,False,2,False,False
+Tripta Parashar,False,2,False,False
+Chetan Pandit,False,2,False,False
+Shibani Bedi,False,2,False,False
+Elnaaz Norouzi,False,2,False,False
+Shaurya Chauhan,False,2,False,False
+Shekhar Suman,False,2,False,False
+Vicky Ahuja,False,2,False,False
+Ankur Vikal,False,2,False,False
+Gabriela Bertante,False,2,False,False
+Shashi Bhushan,False,2,False,False
+K.K. Raina,False,2,False,False
+Piaa Bajpai,False,2,False,False
+Harsh Nagar,False,2,False,False
+Naveen Kasturia,False,2,False,False
+Anya Singh,False,2,False,False
+Anupama Verma,False,2,False,False
+Divya Menon,False,2,False,False
+Gizele Thakral,False,2,False,False
+Sukhottam Insan,False,2,False,False
+Mishti,False,2,False,False
+Boloram Das,False,2,False,False
+Nakul Vaid,False,2,False,False
+Chahat Khanna,False,2,False,False
+A. K. Hangal,False,2,False,False
+Zaheer Iqbal,False,2,False,False
+Dilip Prabhavalkar,False,2,False,False
+Sonali Sachdev,False,2,False,False
+Kainaat Arora,False,2,False,False
+Honeypreet Insan,False,2,False,False
+Anindita Nayar,False,2,False,False
+Gauri Karnik,False,2,False,False
+Sohaila Kapur,False,2,False,False
+Sarfaraz Khan,False,2,False,False
+Suzanna Mukherjee,False,2,False,False
+Mohsin Akhtar,False,2,False,False
+Alexx O'Nell,False,2,False,False
+Sumit Suri,False,2,False,False
+Siddharth,False,2,False,True
+Gippy Grewal,False,2,False,False
+Ankur Rathee,False,2,False,False
+Danny Saru,False,2,False,False
+Navneet Kaur,False,2,False,False
+Anushka Manchanda,False,2,False,False
+Shruti Bapna,False,2,False,False
+Neelu Kohli,False,2,False,False
+Izabelle Leite,False,2,False,False
+Deepak Antani,False,2,False,False
+Bijou Thaangjam,False,2,False,False
+Sulagna Panigrahi,False,2,False,False
+Meera,False,2,False,False
+Hina Khan,False,2,False,False
+Rajesh Shringarpure,False,2,False,False
+Tara D'Souza,False,2,False,False
+Tina Rana,False,2,False,False
+Deepraj Rana,False,2,False,False
+Amit Kumar Vashisth,False,2,False,False
+Navni Parihar,False,2,False,False
+Karan Kundrra,False,2,False,False
+Pankaj Jha,False,2,False,False
+Deepshikha Nagpal,False,2,False,False
+Aadar Jain,True,2,False,False
+Karishma Sharma,False,2,False,False
+Vivek Mushran,False,2,False,False
+Master Ali Haji,False,2,False,False
+Sadha,False,2,False,False
+Ash Chandler,False,2,False,False
+Palomi Ghosh,False,2,False,False
+Nazia Hussain,False,2,False,False
+Ritika Singh,False,2,False,False
+Khalid Siddiqui,False,2,False,False
+Sonia Kapoor,False,2,False,False
+Anant Jog,False,2,False,False
+Sharmin Segal,False,2,False,True
+Rekha Rana,False,2,False,False
+Thakur Anoop Singh,False,2,False,False
+Avika Gor,False,2,False,False
+Asha Negi,False,2,False,False
+Madhoo,False,2,False,True
+Sadia Khateeb,False,2,False,True
+Rohit Kokate,False,2,False,False
+Neha Oberoi,False,2,False,False
+Niki Walia,False,2,False,False
+Rajkumar Rao,False,2,False,True
+Gunjan Malhotra,False,2,False,False
+Rishi Verma,False,2,False,False
+Arun Bakshi,False,2,False,False
+Kritika Kamra,False,2,False,False
+Seema Azmi,False,2,False,False
+Vivek Vaswani,False,2,False,False
+Akshay Anand,False,2,False,False
+Pradeep Rawat,False,2,False,False
+Aanchal Munjal,False,2,False,False
+Akshara Haasan,False,2,False,False
+Arbaaz Ali Khan,False,2,False,False
+Nishant Singh Malkani,False,2,False,False
+Soham Shah,False,2,False,False
+Dulquer Salmaan,False,2,False,False
+Amit Behl,False,2,False,False
+Raju Srivastav,False,2,False,False
+Aditya Raj Kapoor,False,2,False,False
+Ajay Jadeja,False,2,False,False
+Rohit Suresh Saraf,False,2,False,False
+Dev Sharma,False,2,False,False
+Manorama,False,2,False,False
+Monalisa,False,2,False,False
+Rohan Shah,False,2,False,False
+Nassar Abdullah,False,2,False,False
+Saba Azad,False,2,False,False
+Pankaj Dheer,False,2,False,False
+Aditi Vasudev,False,2,False,False
+A.K. Hangal,False,2,False,False
+Gaurav Chanana,False,2,False,False
+Paras Arora,False,2,False,False
+Narendra Jha,False,2,False,False
+Akash Thosar,False,2,False,False
+Rupinder Nagra,False,2,False,False
+Rajat Rawail,False,2,False,False
+Mita Vashisht,False,2,False,False
+Padmini Kolhapure,False,2,False,True
+Zain Khan Durrani,False,2,False,False
+Sarala Kariyawasam,False,2,False,False
+Suchitra Krishnamurthy,False,2,False,False
+Aushima Sawhney,False,2,False,False
+Salil Ankola,False,2,False,False
+Saurabh Goyal,False,2,False,False
+Rajbeer Singh,False,2,False,False
+Roopa Ganguly,False,2,False,False
+Shreyas Pardiwalla,False,2,False,False
+Kunal Vijaykar,False,2,False,False
+Riddhi Dogra,False,2,False,False
+Gautam Gulati,False,2,False,False
+Nishigandha Wad,False,2,False,False
+Sheena Bajaj,False,2,False,False
+Vikas Giri,False,2,False,False
+Chandrachoor Rai,False,2,False,False
+Girish Kulkarni,False,2,False,False
+Anita Kanwar,False,2,False,True
+Rajesh Khera,False,2,False,False
+Arfi Lamba,False,2,False,False
+Nathalia Kaur,False,2,False,False
+Jatin Goswami,False,2,False,False
+Chunky Panday,False,2,False,False
+Sohaila Kapoor,False,2,False,False
+Sumeet Nijhawan,False,2,False,False
+Zuber K. Khan,False,2,False,False
+Karan Deol,True,2,False,False
+Vidyut Jamwal,False,2,False,False
+Akshay Singh,False,2,False,False
+Atul Srivastav,False,2,False,False
+Medha Shankar,False,2,False,False
+Lalit Behl,False,2,False,False
+Aaishvary Thackeray,False,2,False,False
+Shilpa Shirodkar,False,2,False,True
+Tenzin Dalha,False,2,False,False
+Patralekha Paul,False,2,False,False
+Jassi Gill,False,2,False,False
+Varun Thakur,False,2,False,False
+Vikas Shrivastav,False,2,False,False
+Asin Thottumkal,False,2,False,True
+Shubh Mukherjee,False,2,False,False
+Kamlesh Sawant,False,2,False,False
+Parul Gulati,False,2,False,False
+Shehnaaz Gill,False,2,False,False
+Ravi Kale,False,2,False,False
+Rajeev Raj,False,2,False,False
+Ankur Khanna,False,2,False,False
+Aditya Lakhia,False,2,False,False
+Warina Hussain,False,2,False,False
+Kainaz Motivala,False,2,False,False
+Surveen Chawla,False,2,False,False
+Ishita Dutta,False,2,False,False
+Supriya Shukla,False,2,False,False
+Tina Ahuja,False,2,False,False
+Tanya Maniktala,False,2,False,False
+Preeti Desai,False,2,False,False
+Anil George,False,2,False,False
+Sonali Raut,False,2,False,False
+Salim Diwan,False,2,False,False
+Caterina Murino,False,2,False,False
+Shruti Sharma,False,2,False,False
+Krystle D'Souza,False,2,False,False
+Ibrahim Ali Khan,True,2,False,False
+Manish Chaudhary,False,2,False,False
+Nikhat Khan,False,2,False,False
+Ankita Makwana,False,2,False,False
+Vijay Patkar,False,2,False,False
+Megha Akash,False,2,False,False
+Muzammil Ibrahim,False,2,False,False
+Pragya Jaiswal,False,2,False,False
+Chetna Pande,False,2,False,False
+Sonya Jehan,False,2,False,False
+Mandana Karimi,False,2,False,False
+Ehsaan Qureshi,False,2,False,False
+Nazneen Patel,False,2,False,False
+Vikram Kapadia,False,2,False,False
+Gulzar Inder Chahal,False,2,False,False
+Amin Gazi,False,2,False,False
+Khushboo Upadhyay,False,2,False,False
+Charu Shankar,False,2,False,False
+Shama Sikander,False,2,False,False
+Shirley Setia,False,2,False,False
+Ishita Chauhan,False,2,False,False
+Nirmal Pandey,False,2,False,False
+Jatin Khurana,False,2,False,False
+Zoya Afroz,False,2,False,False
+Mammootty,False,2,True,False
+Cyrus Broacha,False,2,False,False
+Roshni Chopra,False,2,False,False
+Gaurav Arora,False,2,False,False
+Aditya Kapadia,False,2,False,False
+Jyothika,False,2,False,True
+Prakash Belawadi,False,2,False,False
+Abhishek Chauhan,False,2,False,False
+Vaibhav Tatwawadi,False,2,False,False
+Kiran Karmarkar,False,2,False,False
+Humayun Saeed,False,2,False,False
+Auritra Ghosh,False,2,False,False
+Siddharth Makkar,False,2,False,False
+Teeshay Shah,False,2,False,False
+Ihana Dhillon,False,2,False,False
+Aadil Khan,False,2,False,False
+Siddharth Koirala,False,2,False,False
+Nyra Banerjee,False,2,False,False
+Samir Kochhar,False,2,False,False
+Aditya Rawal,False,2,False,True
+Shashank Udapurkar,False,2,False,False
+Pooja Pandey,False,2,False,False
+Moushumi Chatterjee,False,2,False,True
+Ayaz Khan,False,2,False,False
+Madhurima Tuli,False,2,False,False
+Vikram Kumar,False,2,False,False
+Aruna Shields,False,2,False,False
+Aslam Khan,False,2,False,False
+Ruhi Singh,False,2,False,False
+Sudheer Babu,False,2,False,False
+Rucha Inamdar,False,2,False,False
+Subodh Bhave,False,2,False,False
+Neha Chauhan,False,2,False,False
+Arjumman Mughal,False,2,False,False
+Varsha Usgaonkar,False,2,False,False
+Anusha Dhandekar,False,2,False,False
+Chandan Roy,False,2,False,False
+Geeta Basra,False,2,False,False
+Naved Aslam,False,2,False,False
+Mouli Ganguly,False,2,False,False
+Sonia Mann,False,2,False,False
+Abhinav Shukla,False,2,False,False
+Mihir Ahuja,False,2,False,False
+Kavita Radheshyam,False,2,False,False
+Rupa Bhimani,False,2,False,False
+Prajakta Koli,False,2,False,True
+Saloni Aswani,False,2,False,False
+Abhishek Kumar,False,2,False,False
+Mahima Makwana,False,2,False,False
+Rashmi Somvanshi,False,2,False,False
+Anjali Singh,False,1,False,False
+Reena Aggarwal,False,1,False,False
+Rajveer Singh,False,1,False,False
+Sampat Pal Devi,False,1,False,False
+Neha Ghelot,False,1,False,False
+Gehana Vasisth,False,1,False,False
+Saadhika,False,1,False,False
+Shahib Chopra,False,1,False,False
+Nandini Vaid,False,1,False,False
+Afiq Muiz,False,1,False,False
+Dinesh Hingoo,False,1,False,False
+Shilpa Saklani,False,1,False,False
+Khayali,False,1,False,False
+Vaidhei Singh,False,1,False,False
+Jamie Lever,False,1,False,False
+Jason Lewis,False,1,False,False
+Jyoti Gauba,False,1,False,False
+Sonia Birje,False,1,False,False
+Sophie Chaudhry,False,1,False,False
+Lehar Khan,False,1,False,False
+Benaf Dadachandji,False,1,False,False
+Gaurav Nanda,False,1,False,False
+Mann Patel,False,1,False,False
+Harsh Vashisht,False,1,False,False
+Saachi Tiwari,False,1,False,False
+Mohit Alawat,False,1,False,False
+Gaurav Paswala,False,1,False,False
+Yuki Ellias,False,1,False,False
+Aarav Negi,False,1,False,False
+Gagan Pradeep,False,1,False,False
+Nimisha Nair,False,1,False,False
+Sneha Dhabi,False,1,False,False
+Daivik Bhagela,False,1,False,False
+Priya Raina,False,1,False,False
+Ganesh Venkatraman,False,1,False,False
+Neha Dubey,False,1,False,False
+Ashar Shaikh,False,1,False,False
+Dhruv Jagasiya,False,1,False,False
+N. T. Rama Rao Jr.,False,1,False,False
+Natasha Fernandez &,False,1,False,False
+Om Kanojiya,False,1,False,False
+Tusharr Khanna,False,1,False,False
+Shubh Joshi,False,1,False,False
+Siddharth Gupta,False,1,False,False
+Aayushi Sharma,False,1,False,False
+Surbhi Jyoti,False,1,False,False
+Mrunmayee Lagoo,False,1,False,False
+Naren Kumar,False,1,False,False
+Ribbhu Mehra,False,1,False,False
+Abhilash Thapleyal,False,1,False,False
+Daisy Bopanna,False,1,False,False
+Sabah Kapoor,False,1,False,False
+Naga Chaitanya,False,1,False,False
+Vickrant Mahajan,False,1,False,False
+Lubna Salim,False,1,False,False
+Sachin Chaudhary,False,1,False,False
+Tota Roy Choudhury,False,1,False,False
+Saadat Khan,False,1,False,False
+Nagma,False,1,False,False
+Shenaz Treasuryvala,False,1,False,False
+Ananth Narayan Mahadevan,False,1,False,False
+Sylvester Stallone,False,1,False,False
+Vihaan Samat,False,1,False,False
+Chelsie Preston Crayford,False,1,False,False
+Puru Raaj Kumar,False,1,False,False
+Rachel Shelley,False,1,False,False
+Sakshi Sivanand,False,1,False,False
+Neeraj Ayush Pandey,False,1,False,False
+Arjun Radhakrishnan,False,1,False,False
+Chahatt Khanna,False,1,False,False
+Suhana Khan,True,1,False,False
+Swapna Nair,False,1,False,False
+Kavita Tripathi,False,1,False,False
+Arijita Roy,False,1,False,False
+Aayush Kumar,False,1,False,False
+Radha Bhatt,False,1,False,False
+Ruhani Sharma,False,1,False,False
+Dhritiman Chatterjee,False,1,False,False
+Ankush Mohit,False,1,False,False
+Osama bin Laden,False,1,False,False
+Mantra Mugdha,False,1,False,False
+Madhavi Singh,False,1,False,False
+Rishaab Chauhaan,False,1,False,False
+Rizwan Haider,False,1,False,False
+Simran Deep,False,1,False,False
+Ekta Sawant,False,1,False,False
+Himansu Bhatt,False,1,False,False
+Siddharth Van Shipley,False,1,False,False
+Anuj Sachdeva,False,1,False,False
+Atul Mongia,False,1,False,False
+Chetanya Adib,False,1,False,False
+Puneet Singh Ratn,False,1,False,False
+Arya Mitra Sharma,False,1,False,False
+Soma Goyal,False,1,False,False
+Aarti Agarwal,False,1,False,False
+Pitobash Tripathy,False,1,False,True
+Fazlur Rahman Babu,False,1,False,False
+Sachi Ruia,False,1,False,False
+Smriti Kashyap,False,1,False,False
+Kiren Jog,False,1,False,False
+Sayandeep Sengupta,False,1,False,False
+Sindhu Tolani,False,1,False,False
+Vekeana Dhillon,False,1,False,False
+Girija Oak,False,1,False,False
+Angel,False,1,False,False
+Kartik Tiwari,False,1,False,False
+Ishita Salot,False,1,False,False
+Varun Kapoor,False,1,False,False
+Nidhi Agerwal,False,1,False,False
+Kushal Tandon,False,1,False,False
+Jaz Pandher,False,1,False,False
+Julian Sands,False,1,False,False
+Karan Grover,False,1,False,False
+Jaanyaa Joshi,False,1,False,False
+Gopal Thakur,False,1,False,False
+Neelay Mehendale,False,1,False,False
+Vatsal Seth,False,1,False,False
+Anuj Saini,False,1,False,False
+Mischa Barton,False,1,False,False
+Vasanth Santosham,False,1,False,False
+Kamini Kaushal,False,1,False,True
+Shlokka Pandit,False,1,False,False
+Arshad Khan,False,1,False,False
+Beyounick,False,1,False,False
+Alisha Baig,False,1,False,False
+Rohitash Gaud,False,1,False,False
+Bhavesh Kumar,False,1,False,False
+Ekta Singh,False,1,False,False
+Shefali Shetty,False,1,False,False
+Hardil Kanaba,False,1,False,False
+Nakul Roshan Sahdev,False,1,False,False
+Shardul Bharadwaj,False,1,False,False
+Sulabha Arya,False,1,False,False
+Jividha Sharma,False,1,False,False
+Aamir Raza Hussain,False,1,False,False
+Bharti Singh,False,1,False,False
+Daman Baggan,False,1,False,False
+Indrani Haldar,False,1,False,False
+Mukti Mohan,False,1,False,False
+Parul Yadav,False,1,False,False
+Sandesh Jadhav,False,1,False,False
+Pawan Chopra,False,1,False,False
+Yashaswini Dayama,False,1,False,False
+Ryanna Skye,False,1,False,False
+Neha Pendse,False,1,False,False
+Kenny Desai,False,1,False,False
+Master Abhishek Sharma,False,1,False,False
+Shekhar Ravjiani,False,1,False,False
+Tamanna Dipak,False,1,False,False
+Avinash Bhargava,False,1,False,False
+Hitesh Patel,False,1,False,False
+Aakash Sharma,False,1,False,False
+Sandhya Shetty,False,1,False,False
+Bhupendra Jadawat,False,1,False,False
+Uttkarsh Majumdar,False,1,False,False
+Sharbani Mukherji,False,1,False,False
+Samir Sharma,False,1,False,False
+Heenee Kaushik,False,1,False,False
+Kamaal Khan,False,1,False,False
+Shaleen Bhanot,False,1,False,False
+Manu Rishi Chadha,False,1,False,False
+Simran Sharma,False,1,False,False
+Sai Lokur,False,1,False,False
+Jigar Rupareliya,False,1,False,False
+Abhishek Duhan,False,1,False,False
+Sammir Dattani,False,1,False,False
+Puru Chibber,False,1,False,False
+Aditi Charak,False,1,False,False
+Kavi Raz,False,1,False,False
+Vishishtha Chawla,False,1,False,False
+Guru Randhawa,False,1,False,False
+Paresh Pahuja,False,1,False,False
+Varsha Rekhate,False,1,False,False
+Amanda Bhogal,False,1,False,False
+Tripta Chopra,False,1,False,False
+Mayur Patole,False,1,False,False
+Sunny Pawar,False,1,False,False
+Ashok Kumar,False,1,False,True
+Neel Motwani,False,1,False,False
+Siddharth Haldipur,False,1,False,False
+Mohan Kapoor,False,1,False,False
+Anaika Soti,False,1,False,False
+Pooja Bhalekar,False,1,False,False
+Gurpreet Ghuggi,False,1,False,False
+Shwetaabh Singh,False,1,False,False
+Atul Shrivastava,False,1,False,False
+Ashwin Chitale,False,1,False,False
+Tinu Verma,False,1,False,False
+Gautam Gupta,False,1,False,False
+Yash Soni,False,1,False,False
+Priyanka Mehta,False,1,False,False
+Ilene Hamann,False,1,False,False
+Amrita Chattopadhyay,False,1,False,False
+Talia Benson,False,1,False,False
+Riya Vij,False,1,False,False
+Viraaj Kumar,False,1,False,False
+Faezeh Jalali,False,1,False,False
+Gautam Vij,False,1,False,False
+Anmol Chopra,False,1,False,False
+Krishna Gautam,False,1,False,False
+Zhu Zhu,False,1,False,False
+Mrunmayi Deshpande,False,1,False,False
+Aparna Sharma,False,1,False,False
+Sunil Pal,False,1,False,False
+Saurabh Sachdeva,False,1,False,False
+Gitanjali Rao,False,1,False,True
+Lakshya,False,1,False,False
+Harshita Gaur,False,1,False,False
+Martin Sheen,False,1,False,False
+Nandish Singh,False,1,False,False
+Sapna Sand,False,1,False,False
+Ritisha Khaund,False,1,False,False
+Asseem Merchant,False,1,False,False
+Tariq Khan,False,1,False,False
+Rasika Joshi,False,1,False,False
+Bharti Soni,False,1,False,False
+Medha Shankr,False,1,False,False
+Mini Pandit,False,1,False,False
+Supriya Kumari,False,1,False,False
+Manish Bhawan,False,1,False,False
+Aarushi Sharma,False,1,False,False
+Manju,False,1,False,False
+Sheetal Bhavishi,False,1,False,False
+Anish Trivedi,False,1,False,False
+Mahender Nath,False,1,False,False
+Sunil Abhyankar,False,1,False,False
+Samarpan Singh,False,1,False,False
+Mohammed Faisal Usmani,False,1,False,False
+Rajiv Sethi,False,1,False,False
+Hitesh Agrawal,False,1,False,False
+Jayant Kripalani,False,1,False,False
+Mikhil Chindaramani,False,1,False,False
+Sudev Nair,False,1,False,False
+Karan Verma,False,1,False,False
+Ayesha Raza,False,1,False,False
+Ananya Khare,False,1,False,False
+Sweeny Khara,False,1,False,False
+Sayyeshaa,False,1,False,False
+Medha Rana,False,1,False,False
+Talha Arshad Reshi,False,1,False,False
+Angana Roy,False,1,False,False
+Sunny Prajapati,False,1,False,False
+Achintya Bose,False,1,False,False
+Harish Patel,False,1,False,False
+Vaibhav,False,1,False,False
+Sandeep Singh,False,1,False,False
+Cyli Khare,False,1,False,False
+Anant Joshi,False,1,False,False
+Julia Bliss,False,1,False,False
+Hitesh Malhan,False,1,False,False
+Pakhi Tyrewala,False,1,False,False
+Assad Raja,False,1,False,False
+Rajshree Thakur,False,1,False,False
+Ashwath Bhatt,False,1,False,False
+Manish Jhanjholia,False,1,False,False
+Himarsha Venkatsamy,False,1,False,False
+Naina Sareen,False,1,False,False
+Khali,False,1,False,False
+Aasif Khan,False,1,False,False
+Kuldeep Ruhil,False,1,False,False
+Sachin Parikh,False,1,False,False
+Ravi Bhatia,False,1,False,False
+Bachchan Pachera,False,1,False,False
+Shashank,False,1,False,False
+Rukshar Dhillon,False,1,False,False
+Sameer Aftab,False,1,False,False
+Ashish Sharma,False,1,False,False
+Jishnu Raghavan,False,1,False,False
+Yash Gulati,False,1,False,False
+Shruti Hassan,False,1,False,False
+Simran Bagga,False,1,False,False
+Farrukh Seyer,False,1,False,False
+Trisha Krishnan,False,1,False,False
+Farhan Khan,False,1,False,False
+Karan Singh Chhabra,False,1,False,False
+Shruti Marathe,False,1,False,False
+Rashmi Nigam,False,1,False,False
+Rajkumar Patra,False,1,False,False
+Genelia D'souza,False,1,False,False
+Mansha Bahl,False,1,False,False
+Reemma Sen,False,1,False,False
+Shubham Srivastav,False,1,False,False
+Ananya Pandey,False,1,False,False
+Shweta Agarwal,False,1,False,False
+Pia Bajpiee,False,1,False,False
+Saru Maini,False,1,False,False
+Reema Debnath,False,1,False,False
+Krishna Kumar,False,1,False,False
+Manasvi Mamgai,False,1,False,False
+Trisha Kale,False,1,False,False
+Shaji Chaudhary,False,1,False,False
+Sachin Chaubey,False,1,False,False
+Vishwa Mohan Badola,False,1,False,False
+Ashish Verma,False,1,False,False
+Bhagwan Tiwari,False,1,False,False
+Kunal Kohli,False,1,False,False
+Sayantika Banerjee,False,1,False,False
+Aishwarya Raj Bhakuni,False,1,False,False
+Diiva Dhanoya,False,1,False,False
+Pooja Bharti,False,1,False,False
+Amartya Ray,False,1,False,False
+Akash Chopra,False,1,False,False
+Vineeth,False,1,False,False
+Atul Tiwari,False,1,False,False
+Shubhi,False,1,False,False
+Yuvraj Menda,False,1,False,False
+Divya Singh,False,1,False,False
+Kamya Panjabi,False,1,False,False
+Mia Maelzer,False,1,False,False
+Girish Thapar,False,1,False,False
+Sahil Khattar,False,1,False,False
+Sakshi Shivanand,False,1,False,False
+Arjun Sarja,False,1,False,False
+Sumit Kaul,False,1,False,False
+Narendra Bedi,False,1,False,False
+Armaan Sandhu,False,1,False,False
+Churni Ganguly,False,1,False,False
+Ahaan Panday,True,1,False,False
+Hardik Sanghani,False,1,False,False
+Dhananjai Shrestha,False,1,False,False
+Meherzan Mazda,False,1,False,False
+Ibra Khan,False,1,False,False
+Kabir Nanda,False,1,False,False
+Kishore Anand Bhanushali,False,1,False,False
+Richa Kalra,False,1,False,False
+Anu Chengappa,False,1,False,False
+Kherin Sharma,False,1,False,False
+Ashnoor Kaur,False,1,False,False
+Lankesh Bhardwaj,False,1,False,False
+Yaushika Verma,False,1,False,False
+Venya,False,1,False,False
+Raj Kumar Yadav,False,1,False,False
+Amit Sharma,False,1,False,False
+Neelu Dogra,False,1,False,False
+Manish Bishla,False,1,False,False
+Shrey Chhabra,False,1,False,False
+Aditi Saigal,False,1,False,False
+Pooja Salvi,False,1,False,False
+Preet Kamal,False,1,False,False
+Pallavi Kulkarni,False,1,False,False
+Hussain Khan,False,1,False,False
+Anuj Saxena,False,1,False,False
+Abuli Mamaji,False,1,False,False
+Naila Grrewal,False,1,False,False
+Rahul Aggarwal,False,1,False,False
+Baba Sehgal,False,1,False,False
+Gamya Wijayadasa,False,1,False,False
+Siddharth Bharadwaj,False,1,False,False
+Vipasha Agarwal,False,1,False,False
+Giaa Manek,False,1,False,False
+Shayan Munshi,False,1,False,False
+Ronit Bose Roy,False,1,False,False
+Sunil Dutt,False,1,False,True
+Harsh Khurana,False,1,False,False
+Gaurav Shankar,False,1,False,False
+Toby Stephens,False,1,False,False
+Neeraj Singh,False,1,False,False
+Purbi Joshi,False,1,False,False
+Sunny Gill,False,1,False,False
+Ugam Khetani,False,1,False,False
+Vikas Bhardwaj,False,1,False,False
+Sudeepa Singh,False,1,False,False
+Kiku Sharda,False,1,False,False
+Deepak Shirke,False,1,False,False
+Kiran Jhanjhani,False,1,False,False
+Rishi Bhutani,False,1,False,False
+Aparajita,False,1,False,False
+Mallika Kapoor,False,1,False,False
+Abhay Joshi,False,1,False,False
+Ranbir Chakma,False,1,False,False
+Aditya Pratap Singh,False,1,False,False
+Nusrat Imrose Tisha,False,1,False,False
+Bupesh Singh,False,1,False,False
+Mohinder Gujral,False,1,False,False
+Aishwarya Sakhuja,False,1,False,False
+Meghna Malik,False,1,False,True
+Adivi Sesh,False,1,False,False
+Dilip Thadeshwar,False,1,False,False
+Neha Ahuja,False,1,False,False
+Hetal Gadda,False,1,False,False
+Rishi Saxena,False,1,False,False
+Sachin,False,1,False,False
+Cleo Issacs,False,1,False,False
+Swara Bhasker,False,1,False,False
+Arjun Gupta,False,1,False,False
+Rishma Malik,False,1,False,False
+Adithya Menon,False,1,False,False
+Devendra Chauhan,False,1,False,False
+Yash Daasguptaa,False,1,False,False
+Jay Thakkar,False,1,False,False
+Parvesh Rana,False,1,False,False
+Jaya Ahsan,False,1,False,False
+Eisha Singh,False,1,False,False
+Amit Khanna,False,1,False,False
+Arpita Pal,False,1,False,False
+Zoya Rathore,False,1,False,False
+Amy Aela,False,1,False,False
+Rinzing Denzongpa,False,1,False,False
+Dharmesh Vyas,False,1,False,False
+Sunil Sabarwal,False,1,False,False
+Pranay Pachauri,False,1,False,False
+Arjun Bijlani,False,1,False,False
+Atharvaa,False,1,False,False
+Mangal Singh,False,1,False,False
+Pradeep,False,1,False,False
+Sachin Khari,False,1,False,False
+Neetha Mohindra,False,1,False,False
+Raja Murad,False,1,False,False
+Nishma Soni,False,1,False,False
+Moon Moon Sen,False,1,False,False
+Rashmi Gautam,False,1,False,False
+Satnam Kaur,False,1,False,False
+Susheel Parashar,False,1,False,False
+Manish Chaudhari,False,1,False,False
+Riva Kishan,False,1,False,False
+Jagdeep,False,1,False,False
+Pratibha Ranta,False,1,False,True
+Sanjay Pandey,False,1,False,False
+Amit Riyaan,False,1,False,False
+Siddharth Menon,False,1,False,False
+Vishwas Kini,False,1,False,False
+Sayani Datta,False,1,False,False
+Sachet Engineer,False,1,False,False
+Irra Mor,False,1,False,False
+Rajkumar Kanojia,False,1,False,False
+Mighty Khan,False,1,False,False
+Priyanka Joshi,False,1,False,False
+Farid Amiri,False,1,False,False
+Dilip Shankar,False,1,False,False
+Aditi Inamdar,False,1,False,False
+Pankhuri Awasthy,False,1,False,False
+Anita Date,False,1,False,False
+Ashhmita,False,1,False,False
+Deepak Damle,False,1,False,False
+Shanmugarajan,False,1,False,False
+Jyoti Singh,False,1,False,False
+Gurfateh Pirzada,False,1,False,False
+Sameer Kochhar,False,1,False,False
+Prithvi Zutshi,False,1,False,False
+Sunny Sachdeva,False,1,False,False
+Sumeet Thakur,False,1,False,False
+Manoj Tiwari,False,1,False,False
+Preetika Chawla,False,1,False,False
+Rinku Patel,False,1,False,False
+Tejashri Pradhan,False,1,False,False
+Bo Derek,False,1,False,False
+Nivin Pauly,False,1,False,False
+Manish Wadhwa,False,1,False,False
+Ananya Chatterjee,False,1,False,False
+Raakhee Gulzar,False,1,False,True
+Prashanth Alexander,False,1,False,False
+Saanand Verma,False,1,False,False
+Vedant Bali,False,1,False,False
+Simer Motiani,False,1,False,False
+Ankita Goraya,False,1,False,False
+Priyank Sharma,False,1,False,False
+Durvesh Rameshwaram,False,1,False,False
+Kayoze Irani,False,1,False,False
+Akansha Ranjan Kapoor,False,1,False,False
+Sandeep Bharadwaj,False,1,False,False
+Harnaaz Sandhu,False,1,False,False
+Sharad Malhotra,False,1,False,False
+Mohd Nazim,False,1,False,False
+Pankaj Beri,False,1,False,False
+Kruttika Desai,False,1,False,False
+Prem Sagar Singh,False,1,False,False
+Kirti Adarkar,False,1,False,False
+Vishal Kaushik,False,1,False,False
+Namya Saxena,False,1,False,False
+Sarita Joshi,False,1,False,False
+Seerat Kapoor,False,1,False,False
+Sapna Bhavnani,False,1,False,False
+Rajeev Govinda Pillai,False,1,False,False
+Eden Shyodhi,False,1,False,False
+Adhir Bhat,False,1,False,False
+K K Binojee,False,1,False,False
+Mukul Nag,False,1,False,False
+Adarsh Gautam,False,1,False,False
+Hemant Deolekar,False,1,False,False
+Mawra Hocane,False,1,False,False
+Rahul Minz,False,1,False,False
+Raghuveer Yadav,False,1,False,False
+Santosh Barmola,False,1,False,False
+Ashish Bisht,False,1,False,False
+Shobhana,False,1,False,False
+Tullika Singh,False,1,False,False
+Sonia Armstrong,False,1,False,False
+Karan Wahi,False,1,False,False
+Eva Grover,False,1,False,False
+Ravish Desai,False,1,False,False
+Aman Yatan Verma,False,1,False,False
+Eva Ameet Pardeshi,False,1,False,False
+Vaibhav Raj Gupta,False,1,False,False
+Dinyar Contractor,False,1,False,False
+Sylvie,False,1,False,False
+Gaurav Dixit,False,1,False,False
+Isabelle Kaif,False,1,False,False
+Scarlett Wilson,False,1,False,False
+Dayanand Shetty,False,1,False,False
+Priti Soni,False,1,False,False
+Sahira Nair,False,1,False,False
+Prasanna Bisht,False,1,False,False
+Lavrenti Lopes,False,1,False,False
+Gulshan Rana,False,1,False,False
+Roselyn Dsouza,False,1,False,False
+Devshi Khanduri,False,1,False,False
+Humaima Malick,False,1,False,False
+Arhaan Pateel,False,1,False,False
+Deep,False,1,False,False
+Kahkkashan Aryan,False,1,False,False
+Shillpi Sharma,False,1,False,False
+Riyaz Anwar,False,1,False,False
+Rucha Gujarati,False,1,False,False
+Sparsh Suman,False,1,False,False
+Vyacheslav Razbegaev,False,1,False,False
+Sahil Gupta,False,1,False,False
+Ashok Bagla,False,1,False,False
+Richa Dixit,False,1,False,False
+Siddharth Narayan,False,1,False,False
+Ann Mitchai,False,1,False,False
+Jannat Zubair Rahmani,False,1,False,False
+Parzan Dastur,False,1,False,False
+Aryeman,False,1,False,False
+Diljohn Singh,False,1,False,False
+Meghna Patel,False,1,False,False
+Mike Tyson,False,1,False,False
+Nishan,False,1,False,False
+Munni Pankaj,False,1,False,False
+Manit Joura,False,1,False,False
+Shivam Patil,False,1,False,False
+Rajniesh Duggal,False,1,False,False
+Kashika Kapoor,False,1,False,False
+Kamaal Rashid Khan,False,1,False,False
+Raj Kumar,False,1,False,False
+Asad Mirza,False,1,False,False
+Nargis,False,1,False,True
+Suzanne Bernert,False,1,False,False
+Mahmood Hashmi,False,1,False,False
+Saloni Daini,False,1,False,False
+Lee Nicholas Harris,False,1,False,False
+Shradha Kaul,False,1,False,False
+Aanaahad,False,1,False,False
+Smriti Mishra,False,1,False,False
+Suzana Rodrigues,False,1,False,False
+Raghvendra Singh,False,1,False,False
+Siddhant Behl,False,1,False,False
+Vikas Srivastava,False,1,False,False
+Madan Jain,False,1,False,False
+Rohit Bal,False,1,False,False
+Siddharth Pandey,False,1,False,False
+Varun Khandelwal,False,1,False,False
+Megh Pant,False,1,False,False
+Harish Hariaudh,False,1,False,False
+Hritu Dudani,False,1,False,False
+Hiral Sidhu,False,1,False,False
+Sathyaraj,False,1,False,False
+Prashanth Gupta,False,1,False,False
+Maia Sethna,False,1,False,False
+Dilip Joshi,False,1,False,False
+Alex Peters,False,1,False,False
+Arvind Gaur,False,1,False,False
+Nadira Babbar,False,1,False,False
+Jackson Gallagher,False,1,False,False
+Aishwarya Devan,False,1,False,False
+Mimi Chakraborty,False,1,False,False
+Uday Kiran,False,1,False,False
+Tejaswi Dev Chaudhary,False,1,False,False
+Dick Mays,False,1,False,False
+Pransh Chopra,False,1,False,False
+Mausam Sharma,False,1,False,False
+Yashpal Sharm,False,1,False,False
+Sumit Gulati,False,1,False,False
+Badshah,False,1,False,False
+Shushant,False,1,False,False
+Samiksha Bhatnagar,False,1,False,False
+Parth Bhalerao,False,1,False,False
+Anokhi Dalvi,False,1,False,False
+Neelambari Bhattacharya,False,1,False,False
+Sumona Chakravarti,False,1,False,False
+Zayn Marie,False,1,False,False
+Amrith Jayan,False,1,False,False
+Vishnu Sharma,False,1,False,False
+Muzamil Ibrahim,False,1,False,False
+Nancy Brunetta,False,1,False,False
+Ash Tandon,False,1,False,False
+Nimrit Kaur Ahluwalia,False,1,False,False
+Yudi,False,1,False,False
+Swapnil Kotiwar,False,1,False,False
+Kota Srinivasa Rao,False,1,False,False
+Charmy Kaur,False,1,False,False
+Faiz Mohammed Khan,False,1,False,False
+Hussain Dalal,False,1,False,False
+Susan Brar,False,1,False,False
+Saptharishi Ghosh,False,1,False,False
+Isaiah,False,1,False,False
+Sukhwinder Singh,False,1,False,False
+Ram Kapur,False,1,False,False
+Sonia Albizuri,False,1,False,False
+Vinay Rana,False,1,False,False
+Dileesh Pothan,False,1,False,False
+Pooja Bose,False,1,False,False
+Preeti Sharma,False,1,False,False
+Shivankit Singh Parihar,False,1,False,False
+Sapan Krishna,False,1,False,False
+Myra Sareen,False,1,False,False
+Pankaj Sharma,False,1,False,False
+Beena Banerjee,False,1,False,False
+Vikrum Kumar,False,1,False,False
+Gaurav Kapur,False,1,False,False
+Gopi Desai,False,1,False,False
+Vishwanath Chatterjee,False,1,False,False
+Ashwini Kaul,False,1,False,False
+Vijay Deverakonda,False,1,False,False
+Misti Mukherjee,False,1,False,False
+Henna,False,1,False,False
+Amit Deondi,False,1,False,False
+Sayantani Nandi,False,1,False,False
+Kymsleen Kholie,False,1,False,False
+Rohit Raaj,False,1,False,False
+Sonal Madhushankar,False,1,False,False
+Amar Ali Malik,False,1,False,False
+Dev Gohar,False,1,False,False
+Jameel Khan,False,1,False,False
+Giselli Monteiro,False,1,False,False
+Mehak Manwani,False,1,False,False
+Anshul Chauhan,False,1,False,False
+Veer Pahariya,False,1,False,False
+Saksham Dayma,False,1,False,False
+Khả Ngân,False,1,False,False
+R Madhavan,False,1,False,False
+Isabelle Adjani,False,1,False,False
+Usha Bachani,False,1,False,False
+Rajinikanth,False,1,False,False
+Avantika Dassani,False,1,False,False
+Birbal,False,1,False,False
+Arti Puri,False,1,False,False
+Archana Joglekar,False,1,False,False
+Highphill Mathew,False,1,False,False
+Jimit Trivedi,False,1,False,False
+Poornima Indrajith,False,1,False,False
+Rrajesh Yadav,False,1,False,False
+Anupriya Kapoor,False,1,False,False
+Sanjeev Kumar,False,1,False,True
+Kaveri Kapur,False,1,False,False
+Mayur More,False,1,False,False
+Anant Nag,False,1,False,False
+Imran Hasnee,False,1,False,False
+Iravati Harshe,False,1,False,False
+Chittranjan Tripathy,False,1,False,False
+J. B. Rana,False,1,False,False
+Stuti Dwivedi,False,1,False,False
+Amit Gaur,False,1,False,False
+Amrin Qureshi,False,1,False,False
+Helen,False,1,False,True
+Jabbz Farooqi,False,1,False,False
+Janki Shah,False,1,False,False
+Nandini Rai,False,1,False,False
+Ashima Sharma,False,1,False,False
+Chirag Paswan,False,1,False,False
+Shobhit Rana,False,1,False,False
+Amrita Bedi,False,1,False,False
+Kanishka Sodhi,False,1,False,False
+Biswa Kalyan Rath,False,1,False,False
+Raja Chaudhary,False,1,False,False
+Babbu Mann,False,1,False,False
+Viidhi,False,1,False,False
+Geetika Tyagi,False,1,False,False
+Simrat Kaur,False,1,False,False
+Azhar,False,1,False,False
+Moonmoon Sen,False,1,False,False
+Nishanth,False,1,False,False
+Dev Gill,False,1,False,False
+Nimish Kathale,False,1,False,False
+Maninder Singh,False,1,False,False
+Tushar Jalota,False,1,False,False
+Parth Suri,False,1,False,False
+Diganth Manchale,False,1,False,False
+Ranjeeta Kaur,False,1,False,True
+Rasha Thadani,True,1,False,False
+Saranya Mohan,False,1,False,False
+Olexandra Semen,False,1,False,False
+Chitrapama Banerjee,False,1,False,False
+Kishori Ballal,False,1,False,False
+Raakhee,False,1,False,True
+Sameer Malhotra,False,1,False,False
+Kurangi Nagraj,False,1,False,False
+Suchitra Pillai,False,1,False,False
+Salima Raza,False,1,False,False
+Raju Shrivastav,False,1,False,False
+Nasir Khan,False,1,False,False
+Ammotje Mann,False,1,False,False
+Anup Shukla,False,1,False,False
+Yana Gupta,False,1,False,False
+Anuradha Mukherjee &,False,1,False,False
+Jacqueline Fitschi-Cornaz,False,1,False,False
+Sanjai Mishra,False,1,False,False
+Jolly Bhatia,False,1,False,False
+Anupama Agnihotri,False,1,False,False
+Samir Aftab,False,1,False,False
+Harsh Kumar,False,1,False,False
+Geetanjali Kulkarni,False,1,False,False
+Pallavi Ajay,False,1,False,False
+Siddharth Bodke,False,1,False,False
+Auroshikha Dey,False,1,False,False
+Michael Gambon,False,1,False,False
+Ranveer Brar,False,1,False,False
+Ali Larter,False,1,False,False
+Ashok Saraf,False,1,False,False
+Skand Thakur,False,1,False,False
+Prateek Chakraborty,False,1,False,False
+Nalneesh Neel,False,1,False,False
+S. M. Zaheer,False,1,False,False
+Dipanshi,False,1,False,False
+Payel Sarkar,False,1,False,False
+Chitrashi Rawat,False,1,False,False
+Razak Khan,False,1,False,False
+Tsahi Halevi,False,1,False,False
+Ayush Pathak,False,1,False,False
+Ramkrishan Dhakad,False,1,False,False
+Rahul Kumar,False,1,False,False
+Joy Mukherjee,False,1,False,False
+Amol Palekar,False,1,False,True
+Amber Upadhyay,False,1,False,False
+Manjul Aazad,False,1,False,False
+Twinkle Patel,False,1,False,False
+Vinod Rawat,False,1,False,False
+Alam Khan,False,1,False,False
+Harish Dudhade,False,1,False,False
+Arshi Khan,False,1,False,False
+Rukhsar,False,1,False,False
+Vaishwath Shankar,False,1,False,False
+Ravi Thakur,False,1,False,False
+Delzad Hiwale,False,1,False,False
+Puja Kanwal,False,1,False,False
+Danny Denzongappa,False,1,False,False
+Sana Govi,False,1,False,False
+Chandraprakash Thakur,False,1,False,False
+Renuka Shahane,False,1,False,True
+Yagya Bhasin,False,1,False,False
+Suruchi Aulakh,False,1,False,False
+Shrivallabh Vyas,False,1,False,False
+Shubhangi Dutt,False,1,False,False
+Rajesh Vivek,False,1,False,False
+Bhoop Yaduvanshi,False,1,False,False
+Ssmilley Suri,False,1,False,False
+Aditya Narayan,False,1,False,False
+Sonarika Bhadoria,False,1,False,False
+Jake Ryan,False,1,False,False
+Sanjay Mahanand,False,1,False,False
+Hirranya Ojha,False,1,False,False
+Prashil Rawat,False,1,False,False
+Yograj Singh,False,1,False,False
+Rijul Ray,False,1,False,False
+Ruchika Kapoor,False,1,False,False
+Satyajit Sharma,False,1,False,False
+Shubh,False,1,False,False
+Suruchi Saklani,False,1,False,False
+Yuvraj Kumar,False,1,False,False
+Hiten Kumar,False,1,False,False
+Kishore Kumar,False,1,False,False
+Simran Suri,False,1,False,False
+Jaid Shaikh,False,1,False,False
+Aadya Bedi,False,1,False,False
+Aditi Gowitrikar,False,1,False,False
+Ashoka Thackur,False,1,False,False
+Gopal Dutt,False,1,False,False
+Nikkitasha Marwaha,False,1,False,False
+Sharda Desoares,False,1,False,False
+Devendra Trivedi,False,1,False,False
+Abhijit Bhunia,False,1,False,False
+Faruk Kabir,False,1,False,False
+Sunil Sinha,False,1,False,False
+Sahher Bambba,False,1,False,False
+Sargun Mehta,False,1,False,False
+Anu Choudhury,False,1,False,False
+Rachel Sanchita Gupta,False,1,False,False
+Neha Thakur,False,1,False,False
+Saurabbh Roy,False,1,False,False
+Smita Gondkar,False,1,False,False
+Barkha Madan,False,1,False,False
+Kanchan Awasthi,False,1,False,False
+Ahwaan,False,1,False,False
+Musskan Sethi,False,1,False,False
+Kat Stewart,False,1,False,False
+Saharsh Shukla,False,1,False,False
+Vinay Shukla,False,1,False,False
+Remya Nambeesan,False,1,False,False
+Ramesh Sippy,False,1,False,False
+Erica Fernandes,False,1,False,False
+Anchal Dwivedi,False,1,False,False
+Nupur Sharma,False,1,False,False
+Aashish Vidyarthi,False,1,False,False
+Prashant Chianani,False,1,False,False
+Rishabh Sinha,False,1,False,False
+Pawan Kumar Sharma,False,1,False,False
+Manoj Amarnani,False,1,False,False
+Bharat Jadhav,False,1,False,False
+Sunil Soni,False,1,False,False
+Chirag Jain,False,1,False,False
+Suhasini Maniratnam,False,1,False,False
+Thomas Tevana,False,1,False,False
+Madhumita Bishwas,False,1,False,False
+Sunny Nijar,False,1,False,False
+Sharad Singh,False,1,False,False
+Karan Thakur,False,1,False,False
+Partho Gupte,False,1,False,False
+Nayab Khan,False,1,False,False
+Abhay Chandarana,False,1,False,False
+Jaya Seal,False,1,False,False
+Shubham Vyas,False,1,False,False
+Nayan Bhatt,False,1,False,False
+Farid Currim,False,1,False,False
+Moammar Rana,False,1,False,False
+Makrand Shukla,False,1,False,False
+Paloma,False,1,False,False
+Mehmood Junior,False,1,False,False
+Shaurya Singh,False,1,False,False
+Sonia Rathee,False,1,False,False
+Dhanish Karthik,False,1,False,False
+Barkha Bisht,False,1,False,False
+Sudesh Bhosale,False,1,False,False
+Nikhil Ratnaparkhi,False,1,False,False
+Vedhika,False,1,False,False
+Anand Ingale,False,1,False,False
+Veer Aryan,False,1,False,False
+Ajith Kumar,False,1,False,False
+Swati Bakshi,False,1,False,False
+Pratik Katare,False,1,False,False
+Soham Majumdar,False,1,False,False
+Maushumi Udeshi,False,1,False,False
+Nirmal Kumar Pant,False,1,False,False
+Eshu Gambhir,False,1,False,False
+Vinay Virmani,False,1,False,False
+Vishesh Tiwari,False,1,False,False
+Diana Hayden,False,1,False,False
+Mahira Khan,False,1,False,False
+Hyder Ali,False,1,False,False
+Suhel Seth,False,1,False,False
+Madhu Sneha,False,1,False,False
+Aadhvikaa,False,1,False,False
+Badrul Islam,False,1,False,False
+Siddharth Chandekar,False,1,False,False
+Satendra Soni,False,1,False,False
+Pallavi Batra,False,1,False,False
+Shweta Gulati,False,1,False,False
+Ashwarya Singh,False,1,False,False
+Krrish Chabbria,False,1,False,False
+Afreen Alvi,False,1,False,False
+Anil Grover,False,1,False,False
+Suriya,False,1,False,False
+Rajesh Shringapure,False,1,False,False
+Armaan Kohli,False,1,False,False
+Liliput,False,1,False,False
+Radhika Roy,False,1,False,False
+Shammi Duhan,False,1,False,False
+Shenaz Treasury,False,1,False,False
+Shyamraj Patil,False,1,False,False
+Vaishali Desai,False,1,False,False
+Ravneet Kaur,False,1,False,False
+Sameer Mohammed,False,1,False,False
+Vindhya Tiwari,False,1,False,False
+Adnan Shah,False,1,False,False
+Ayush Mehra,False,1,False,False
+Masood Akhtar,False,1,False,False
+Anaswara Rajan,False,1,False,False
+Roaleey Ryan,False,1,False,False
+Samar Jai Singh,False,1,False,False
+Rajvvir Aroraa,False,1,False,False
+Amit Kumar,False,1,False,False
+Subhashree Ganguly,False,1,False,False
+Sapna Chaudhary,False,1,False,False
+Nikita Sharma,False,1,False,False
+Gulshan Pandey,False,1,False,False
+Akash Pratap Singh,False,1,False,False
+Milan Singh,False,1,False,False
+Mahesh Anand,False,1,False,False
+Shrikant Yadav,False,1,False,False
+Divvij Kak,False,1,False,False
+Shweta Kumar,False,1,False,False
+Vishal Singh,False,1,False,False
+Arbaz Khan,False,1,False,False
+Reema,False,1,False,False
+Abhinaye Sharma,False,1,False,False
+Conan Stevens,False,1,False,False
+Nazea Sayed,False,1,False,False
+Aman Siddiqui,False,1,False,False
+Deah Tandon,False,1,False,False
+Joyraj Bhattacharya,False,1,False,False
+Shakeel Khan,False,1,False,False
+Special Appearance In A Song,False,1,False,False
+Praveen Hingonia,False,1,False,False
+Robin Das,False,1,False,False
+Bhupinder Singh,False,1,False,False
+Paras Chhabra,False,1,False,False
+Aditi Subedi,False,1,False,False
+Najneen Patni,False,1,False,False
+Ketaki Narayan,False,1,False,False
+Brooke Johnston,False,1,False,False
+Aditya Shrivastava,False,1,False,False
+Negar Khan,False,1,False,False
+Amjad Khan,False,1,False,True
+Kristina Akheeva,False,1,False,False
+Vijender Singh,False,1,False,False
+Rajender Thakur,False,1,False,False
+Sakha Kalyani,False,1,False,False
+Zachary Coffin,False,1,False,False
+Lalit Prabhakar,False,1,False,False
+Alisha Parveen,False,1,False,False
+Amaan Khan,False,1,False,False
+Rajniesh Duggall,False,1,False,False
+Saurav Chakraborty,False,1,False,False
+Chirag Patil,False,1,False,False
+Vansh Bharadwaj,False,1,False,False
+Devansh Sharma,False,1,False,False
+Gracy Goswami,False,1,False,False
+Tim Lawrence,False,1,False,False
+Ganesh Yadav,False,1,False,False
+Suraj K. Shah,False,1,False,False
+Vidhi Chitalia,False,1,False,False
+Prince Shah,False,1,False,False
+Taher Shabbir,False,1,False,False
+Natalia Janoszek,False,1,False,False
+Anjali Sivaraman,False,1,False,False
+Samar Jajoriya,False,1,False,False
+Manmeet Singh,False,1,False,False
+Simran Kaur Suri,False,1,False,False
+Ranjan Chhabra,False,1,False,False
+Vikas Bahl,False,1,False,False
+Payal Ghosh,False,1,False,False
+Shivani Tanksale,False,1,False,False
+J.D Chakravarthy,False,1,False,False
+Satyadev,False,1,False,False
+Bajrang Bali Singh,False,1,False,False
+Monuj Borkotoky,False,1,False,False
+Anjali Malhotra,False,1,False,False
+Rafiq Batcha,False,1,False,False
+Anurita Jha,False,1,False,False
+Reeth Mazumder,False,1,False,False
+Andrea Tariang,False,1,False,False
+Mohit Madaan,False,1,False,False
+Hemant Birje,False,1,False,False
+Rohit Rajawat,False,1,False,False
+Ashok Banthia,False,1,False,False
+Dulquer Salman,False,1,False,False
+Salamn Bhatt,False,1,False,False
+Sanya Balsara,False,1,False,False
+Akash Singh,False,1,False,False
+Anuj Aggarwal,False,1,False,False
+Priyanka Panchal,False,1,False,False
+Monica Sehgal,False,1,False,False
+Shailly Sehgal,False,1,False,False
+Karishma Kotak,False,1,False,False
+Mantra,False,1,False,False
+David Brooks,False,1,False,False
+Hasleen Kaur,False,1,False,False
+Maan Singh Deep,False,1,False,False
+Sushma Deshpande,False,1,False,False
+Jahnvi Rawat,False,1,False,False
+Sanaya Irani,False,1,False,False
+Jitendra Joshi,False,1,False,False
+Tamanna Bhatia,False,1,False,False
+Sushrii Shreya Mishraa,False,1,False,False
+Rohit Bakshi,False,1,False,False
+Rajveer Deol,True,1,False,False
+Yuri Suri,False,1,False,False
+Shriswara,False,1,False,False
+Zeyn Shaw,False,1,False,False
+Sonia Sharma,False,1,False,False
+Abhishek Kapoor,False,1,False,False
+Manu Singh,False,1,False,False
+Nitin Kumar Reddy,False,1,False,False
+Ridhima Sud,False,1,False,False
+Anil Nagrath,False,1,False,False
+Yash Rane,False,1,False,False
+Adam Laupus,False,1,False,False
+Jahan Bloch,False,1,False,False
+Roushika Reikhi,False,1,False,False
+Jhanvi Kapoor,False,1,False,False
+Prachi Sinha,False,1,False,False
+Aarti Puri,False,1,False,False
+Sanjay Swaraj,False,1,False,False
+Deb Mukherjee,False,1,False,False
+Mukul Chaddha,False,1,False,False
+Dhritiman Chaterji,False,1,False,False
+Parvathy Thiruvothu,False,1,False,False
+Nusraat Faria,False,1,False,False
+Sananth Reddy,False,1,False,False
+Nitin,False,1,False,False
+Ketan Raj Sharma,False,1,False,False
+Mink Brar,False,1,False,False
+Niten Mirani,False,1,False,False
+Neelima Azeem,False,1,False,False
+Raghav Chanana,False,1,False,False
+Mayur Kumar,False,1,False,False
+Urmila Rao,False,1,False,False
+Haider Khan,False,1,False,False
+Ranjeet Jha,False,1,False,False
+Shagun Sharma,False,1,False,False
+Anurag Basu,False,1,False,False
+Mikaal Zulfikaar,False,1,False,False
+Amir Boutrous,False,1,False,False
+Vinit Jain,False,1,False,False
+Jyoti Subhash,False,1,False,False
+Sophie Dahl,False,1,False,False
+Sanjana Dipu,False,1,False,False
+Monica Chaudhary,False,1,False,False
+Kunal Thakur,False,1,False,False
+Tony Revolori,False,1,False,False
+Viraaj,False,1,False,False
+Manek Bedi,False,1,False,False
+Parth Naik,False,1,False,False
+Joydip Mukhopadhyay,False,1,False,False
+Nikita Anand,False,1,False,False
+Randeep Rai,False,1,False,False
+Raghuvardhan Garlapati,False,1,False,False
+Faruque,False,1,False,False
+Anmol Bajaj,False,1,False,False
+Prateek Goyal,False,1,False,False
+Baharul Islam,False,1,False,False
+Shobana,False,1,True,False
+Kainaat Insan,False,1,False,False
+Jyoti Kapoor,False,1,False,False
+Ishaan Manhaas,False,1,False,False
+Ankit Rathi,False,1,False,False
+Martin Brambach,False,1,False,False
+Salmin Sheriff,False,1,False,False
+Baljeet Singh,False,1,False,False
+Akhlaque Khan,False,1,False,False
+Abhilash Kumar,False,1,False,False
+Abhimanyu Shekhar Singh,False,1,False,False
+Chetan Aneja,False,1,False,False
+Ritvik Sahore,False,1,False,False
+Sonika Gill,False,1,False,False
+Shubham Vardhan,False,1,False,False
+Prachi Mishra,False,1,False,False
+Yogita Deshmukh,False,1,False,False
+Viju Khote,False,1,False,False
+Tanvi Hegde,False,1,False,False
+Diksha Tomar,False,1,False,False
+Teena Singh & Preeti Sharma,False,1,False,False
+Ramya Krishna,False,1,False,False
+Shikha Malhotra,False,1,False,False
+Saumya Tandon,False,1,False,False
+Syna Anand,False,1,False,False
+Pritam Singh,False,1,False,False
+Vikramjeet Virk,False,1,False,False
+Aditi Arya,False,1,False,False
+Sam Jajoriya,False,1,False,False
+Srinivas,False,1,False,False
+Candice Boucher,False,1,False,False
+Amrita Prakash,False,1,False,False
+Chacha Maembong,False,1,False,False
+Karan Dave,False,1,False,False
+Kritika Singh,False,1,False,False
+Martin Jishil,False,1,False,False
+Viineet Kumar Singh,False,1,False,False
+Vishal Karwal,False,1,False,False
+Kanchi Singh,False,1,False,False
+Dolly Singh,False,1,False,False
+Varun Tej,False,1,False,False
+Asha Bhat,False,1,False,False
+Pranshu Kaushal,False,1,False,False
+Smitha Siah,False,1,False,False
+Prerna Sharma,False,1,False,False
+Raj Kundra,False,1,False,False
+Vibhu Raghave,False,1,False,False
+Rohan Jardosh,False,1,False,False
+Arjun Raina,False,1,False,False
+Mohit Malik,False,1,False,False
+Raj Aryan,False,1,False,False
+Voice-over by Yuddvir Bakolia,False,1,False,False
+Babbu Maan,False,1,False,False
+Vedieka Dutt,False,1,False,False
+Heet Sharma,False,1,False,False
+Shivani Singh,False,1,False,False
+Shabbir Ahluwalia,False,1,False,False
+Madhuri Bhattacharya,False,1,False,False
+KK Raina,False,1,False,False
+Jas Binag,False,1,False,False
+Pankaj Choudhary,False,1,False,False
+Panchi Bora,False,1,False,False
+Aham Sharma,False,1,False,False
+Nathan Jones,False,1,False,False
+Ayub Khoso,False,1,False,False
+Heerok Das,False,1,False,False
+Anil Lalwani,False,1,False,False
+Umesh Bajpai,False,1,False,False
+Deven Bhojani,False,1,False,False
+Sana Nawaz,False,1,False,False
+Vivek Gomber,False,1,False,False
+Deepak Singh,False,1,False,False
+Shivani Raghuvanshi,False,1,False,False
+Sheena Nayar,False,1,False,False
+Mohit Dutta,False,1,False,False
+Anastasia,False,1,False,False
+Raayo S Bakhirta,False,1,False,False
+Disha Pandey,False,1,False,False
+Prateeksha Lonkar,False,1,False,False
+Anneliese van der Pol,False,1,False,False
+Revathi Pillai,False,1,False,False
+Reshaa Sabarawal,False,1,False,False
+Anil Charanjeett,False,1,False,False
+Kirti Vaidhya,False,1,False,False
+Rizwan Qazi,False,1,False,False
+Sukanya Kulkarni,False,1,False,False
+Ayesha Dharker,False,1,False,False
+Kumar Saurabh,False,1,False,False
+Arindita Kalita,False,1,False,False
+Kalyanee Mulay,False,1,False,False
+Rupa Dutta,False,1,False,False
+Paanie Kashyap,False,1,False,False
+Divya Seth,False,1,False,False
+Anirudh Tanwar,False,1,False,False
+Sid Makkar,False,1,False,False
+Ajay Gehi,False,1,False,False
+Waluscha de Sousa,False,1,False,False
+Vijay Maurya,False,1,False,False
+Adarsh Bharti,False,1,False,False
+Voice over by,False,1,False,False
+Karanvir Malhotra,False,1,False,False
+Akhilesh Jain,False,1,False,False
+Rituparno Ghosh,False,1,False,False
+Vishal Lalwani,False,1,False,False
+Jayshree Soni,False,1,False,False
+Clive Standen,False,1,False,False
+Sohail Lakhani,False,1,False,False
+Parigna Pandya Shah,False,1,False,False
+Maradona Rebello,False,1,False,False
+Vishal Parpagga & Rupeshwari Sharma,False,1,False,False
+Ariana Ayam,False,1,False,False
+Chandrahas Tiwari,False,1,False,False
+Vishal O Sharma,False,1,False,False
+Fagun Thakrar,False,1,False,False
+Pitobash,False,1,False,False
+Nayanthara,False,1,False,False
+Namashi Chakraborty,False,1,False,False
+Sanskriti Bhatt,False,1,False,False
+Hira Warina,False,1,False,False
+Kunal Roy Kapoor,False,1,False,False
+Tanima Bhattacharya,False,1,False,False
+Ankita Shrivastava,False,1,False,False
+Sara Arjun,False,1,False,False
+Arti Gupta,False,1,False,False
+Shashwita Sharma,False,1,False,False
+Mehdi Nebbou,False,1,False,False
+Suresh Kumbhar,False,1,False,False
+Gayatri,False,1,False,False
+Anshumaan Pushkar,False,1,False,False
+Samita Bangargi,False,1,False,False
+Ruchira Jadhav,False,1,False,False
+Priya Gill,False,1,False,True
+Gordon Warnecke,False,1,False,False
+Hasan Zaidi,False,1,False,False
+Deepa,False,1,False,False
+Mohit Madan,False,1,False,False
+Sanjay Sharma,False,1,False,False
+Dhiraj Singh,False,1,False,False
+Sharvari Wagh,False,1,False,False
+Vandana Pathak,False,1,False,False
+Vivek Anand Mishra,False,1,False,False
+Twinkle Bajpai,False,1,False,False
+Pooja Banerjee,False,1,False,False
+Navdeep Chabbra,False,1,False,False
+Quber Chauhan]],False,1,False,False
+Naresh Kumar,False,1,False,False
+Gajendra Chouhan,False,1,False,False
+Ayush Tandon,False,1,False,False
+Nilesh Sahay,False,1,False,False
+Goonj Chand,False,1,False,False
+Pramod Pathak,False,1,False,False
+Mohit Agarwal,False,1,False,False
+Veronica Vanij,False,1,False,False
+Vinamarjot Singh Wraich,False,1,False,False
+Sohrab Ardeshir,False,1,False,False
+Shalu Singh,False,1,False,False
+Sherrin Varghese,False,1,False,False
+Neeta Mohindra,False,1,False,False
+Imtiaz Ali,False,1,False,False
+Gandharv Dewan,False,1,False,False
+Aditya Singh,False,1,False,False
+Nayab Aftab,False,1,False,False
+Pashmina Roshan,True,1,False,False
+J. Brandon Hill,False,1,False,False
+Aditya Bal,False,1,False,False
+Disha Kapoor,False,1,False,False
+Satyendra Khare,False,1,False,False
+Vinod Kambli,False,1,False,False
+Aishwarya Rajesh,False,1,False,False
+Ali Murad,False,1,False,False
+Gurfateh Singh Pirzada,False,1,False,False
+Rahul Avana,False,1,False,False
+Ragini Nandwani,False,1,False,False
+Zeishan Quadri,False,1,False,False
+Aryan Singh Rana,False,1,False,False
+Mandeep Kaur Mannnat,False,1,False,False
+Samreen Kaur,False,1,False,False
+Nimisha Sajayan,False,1,False,False
+Abhiram Bhadkamkar,False,1,False,False
+Sarah Thompson,False,1,False,False
+Awan Pookot,False,1,False,False
+Pooja Sawant,False,1,False,False
+Srishti Srivastava,False,1,False,False
+Arjun Punj,False,1,False,False
+Yogita Bihani,False,1,False,False
+Donny Kapoor,False,1,False,False
+Dalip Singh Rana,False,1,False,False
+Ankita Bhargava Patel,False,1,False,False
+Akansha Sharma,False,1,False,False
+Cherry Mardia,False,1,False,False
+Sonal Jha,False,1,False,False
+Leena,False,1,False,False
+Mohd. Zeeshan Ayyub,False,1,False,False
+Shaan,False,1,False,False
+Anshuman Malhotra,False,1,False,False
+Virender Sharma,False,1,False,False
+Chetan Hansraj,False,1,False,False
+Monica Castelino,False,1,False,False
+Rocky Verma,False,1,False,False
+Sapna,False,1,False,False
+Vibhawari Deshpande,False,1,False,False
+Rupali Ganguly,False,1,False,False
+Farnaz Shetty,False,1,False,False
+Shakti Kumar,False,1,False,False
+Neetha Shetty,False,1,False,False
+Vaquar,False,1,False,False
+Hardika Sharma,False,1,False,False
+Sanjeeb Dasgupta,False,1,False,False
+Konkana Sen Sharma,False,1,False,False
+Apurva Agnihotri,False,1,False,False
+Satyakam Anand,False,1,False,False
+Bidita Baig,False,1,False,False
+Yukta Mookhey,False,1,False,False
+Herry Tangri,False,1,False,False
+Jyothi Rana,False,1,False,False
+Gaurav Kapoor,False,1,False,False
+Gurpreet Saini,False,1,False,False
+Farrukh Jaffar,False,1,False,True
+Raaghav Chanana,False,1,False,False
+Tanmay Dhananiya,False,1,False,False
+Gopal Datt,False,1,False,False
+Talat Aziz,False,1,False,False
+Rakhi Chadda,False,1,False,False
+Gufi Paintal,False,1,False,False
+Kiran,False,1,False,False
+Anju Jadhav,False,1,False,False
+Sonali Khare,False,1,False,False
+Koel Purie,False,1,False,False
+Ayesha Kaduskar,False,1,False,False
+Bhavna Pani,False,1,False,False
+Arjun Bajwa,False,1,False,False
+Vidushi Mehra,False,1,False,False
+Arjun Chakraborty,False,1,False,False
+Aliza,False,1,False,False
+Mahat Raghavendra,False,1,False,False
+Nina Wadia,False,1,False,False
+Ankit Bathla,False,1,False,False
+Arka Das,False,1,False,False
+Rakesh Chaturvedi,False,1,False,False
+Supriya Vinod,False,1,False,False
+Niraj Chauhan,False,1,False,False
+Onjolee Nair,False,1,False,False
+Roshni,False,1,False,False
+Sophia Handa,False,1,False,False
+Rahul Handa,False,1,False,False
+Bhushan Insan,False,1,False,False
+Manoj Bidwani,False,1,False,False
+Komal Thacker,False,1,False,False
+Farah Khan,False,1,False,False
+Ayaan Ahmad,False,1,False,False
+Hina Rehman,False,1,False,False
+Nandu Madhav,False,1,False,False
+Nary Singh,False,1,False,False
+Ada Singh,False,1,False,False
+Shyam Avtar Kedia,False,1,False,False
+Aadil Abedi,False,1,False,False
+Nazneen Ghaani,False,1,False,False
+Pankaj Uniyal,False,1,False,False
+Sidharth Shukla,False,1,False,False
+Nitanshi Goel,False,1,False,True
+Ben Hawkey,False,1,False,False
+Shubhankar Tripathi,False,1,False,False
+Jay Singh Rajpoot,False,1,False,False
+Mohit Baghel,False,1,False,False
+Faiz Mohammad,False,1,False,False
+Anjali Anand,False,1,False,False
+Rehmat Rattan,False,1,False,False
+Amit Pachori,False,1,False,False
+Shaheer Sheikh,False,1,False,False
+Nisha Triloki,False,1,False,False
+S. Sreesanth,False,1,False,False
+Raayo S. Bakhirta,False,1,False,False
+Madhu Sapre,False,1,False,False
+Saurabh Singh,False,1,False,False
+Dharmendra Gohil,False,1,False,False
+Vyom Yadav,False,1,False,False
+Rohit Rokhade,False,1,False,False
+Imran Abbas,False,1,False,False
+Mohan Aghashe,False,1,False,False
+Rajeev Pillai,False,1,False,False
+Aadhya Anand,False,1,False,False
+Adil Ahmed,False,1,False,False
+Shomendra Bose,False,1,False,False
+Siddharth Dhawan,False,1,False,False
+Atul Srivastava,False,1,False,False
+Brandon Routh,False,1,False,False
+Ashok Kaul,False,1,False,False
+Sana Amin Sheikh,False,1,False,False
+Reem Sheikh,False,1,False,False
+Ava Mukherjee,False,1,False,False
+Aashish Chanana,False,1,False,False
+Pari Sehgal,False,1,False,False
+Tamara D’Souza,False,1,False,False
+Rama Krishna Dixit,False,1,False,False
+Manukriti Pahwa,False,1,False,False
+Vije Bhatia,False,1,False,False
+Harish Bhimani,False,1,False,False
+Shivam,False,1,False,False
+Amit Bimrot,False,1,False,False
+Jayesh Raj & Sonal Singh,False,1,False,False
+Vikram Inamdar,False,1,False,False
+Malti Chahar,False,1,False,False
+Kanwalpreet Singh,False,1,False,False
+Gaurav Kothari,False,1,False,False
+Kanwaljeet Singh,False,1,False,False
+Kanchan Agnihotri,False,1,False,False
+Divya Palat,False,1,False,False
+Hazel Keech,False,1,False,False
+Harry Mearing,False,1,False,False
+Ratna Neelam Pandey,False,1,False,False
+Sonali Goswami,False,1,False,False
+Arushi Sharma,False,1,False,False
+Divita Juneja,False,1,False,False
+Anusha Dandekar,False,1,False,False
+Samta Sudiksha,False,1,False,False
+Tanveer Zaidi,False,1,False,False
+Ayesha Khanna,False,1,False,False
+Aarohi Saud,False,1,False,False
+Sagar Wahi,False,1,False,False
+Siddhanth Sundar,False,1,False,False
+Rohan Grover,False,1,False,False
+Vikram Mastal,False,1,False,False
+Sarvasva,False,1,False,False
+Jas Pandher,False,1,False,False
+Aarun Nagar,False,1,False,False
+Rukmini Maitra,False,1,False,False
+Anahita Uberoi,False,1,False,False
+Jashn Agnihotri,False,1,False,False
+Sadashiv Amrapurkar,False,1,False,False
+Claudia Ciesla,False,1,False,False
+Akaisha,False,1,False,False
+Mrinal Kulkarni,False,1,False,False
+Neeraj Vora,False,1,False,False
+Swati Sharma,False,1,False,False
+Prasad Purandare,False,1,False,False
+Gurdeep Singh Mehndi,False,1,False,False
+Himanshu Sharma,False,1,False,False
+Ashwat Bhatt,False,1,False,False
+Pranay Dixit,False,1,False,False
+Sabina Sheema,False,1,False,False
+Pearl V Puri,False,1,False,False
+Abhijeet Sawant,False,1,False,False
+Chigasu Takaku,False,1,False,False
+Urfi Javed,False,1,False,False
+Natasha Fernandez,False,1,False,False
+Sahidur Rahaman,False,1,False,False
+Abeer Khan,False,1,False,False
+Karuna Pandey,False,1,False,False
+Julie Tejwani,False,1,False,False
+Raghu Raja,False,1,False,False
+Namish Anand,False,1,False,False
+Zara Sheikh,False,1,False,False
+Varun Mitra,False,1,False,False
+Sanjeev Tiwari,False,1,False,False
+Dillzan Wadia,False,1,False,False
+Shane Harper,False,1,False,False
+Pasha Bocarie,False,1,False,False
+Sonam Arora,False,1,False,False
+Lin Laishram,False,1,False,False
+Chandan Anand,False,1,False,False
+Minakkshi Kalitaa,False,1,False,False
+Prithvik Pratap,False,1,False,False
+Rishi Bissa,False,1,False,False
+Shahnawaz Bhat,False,1,False,False
+Prashant Upadhyay,False,1,False,False
+Radhika Menon,False,1,False,False
+Omi Sharma,False,1,False,False
+Ajith Vachani,False,1,False,False
+Parambrata Chattopadhyay,False,1,False,False
+Swati Seth,False,1,False,False
+Aditii Arya Sharma,False,1,False,False
+Bobby Vats,False,1,False,False
+Vira Satidhar,False,1,False,False
+Iain Glen,False,1,False,False
+Kashmira Shah,False,1,False,False
+Prakash Sagar,False,1,False,False
+Shital Shah,False,1,False,False
+Poorna Jagannathan,False,1,False,False
+Afzaal Khan,False,1,False,False
+Lakshvir Saran,False,1,False,False
+Pia Bajpai,False,1,False,False
+Laila Khan,False,1,False,False
+Jeetu Shivhare,False,1,False,False
+Rehman,False,1,False,True
+Rocky Bhatia,False,1,False,False
+Mahi Khanduri,False,1,False,False
+M.A. Guddu,False,1,False,False
+Arpit Chaudhary,False,1,False,False
+Karishma Harshada,False,1,False,False
+Puneet Vashisht,False,1,False,False
+Vikram Koccher,False,1,False,False
+Barkha Sengupta,False,1,False,False
+Touqeer Khan,False,1,False,False
+Simran Mundi,False,1,False,False
+Anay,False,1,False,False
+Qasim Bilal,False,1,False,False
+Harshvardhan Deo,False,1,False,False
+Voice-over by Kaustav Ghosh,False,1,False,False
+Bhalchandra Kadam,False,1,False,False
+Ram Charan,False,1,False,False
+Rukmini Vijayakumar,False,1,False,False
+Nagesh Bhonsle,False,1,False,False
+Siddharth Randeria,False,1,False,False
+Chittaranjan Giri,False,1,False,False
+Siraj Khan,False,1,False,False
+Yo Yo Honey Singh,False,1,False,False
+Maanas Srivastavam,False,1,False,False
+Dev Goel,False,1,False,False
+Charu Arora,False,1,False,False
+Faith,False,1,False,False
+Firoz Irani,False,1,False,False
+Brendan Fraser,False,1,False,False
+Bhavin Bhanushali,False,1,False,False
+Luke Kenny,False,1,False,False
+Saachi Bindra,False,1,False,False
+Karan Sharma,False,1,False,False
+Neetu Kapoor,False,1,False,True
+Akshay Rangshahi,False,1,False,False
+K. K. Raina,False,1,False,False
+Puja Sharma,False,1,False,False
+Anuja Sathe,False,1,False,False
+Sanah Kapur,False,1,False,False
+Mithun Chakraborthy,False,1,False,False
+Viveka Babajee,False,1,False,False
+Garima Yagnik,False,1,False,False
+Atif Jamil,False,1,False,False
+Colin Farrell,False,1,False,False
+Chaiti Ghoshal,False,1,False,False
+Abhishek,False,1,False,False
+Rudra Kanth,False,1,False,False
+Sanjay Bhutiani,False,1,False,False
+Isha Rikhi,False,1,False,False
+Vivek Jha,False,1,False,False
+Geeta Agrawal Sharma,False,1,False,False
+Vinay Forrt,False,1,False,False
+Ajay Chaudhary,False,1,False,False
+Aashi Rawal,False,1,False,False
+Anangsha Biswas,False,1,False,False
+Shiva Suryavanshi,False,1,False,False
+Ayushman Khurana,False,1,False,False
+Gita Guha,False,1,False,False
+Rina Rani,False,1,False,False
+Asenla Jamir,False,1,False,False
+Raju Srivastava,False,1,False,False
+Gautami Kapoor,False,1,False,False
+Shrenu Parikh,False,1,False,False
+Nutan Sinha,False,1,False,False
+Saira Mohan,False,1,False,False
+Abhijeet Singh,False,1,False,False
+Rudhraksh Jaiswal,False,1,False,False
+Sanath Menon,False,1,False,False
+Urvashi Chaudhary,False,1,False,False
+Shadaab Khan,False,1,False,False
+Garima Insan,False,1,False,False
+Guest appearance in song,False,1,False,False
+Pooja Dargan,False,1,False,False
+Raju Sundaram,False,1,False,False
+Manish Dayal,False,1,False,False
+Dipti Verma,False,1,False,False
+Rahul Jain,False,1,False,False
+Archana,False,1,False,False
+Anushka Ranjan,False,1,False,False
+Samit Das,False,1,False,False
+Ashok Insan,False,1,False,False
+Christeena,False,1,False,False
+Farah Karimi,False,1,False,False
+Abhishek Sharma,False,1,False,False
+Neha Hinge,False,1,False,False
+Monica Gill,False,1,False,False
+Myra Vishwakarma,False,1,False,False
+Pragya Yadav,False,1,False,False
+Rajesh Bhatt,False,1,False,False
+Anshikaa Shrivastava,False,1,False,False
+Aradhna Gupta,False,1,False,False
+Sheetal Menon,False,1,False,False
+Ritabhari Chakraborty,False,1,False,False
+Ahan Shetty,True,1,False,False
+Ayesha Raza Mishra,False,1,False,False
+Kasam Ali,False,1,False,False
+Mehreen Pirzada,False,1,False,False
+Meher,False,1,False,False
+Vipin Kaushik,False,1,False,False
+Anurag Singh,False,1,False,False
+Mohit Baisla,False,1,False,False
+Ajay Sinh Rathod,False,1,False,False
+Kuldeep Sareen,False,1,False,False
+Navdip Singh,False,1,False,False
+Archana Shastry,False,1,False,False
+Niraj Kabi,False,1,False,False
+Agastya Nanda,True,1,False,False
+Hyder Kazmi,False,1,False,False
+Dippanita Sharma,False,1,False,False
+Ayesha Khan,False,1,False,False
+Rajiv Kumar,False,1,False,False
+Anusha Sampath,False,1,False,False
+Rohin Robert,False,1,False,False
+Sonam Mukherjee,False,1,False,False
+Waluscha De Sousa,False,1,False,False
+Deeksha Seth,False,1,False,False
+Chahat Mughal,False,1,False,False
+Rahul Godara,False,1,False,False
+Tarun Khanna,False,1,False,False
+Harshita Panwar,False,1,False,False
+Lalit Bisht,False,1,False,False
+Sameer Paranjape,False,1,False,False
+Rohit Chaudhary,False,1,False,False
+Rajiv Kapoor,False,1,False,False
+Sumit Tandon,False,1,False,False
+Natasa Stankovic,False,1,False,False
+Nimisha Mehta,False,1,False,False
+Gireesh Sahdev,False,1,False,False
+Gihana Khan,False,1,False,False
+Lalit Tiwari,False,1,False,False
+Neelam Kulkarni,False,1,False,False
+Ashruth Jain,False,1,False,False
+Rubina Dilaik,False,1,False,False
+Sudhanshu Rai,False,1,False,False
+Ritwik Bhowmik,False,1,False,False
+Akarsh Khurana,False,1,False,False
+Amit Verma,False,1,False,False
+Vindu Dara Singh,False,1,False,False
+Shashi Ranjan,False,1,False,False
+Priyanka Sharma,False,1,False,False
+Maya Sarao,False,1,False,False
+Reshmi Nigam,False,1,False,False
+Sugandha Ram,False,1,False,False
+Durgesh Kumar,False,1,False,False
+Ajay Kumar Singh,False,1,False,False
+Ashish Tyagi,False,1,False,False
+Javed Shaikh,False,1,False,False
+Malak Shah,False,1,False,False
+Jiya Sarang,False,1,False,False
+Naveen Polishetty,False,1,False,False
+Purva Parag,False,1,False,False
+Asha Singh,False,1,False,False
+Aneet Padda,False,1,False,False
+Jagrat Desai,False,1,False,False
+Bhumika Gurung,False,1,False,False
+Prachi Save,False,1,False,False
+Purnanand Wandekar,False,1,False,False
+Ankita Chouhan,False,1,False,False
+Meenu Hooda,False,1,False,False
+Daniel Weber,False,1,False,False
+Chandrabhushan Singh,False,1,False,False
+Anu Mitra,False,1,False,False
+Hritiqa Chheber,False,1,False,False
+James McAvoy,False,1,False,False
+Sushama Reddy,False,1,False,False
+Alieesa Badresia,False,1,False,False
+Raj Tara,False,1,False,False
+Ravi Verma,False,1,False,False
+Shannon Esra,False,1,False,False
+Laksh Singh,False,1,False,False
+Yaman Chatwal,False,1,False,False
+Satendra Bagasi,False,1,False,False
+Surendra Pal,False,1,False,False
+Shirish Sharma,False,1,False,False
+Bilal Amrohi,False,1,False,False
+Hussain Kuwajerwala,False,1,False,False
+Krishna Chaturvedi,False,1,False,False
+Aaliya Singh,False,1,False,False
+Shrinivas Pokale,False,1,False,False
+Amit Singh Kashyap,False,1,False,False
+Vikrant Anand,False,1,False,False
+Jihan Jeetendra Hodar,False,1,False,False
+Gemma Atkinson,False,1,False,False
+Aamna Shariff,False,1,False,False
+Charu Vyas,False,1,False,False
+Gaurav More,False,1,False,False
+Karan Hariharan,False,1,False,False
+Mike Singh,False,1,False,False
+Falaq Naaz,False,1,False,False
+Khushboo Gupta,False,1,False,False
+Rahul,False,1,False,False
+Sarwar Ahuja,False,1,False,False
+Chitraganda Chakraborty,False,1,False,False
+Angela Krislinzki,False,1,False,False
+Megha Saxsena,False,1,False,False
+T. R. Bijulal,False,1,False,False
+Bellamkonda Sreenivas,False,1,False,False
+Indira Tiwari,False,1,False,False
+Ravi Sarma,False,1,False,False
+Anchal Anand,False,1,False,False
+Revathy,False,1,False,False
+Shantilal Mukherjee,False,1,False,False
+Anant Vidhaat,False,1,False,False
+Rajendra Sethi,False,1,False,False
+Alekh Sangal,False,1,False,False
+Naresh Gosain,False,1,False,False
+Naman Jain,False,1,False,False
+Nikita Thukral,False,1,False,False
+Shalini Vatsa,False,1,False,False
+Ashish Nayyar,False,1,False,False
+Ridhima Singh,False,1,False,False
+Abid Ali,False,1,False,False
+Karan Oberoi,False,1,False,False
+Aditya Singh Rajput,False,1,False,False
+Nakul Kapoor,False,1,False,False
+Gillian Anderson,False,1,False,False
+Minnisha Lamba,False,1,False,False
+Rajnikanth,False,1,False,False
+Manzar Sehbai,False,1,False,False
+Pawan Waval,False,1,False,False
+KevJumba,False,1,False,False
+Aarav Khanna,False,1,False,False
+Geetika Vidhya Olyan,False,1,False,False
+Manoj Kumar Sharma,False,1,False,False
+Ariana Sajnani,False,1,False,False
+Parvathy,False,1,False,False
+Vaibhav Tatwawaadi,False,1,False,False
+Hugh Bonneville,False,1,False,False
+Kshayp,False,1,False,False
+Chaitnya Bhosale,False,1,False,False
+Arifin Shuvoo,False,1,False,False
+Tannaz Irani,False,1,False,False
+Padma Lakshmi,False,1,False,False
+Natasha Suri,False,1,False,False
+Anjini Dhawan,False,1,False,False
+Zoha Rahman,False,1,False,False
+Riyaz Khan,False,1,False,False
+Shivani Thakur,False,1,False,False
+Dhruv Ganesh,False,1,False,False
+Kranti Prakash Jha,False,1,False,False
+Anupam Maanav,False,1,False,False
+Anuritta K Jha,False,1,False,False
+Aryan Prajapati,False,1,False,False
+Anoop Soni,False,1,False,False
+Manikk Chaudhary,False,1,False,False
+Nate Scholz,False,1,False,False
+Sahil Mehta,False,1,False,False
+Rajendra Chawla,False,1,False,False
+Arya Banerjee,False,1,False,False
+Vipul Gupta,False,1,False,False
+Abhijit Acharjee,False,1,False,False
+Sameksha,False,1,False,False
+Ibraheem Choudhry,False,1,False,False
+Akkash Basant,False,1,False,False
+Sikandar Kharbanda,False,1,False,False
+Ankita Sahu,False,1,False,False
+Vivek Gombher,False,1,False,False
+Amol Gupte,False,1,False,True
+Tanay Chheda,False,1,False,False
+Rajni Mehta,False,1,False,False
+Akshat Bhatia,False,1,False,False
+Abhimanyu Arun,False,1,False,False
+Satyadeep Misra,False,1,False,False
+Mohan Kapur,False,1,False,False
+Manisha Rai,False,1,False,False
+Kavita Kapoor,False,1,False,False
+Gautam Sarkar,False,1,False,False
+Neha Gosain,False,1,False,False
+Animated characters,False,1,False,False
+Khusbhoo Purohit,False,1,False,False
+Shameen Shaikh,False,1,False,False
+Munish Khan,False,1,False,False
+Divyansh Dwivedi,False,1,False,False
+Virginia Rodrigues,False,1,False,False
+Randhir Singh Thakur,False,1,False,False
+Tobby Hinston,False,1,False,False
+Regina Cassandra,False,1,False,False
+Naman Tripathy,False,1,False,False
+Rajeev Siddhartha,False,1,False,False
+Rahul Vohra,False,1,False,False
+Harleen Sethi,False,1,False,False
+Muskaan Mihani,False,1,False,False
+Amit Thakkar,False,1,False,False
+Sahil Patel,False,1,False,False
+Art Malik,False,1,False,False
+Suzzanna Mukherjee,False,1,False,False
+Bharati Sharma,False,1,False,False
+Dipika Kakar,False,1,False,False
+Money Sabharwal,False,1,False,False
+Benjamin Schoefer,False,1,False,False
+Bhanu Uday,False,1,False,False
+Nigel Borade,False,1,False,False
+Anushka Sen,False,1,False,False
+Sheena Chohan,False,1,False,False
+Dipti Dhotre,False,1,False,False
+Nisha Bains,False,1,False,False
+Prince Parvinder Singh,False,1,False,False
+Nethra Raghuraman,False,1,False,False
+Ellora Patnaik,False,1,False,False
+Mahi Soni,False,1,False,False
+Asha Bhosle,False,1,False,False
+Moushmi Chatterjee,False,1,False,False
+Shalini Vats,False,1,False,False
+Sneha Wagh,False,1,False,False
+Edilsy Vargas,False,1,False,False
+Shashank Singh,False,1,False,False
+Rohit KaduDeshmukh and,False,1,False,False
+Shivin Narang,False,1,False,False
+Megha Verma,False,1,False,False
+Nithya Menen,False,1,False,False
+Aruna Irani,False,1,False,True
+Jashan Singh & Priyanka Shukla,False,1,False,False
+Rohit Kumar,False,1,False,False
+Biju Rehana Khan,False,1,False,False
+Poonam Pandey,False,1,False,False
+Sikandar,False,1,False,False
+Azmeri Haque Badhon,False,1,False,False
+Chinmay Kambli,False,1,False,False
+Inayat Sharma,False,1,False,False
+Seema Saini,False,1,False,False
+Amardeep Jha,False,1,False,False
+Rishabh Arora,False,1,False,False
+Soham Deepak,False,1,False,False
+Marc Anwar,False,1,False,False
+Malaika Arora Khan,False,1,False,False
+Khushmeet Gill,False,1,False,False
+Freddy Daruwala,False,1,False,False
+Bodhisattva Sharma,False,1,False,False
+Sapna Choudhry,False,1,False,False
+Sandeep Goyat,False,1,False,False
+Anjori Alagh,False,1,False,False
+Mehul Buch,False,1,False,False
+Aaman Devgan,True,1,False,False
+Bhavna Ruparel,False,1,False,False
+Jyoti Dubey,False,1,False,False
+Sachiin J. Joshi,False,1,False,False
+Raj Suri,False,1,False,False
+Madhur Mittal,False,1,False,False
+Diya Hayat,False,1,False,False
+Akanksha Puri,False,1,False,False
+Rishabh,False,1,False,False
+Amyth Sethi,False,1,False,False
+Akruti Agrawal,False,1,False,False
+Shubhangini Srivas,False,1,False,False
+Amitosh Nagpal,False,1,False,False
+Pooja Kanwal,False,1,False,False
+Simon Frenay,False,1,False,False
+Pooja Kumar,False,1,False,False
+Maanuv Bhardawaj,False,1,False,False
+Rajesh Insan,False,1,False,False
+Rita Bhaduri,False,1,False,True
+Varinder Singh Ghuman,False,1,False,False
+Anshul Kataria,False,1,False,False
+Rahul Mittra,False,1,False,False
+Tanmay Dhanania,False,1,False,False
+Rashmi Desai,False,1,False,False
+Sajjad Delafrooz,False,1,False,False
+Aryaman Ramsay,False,1,False,False
+Archan Trivedi,False,1,False,False
+Geeta Agrawal,False,1,False,False
+Rajendra Prasad,False,1,False,False
+Ritika Badiani,False,1,False,False
+Shraddha Srinath,False,1,False,False
+Armaan Jain,True,1,False,False
+Abir Goswami,False,1,False,False
+Sheena Shahabadi,False,1,False,False
+Navnindra Behl,False,1,False,False
+Himmanshoo A. Malhotra,False,1,False,False
+Mannara Chopra,False,1,False,False
+Partho,False,1,False,False
+Preeti Mehra,False,1,False,False
+M. K. Raina,False,1,False,False
+Antara Biswas,False,1,False,False
+Shiva Rindan,False,1,False,False
+Nicolette Bird,False,1,False,False
+Janya Joshi,False,1,False,False
+Nagarjuna,False,1,False,False
+Aditya Om,False,1,False,False
+Nimisha Vakharia,False,1,False,False
+Shilpa Navalkar,False,1,False,False
+and,False,1,False,False
+Sagar Arya,False,1,False,False
+Rithvik Dhanjani,False,1,False,False
+Keerthy Suresh,False,1,False,False
+Nidhi Bisht,False,1,False,False
+Mukesh Khanna,False,1,False,False
+Tathastu,False,1,False,False
+Sid Mallya,False,1,False,False
+Padmanabh,False,1,False,False
+Anand Abhyankar,False,1,False,False
+Mohit Marwah,True,1,False,False
+Raj Premi,False,1,False,False
+Momal Sheikh,False,1,False,False
+Tapsee Pannu,False,1,False,False
+Rasika Aagashe,False,1,False,False
+Amala Akkineni,False,1,False,False
+Priyanka Upendra,False,1,False,False
+Srinivas Sunderrajan,False,1,False,False
+Mohit Ghai,False,1,False,False
+Danish Aslam,False,1,False,False
+Gyan Prakash,False,1,False,False
+Paresh Mehta,False,1,False,False
+Himanshu Tiwari,False,1,False,False
+Nicole Faria,False,1,False,False
+Amy Maghera,False,1,False,False
+Reshma Modi,False,1,False,False
+Mohit Malhotra,False,1,False,False
+Riya Baluni,False,1,False,False
+Gunjan Vyas,False,1,False,False
+Saba Qamar,False,1,False,True
+Arsh Sehrawat,False,1,False,False
+Lucy Pinder,False,1,False,False
+Sharvil Patel,False,1,False,False
+Aisha Sharma,False,1,False,False
+Manisha Singh,False,1,False,False
+Suha Gezen,False,1,False,False
+Samarth Chaturvedi,False,1,False,False
+Brande Roderick,False,1,False,False
+Neelofar Hamid,False,1,False,False
+Pooja Tawde,False,1,False,False
+Riddhi Sen,False,1,False,False
+Kanika Batra,False,1,False,False
+Zahan Kapoor,False,1,False,False
+Saranya,False,1,False,False
+Ayushman Khurrana,False,1,False,False
+Sudipto Balav,False,1,False,False
+Ankit Mohan,False,1,False,False
+Alaya Furniturewala,False,1,False,False
+Hina Tasleem,False,1,False,False
+Ahilya Bamroo,False,1,False,False
+Anisa,False,1,False,False
+Shaana Diya,False,1,False,False
+Surbhi Tiwari,False,1,False,False
+Sania Jhankar,False,1,False,False
+Mukul Chadda,False,1,False,False
+Garry Gill,False,1,False,False
+Rocky Rupkumar Patra,False,1,False,False
+Imran Ahmed Khan,False,1,False,False
+Haseena Sofi,False,1,False,False
+Priyanka Shah,False,1,False,False
+Manu Rishi Chaddha,False,1,False,False
+Mridula Mahajan,False,1,False,False
+Kalpan Mitra,False,1,False,False
+Alizeh Agnihotri,False,1,False,False
+Paru Uma,False,1,False,False
+Giselle Monteiro,False,1,False,False
+Alan Kapoor,False,1,False,False
+Venkatesh,False,1,False,False
+Amy Rasimas,False,1,False,False
+Lakshmi Manchu,False,1,False,False
+Anup Jalota,False,1,False,False
+Sachin Suvarna,False,1,False,False
+Siddharth Kher,False,1,False,False
+Shakun Batra,False,1,False,False
+Jiiva,False,1,False,False
+Himir Gandhi,False,1,False,False
+Prasenjit Chatterjee,False,1,False,False
+Jeet Goshwami,False,1,False,False
+Pooja Gandhi,False,1,False,False
+Anil Rastogi,False,1,False,False
+Rohit Juneja,False,1,False,False
+Prachi Shah,False,1,False,False
+Asad Sikandar,False,1,False,False
+Anuj Singh Duhan,False,1,False,False
+Rahil Tandon,False,1,False,False
+VJ Andy,False,1,False,False
+Shhivam Kakar,False,1,False,False
+Amit Varma,False,1,False,False
+Neha Bhasin,False,1,False,False
+Meenakshi Dixit,False,1,False,False
+Tanveer Hashmi,False,1,False,False
+Ashwat Kanth Sharma.,False,1,False,False
+B. Jayashree,False,1,False,False
+Ankit Raaj,False,1,False,False
+Karthik Jayaram,False,1,False,False
+Gayatri Joshi,False,1,False,False
+Nakuul Mehta,False,1,False,False
+Sushma Seth,False,1,False,True
+Zac Efron,False,1,False,False
+Daniel Kaleb,False,1,False,False
+Lethia Nall,False,1,False,False
+Rishabh Pathak,False,1,False,False
+Dinesh Bawra,False,1,False,False
+Yuvraj Haral,False,1,False,False
+Dev Chauhan,False,1,False,False
+Aanamika Bawa,False,1,False,False
+Mishika Chourasia,False,1,False,False
+Yasir Iftikhar Khan,False,1,False,False
+Matt Phillips,False,1,False,False
+Sasha Goradia,False,1,False,False
+Jack Gaud,False,1,False,False
+Sanjay Chakraborty,False,1,False,False
+Abhishek Sethiya,False,1,False,False
+Mona Wasu,False,1,False,False
+Amitabh Dayal,False,1,False,False
+Usha Naik,False,1,False,False
+Krishna Singh Bisht,False,1,False,False
+Jinal Belani,False,1,False,False
+Anirudh Loka,False,1,False,False
+Daina Khan,False,1,False,False
+Veenah Naair,False,1,False,False
+Divya Dwivedi,False,1,False,False
+Danish Husain,False,1,False,False
+Charapreet Insan,False,1,False,False
+Uttara Baokar,False,1,False,False
+Attin Bhalla,False,1,False,False
+Arisht Jain,False,1,False,False
+Jhataleka Malhotra,False,1,False,False
+Jibraan Khan,False,1,False,False
+Rumana Molla,False,1,False,False
+Janardhan,False,1,False,False
+Dilbagh Singh,False,1,False,False
+Shardul Bhardwaj,False,1,False,False
+Saurabh Malik,False,1,False,False
+Priya Bathija,False,1,False,False
+Reshmi Ghosh,False,1,False,False
+Vibhinta Verma,False,1,False,False
+Aisha Ahmed,False,1,False,False
+Elvis Chaturvedi,False,1,False,False
+Gagan Dev Riar,False,1,False,False
+Ketki Dave,False,1,False,False
+Bhaumik Sampat,False,1,False,False
+Sachiin J Joshi,False,1,False,False
+Jitin Gulati,False,1,False,False
+Sajal Ali,False,1,False,False
+Urmilaa Mahanta,False,1,False,False
+Hitesh Bhojraj,False,1,False,False
+Shaneel Sinha,False,1,False,False
+Rhehan Malliek,False,1,False,False
+Bappi Lahiri,False,1,False,False
+Karan Tacker,False,1,False,False
+Keerti Gaekwad Kelkar,False,1,False,False
+Melanie Kannokada,False,1,False,False
+Shyamlal Yadav,False,1,False,False
+Ninad Mahajani,False,1,False,False
+Gaurav Sareen,False,1,False,False
+Shoaib Ibrahim,False,1,False,False
+Nikhil Chinappa,False,1,False,False
+Vineet Sharma,False,1,False,False
+Sonia Goswami,False,1,False,False
+Sardar Sohi,False,1,False,False
+Shobhit Sujay,False,1,False,False
+Jyoti Dogra,False,1,False,False
+Vinay Apte,False,1,False,False
+Vijay Sanap,False,1,False,False
+Soundarya Sharma,False,1,False,False
+Riva Arora,False,1,False,False
+Kuldip Ruhil,False,1,False,False
+Freida Pinto,False,1,False,False
+Kishore Kumar G,False,1,False,False
+Akhil Kapur,False,1,False,False
+Navneet Kaur Dhillon,False,1,False,False
+Sneha Singh,False,1,False,False
+Aida Al-Khashef,False,1,False,False
+Dinesh Lal Yadav,False,1,False,False
+Jeetendra,False,1,False,False
+Kavya Thapar,False,1,False,False
+Namitha,False,1,False,False
+Namrata Sawhney,False,1,False,False
+Raju Mavani,False,1,False,False
+Manav Gohil,False,1,False,False
+Mithilesh Chaturvedi,False,1,False,False
+Monali A,False,1,False,False
+Sachin Tendulkar,False,1,False,False
+Shammi Kapoor,False,1,False,True
+Swaroopa Ghosh,False,1,False,False
+Benedict Garrett,False,1,False,False
+Suhas Palshikar,False,1,False,False
+Neha Pawar,False,1,False,False
+Pradhuman Singh,False,1,False,False
+Jawed Sheikh,False,1,False,False
+Aakshath Das,False,1,False,False
+Harshaali Malhotra,False,1,False,False
+Reem Shaikh,False,1,False,False
+Kumar Mayank,False,1,False,False
+Padmapriya Janakiraman,False,1,False,False
+Samar Virmani,False,1,False,False
+Trimala Adhikari,False,1,False,False
+Kamal Sadanah,False,1,False,False
+Neelam Singh,False,1,False,False
+Vipino,False,1,False,False
+Madhavi Sharma,False,1,False,False
+Anjula Singh Mahor,False,1,False,False
+Disha Choudhary,False,1,False,False
+Mukesh Ahuja,False,1,False,False
+Anil Mange,False,1,False,False
+Harshh Vardhan Singh Deo,False,1,False,False
+Monal Gajjar,False,1,False,False
+Rohit Arora,False,1,False,False
+TJ Bhanu,False,1,False,False
+Candy Clark,False,1,False,False
+Veeraj Rao,False,1,False,False
+Vaibhav Mathur,False,1,False,False
+Jesse Randhawa,False,1,False,False
+Romit Raj,False,1,False,False
+Sameer Kevin Roy,False,1,False,False
+Kaishav Arora,False,1,False,False
+Shilpa Tulaskar,False,1,False,False
+Gopal K Singh,False,1,False,False
+Dhvani Bhanushali,False,1,False,True
+Gayatri Patel,False,1,False,False
+Dilnaz Irani,False,1,False,False
+Chayan Chopra,False,1,False,False
+Gulki Joshi,False,1,False,False
+Madhuri Bhatia,False,1,False,False
+Antra Vishwas,False,1,False,False
+Ajay Kumar,False,1,False,False
+Shailendra Pande,False,1,False,False
+Amit Purohit,False,1,False,False
+Shraddha Gaikwad,False,1,False,False
+Erika Kaar,False,1,False,False
+Anmol Dhillon,False,1,False,False
+Kumar Gaurav,False,1,False,True
+Rajesh Kava,False,1,False,False
+Saranya Sharma,False,1,False,False
+Asif Ali,False,1,False,False
+Bhasha Sumbli,False,1,False,False
+Jyoti Sharma,False,1,False,False
+Mann Bagga,False,1,False,False
+K K Raina,False,1,False,False
+Shivani Ghai,False,1,False,False
+Barbara Mori,False,1,False,False
+Kenton Duty,False,1,False,False
+Ayesha Khaduskar,False,1,False,False
+Sendhil Ramamurthy,False,1,False,False
+Akkineni Nagarjuna,False,1,False,False
+Elahe Hiptoola,False,1,False,False
+Rajan Verma,False,1,False,False
+Iqbal Khan,False,1,False,False
+Arshin and Sandeep Anand,False,1,False,False
+Shanaya Kapoor,True,1,False,False
+Mustafa Burmawalla,False,1,False,False
+Naila Grewal,False,1,False,False
+Naomi Campbell,False,1,False,False
+Preeya Kalidas,False,1,False,False
+Ahmer Haider,False,1,False,False
+Saahil Prem,False,1,False,False
+Tarina Patel,False,1,False,False
+Suraj,False,1,False,False
+Mahesh Balraj,False,1,False,False
+Vijay Kashyap,False,1,False,False
+Ali Kazmi,False,1,False,False
+Priya Prakash Varrier,False,1,False,False
+Indrasish Roy,False,1,False,False
+Natasha Sikka,False,1,False,False
+Chetan Sharma,False,1,False,False
+Khalid Abdalla,False,1,False,False
+Rituparna Sen,False,1,False,False
+Shahidul Alam Sachchu,False,1,False,False
+Kshitee Jog,False,1,False,False
+Lakshvir Singh Saran,False,1,False,False
+Lena Christensen,False,1,False,False
+Mayank Tewari,False,1,False,False
+Abbas,False,1,False,False
+Kanikka Kapur,False,1,False,False
+Vivek Sudershan,False,1,False,False
+Kenny Basumatary,False,1,False,False
+Patralekhaa,False,1,False,False
+Homi Wadia,False,1,False,False
+Anagha Mane,False,1,False,False
+Lushin Dubey,False,1,False,False
+Sameer Ali Khan,False,1,False,False
+Gurleen Choter,False,1,False,False
+Jitu Shivhare,False,1,False,False
+Anuraag Malhan,False,1,False,False
+Bindu,False,1,False,True
+Aarya Kumar,False,1,False,False
+Mousam Sharma,False,1,False,False
+Pihu Sharma,False,1,False,False
+Remo D'Souza,False,1,False,False
+Rudraksh Pundhir,False,1,False,False
+Prince Sodhi,False,1,False,False
+Aftab,False,1,False,False
+Amarjeet Shukla,False,1,False,False
+Sachin Pilgaonkar,False,1,False,False
+Ziyah Vastani,False,1,False,False
+Vijayendra Ghatge,False,1,False,False
+Manish Chauhan,False,1,False,False
+Anuj Chaudhary,False,1,False,False
+Malvika Raaj,False,1,False,False
+Jaya Bhaduri,False,1,False,False
+Sartaj Singh Pannu,False,1,False,False
+Ravi Mann,False,1,False,False
+Mukesh Manas,False,1,False,False
+Helena Prinzen Klague,False,1,False,False
+Karan Mehra,False,1,False,False
+Dweep Raj Kochhar,False,1,False,False
+Neha Bhatt,False,1,False,False
+Rakesh Shrivastav,False,1,False,False
+Tanmay Ssingh,False,1,False,False
+Manish Gupta,False,1,False,False
+Sheetal Bedi,False,1,False,False
+Navniit Nisshan,False,1,False,False
+Shweta Pandit,False,1,False,False
+Ben Kingsley,False,1,False,False
+Kaustav Sinha,False,1,False,False
+Shrikant Verma,False,1,False,False
+Pearle Maaney,False,1,False,False
+Jennifer Winget,False,1,False,False
+Akhil Mishra,False,1,False,False
+Shruti,False,1,False,False
+Lanuakum Ao,False,1,False,False
+Sumit Arora,False,1,False,False
+Raja,False,1,False,False
+Shraddha Sharma,False,1,False,False
+Nitya Shetty,False,1,False,False
+Shriya Sharma,False,1,False,False
+Neha Chaterji,False,1,False,False
+Aditya Roy Kapoor,False,1,False,False
+Himanshu Thakkar,False,1,False,False
+Alice Patten,False,1,False,False
+Suman,False,1,False,False
+Keith Allen,False,1,False,False
+Mishti Singh,False,1,False,False
+Ravibabu,False,1,False,False
+Sunil Barve,False,1,False,False

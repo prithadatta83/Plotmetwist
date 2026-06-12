@@ -1,0 +1,623 @@
+name,national,filmfare
+(10th),False,True
+(11th),False,True
+(12th),False,True
+(13th),False,True
+(14th),False,True
+(15th),False,True
+(16th),False,True
+(17th),False,True
+(18th),False,True
+(19th),False,True
+(1st),False,True
+(20th),False,True
+(21st),False,True
+(22nd),False,True
+(23rd),False,True
+(24th),False,True
+(25th),False,True
+(26th),False,True
+(27th),False,True
+(28th),False,True
+(29th),False,True
+(2nd),False,True
+(30th),False,True
+(31st),False,True
+(32nd),False,True
+(33rd),False,True
+(34th),False,True
+(35th),False,True
+(36th),False,True
+(37th),False,True
+(38th),False,True
+(39th),False,True
+(3rd),False,True
+(40th),False,True
+(41st),False,True
+(42nd),False,True
+(43rd),False,True
+(44th),False,True
+(45th),False,True
+(46th),False,True
+(47th),False,True
+(48th),False,True
+(49th),False,True
+(4th),False,True
+(50th),False,True
+(51st),False,True
+(52nd),False,True
+(53rd),False,True
+(54th),False,True
+(55th),False,True
+(56th),False,True
+(57th),False,True
+(58th),False,True
+(59th),False,True
+(5th),False,True
+(60th),False,True
+(61st),False,True
+(62nd),False,True
+(63rd),False,True
+(64th),False,True
+(65th),False,True
+(66th),False,True
+(67th),False,True
+(68th),False,True
+(69th),False,True
+(6th),False,True
+(70th),False,True
+(7th),False,True
+(8th),False,True
+(9th),False,True
+1967(15th),True,False
+1968(16th),True,False
+1969(17th),True,False
+1970(18th),True,False
+1971(19th),True,False
+1972(20th),True,False
+1973(21st),True,False
+1974(22nd),True,False
+1975(23rd),True,False
+1976(24th),True,False
+1977(25th),True,False
+1978(26th),True,False
+1979(27th),True,False
+1980(28th),True,False
+1981(29th),True,False
+1982(30th),True,False
+1983(31st),True,False
+1984(32nd),True,False
+1985(33rd),True,False
+1986(34th),True,False
+1987(35th),True,False
+1988(36th),True,False
+1989(37th),True,False
+1990(38th),True,False
+1991(39th),True,False
+1992(40th),True,False
+1993(41st),True,False
+1994(42nd),True,False
+1995(43rd),True,False
+1996(44th),True,False
+1997(45th),True,False
+1998(46th),True,False
+1999(47th),True,False
+2000(48th),True,False
+2001(49th),True,False
+2002(50th),True,False
+2003(51st),True,False
+2004(52nd),True,False
+2005(53rd),True,False
+2006(54th),True,False
+2007(55th),True,False
+2008(56th),True,False
+2009(57th),True,False
+2010(58th),True,False
+2011(59th),True,False
+2012(60th),True,False
+2013(61st),True,False
+2014(62nd),True,False
+2015(63rd),True,False
+2016(64th),True,False
+2017(65th),True,False
+2018(66th),True,False
+2019 (67th),True,False
+2019(67th),True,False
+2020(68th),True,False
+2021(69th),True,False
+2022(70th),True,False
+2023(71st),True,False
+3 Idiots,False,True
+61st),False,True
+65th,False,True
+66th,False,True
+67th,False,True
+68th,False,True
+69th,False,True
+70th,False,True
+Aadmi Sadak Ka,False,True
+Aamir Khan,False,True
+Abhay Deol,False,True
+Abhimanyu Dassani,False,True
+Abhishek Bachchan,False,True
+Abhishek Banerjee,False,True
+Adaalat,False,True
+Adah Sharma,False,True
+Aditya Rawal,False,True
+Aditya Roy Kapur,False,True
+Agha,False,True
+Aida El-Kashef,True,False
+Aishwarya Rai,False,True
+Aishwarya Rai Bachchan,False,True
+Ajay Devgan,False,True
+Ajay Devgn,True,True
+Ajit,False,True
+Akshay Kumar,False,True
+Akshaye Khanna,False,True
+Alia Bhatt,False,True
+Ameesha Patel,False,True
+Ameeta,False,True
+Amitabh Bachchan,True,True
+Amjad Khan,False,True
+Amol Gupte,False,True
+Amol Palekar,False,True
+Amrish Puri,False,True
+Amrita Puri,False,True
+Amrita Rao,False,True
+Amrita Singh,False,True
+Anil Kapoor,False,True
+Anita Guha,False,True
+Anita Kanwar,False,True
+Anjaam,False,True
+Antara Mali,False,True
+Anu Aggarwal,False,True
+Anupam Kher,False,True
+Anuradha Patel,False,True
+Anushka Sharma,False,True
+Aparshakti Khurana,False,True
+Arbaaz Khan,False,True
+Archana Puran Singh,False,True
+Arjun Rampal,False,True
+Arshad Warsi,False,True
+Aruna Irani,False,True
+Arundhati Nag,False,True
+Asha Parekh,False,True
+Ashalata,False,True
+Ashok Kumar,False,True
+Asin Thottumkal,False,True
+Asrani,False,True
+Atul Kulkarni,False,True
+Avtaar,False,True
+Ayesha Jhulka,False,True
+Ayesha Kapur,False,True
+Ayushmann Khurrana,False,True
+Bajirao Mastani,False,True
+Balraj Sahni,False,True
+Banita Sandhu,False,True
+Bhagyashree,False,True
+Bharat Bhushan,False,True
+Bhumi Pednekar,False,True
+Bhumika Chawla,False,True
+Bindu,False,True
+Binny and Family,False,True
+Bipasha Basu,False,True
+Bobby Deol,False,True
+Border,False,True
+Bunty Aur Babli,False,True
+Byomkesh Bakshi,True,False
+Captain,False,True
+Chandni,False,True
+Chandrachur Singh,False,True
+Chandu Chekavar,True,False
+Chennai Express,False,True
+Chiranjeevi,False,True
+Chunky Pandey,False,True
+Danny Denzongpa,False,True
+Darshan Kumar,False,True
+Darsheel Safary,False,True
+Dear Zindagi,False,True
+Deepa Sahi,False,True
+Deepak Dobriyal,False,True
+Deepika Padukone,False,True
+Deepti Naval,False,True
+Dev Anand,False,True
+Dhanush,True,True
+Dharmendra,False,True
+Dhvani Bhanushali,False,True
+Dia Mirza,False,True
+Diana Penty,False,True
+Dil Chahta Hai,False,True
+Dilip Kumar,False,True
+Diljit Dosanjh,False,True
+Dimple Kapadia,False,True
+Dina Pathak,False,True
+Divya Dutta,False,True
+Doctor G,False,True
+Durga Khote,False,True
+Dushman,False,True
+Eeb Allay Ooo!,False,True
+Ehan Bhat,False,True
+Emraan Hashmi,False,True
+Fardeen Khan,False,True
+Farhan Akhtar,False,True
+Farida Jalal,False,True
+Farrukh Jaffar,False,True
+Fatima Sana Shaikh,False,True
+Fawad Khan,False,True
+Feroz Khan,False,True
+Fiza,False,True
+Gajraj Rao,False,True
+Geeta Bali,False,True
+Ghoomer,False,True
+Girish Karnad,False,True
+Gitanjali Rao,False,True
+Govinda,False,True
+Gulshan Devaiah,False,True
+Guru Dutt,False,True
+Hansika Motwani,False,True
+Helen,False,True
+Hema Malini,False,True
+Hrithik Roshan,False,True
+Huma Qureshi,False,True
+I Want to Talk,False,True
+Illeana D'Cruz,False,True
+Imran Khan,False,True
+Imtihan,False,True
+Irrfan Khan,False,True
+Isha Koppikar,False,True
+Ishaan Khatter,False,True
+Ishq Vishk Rebound,False,True
+Ittefaq,False,True
+Jackie Shroff,False,True
+Jaideep Ahlawat,False,True
+Janhvi Kapoor,False,True
+Janki Bodiwala,False,True
+Jaya Bachchan,False,True
+Jaya Prada,False,True
+Jayshree T.,False,True
+Jennifer Kendal,False,True
+Jessica Lal,False,True
+Jiah Khan,False,True
+Jim Sarbh,False,True
+Jimmy Shergill,False,True
+John Abraham,False,True
+Johnny Walker,False,True
+Judaai,False,True
+Juhi Chawla,False,True
+Jyothika,False,True
+Kaajal,False,True
+Kabhi Alvida Naa Kehna,False,True
+Kabhie Kabhie,False,True
+Kajal Aggarwal,False,True
+Kajol,False,True
+Kalki Koechlin,False,True
+Kalpana,True,False
+Kamal Haasan,True,True
+Kamini Kaushal,False,True
+Kangana Ranaut,False,True
+Kareena Kapoor,False,True
+Kareena Kapoor Khan,False,True
+Karisma Kapoor,False,True
+Kartik Aaryan,False,True
+Kati Patang,False,True
+Katrina Kaif,False,True
+Keerthi Reddy,False,True
+Khamoshi,False,True
+Khushalii Kumar,False,True
+Kiara Advani,False,True
+Kirron Kher,False,True
+Kirti Kulhari,False,True
+Koi... Mil Gaya,False,True
+Konkona Sen Sharma,False,True
+Koshish,False,True
+Kriti Sanon,True,True
+Krrish,False,True
+Kulbhushan Kharbanda,False,True
+Kumar Gaurav,False,True
+Kumkum,False,True
+Kumud Mishra,False,True
+Kunal Kapoor,False,True
+Kurbaan,False,True
+Laaga Chunari Mein Daag,False,True
+Lakshya Lalwani,False,True
+Lalita Pawar,False,True
+Leela Chitnis,False,True
+Lisa Haydon,False,True
+Love Story,False,True
+M. S. Bhaskar,True,False
+Maanvi Gagroo,False,True
+Madhavi,False,True
+Madhoo,False,True
+Madhubala,False,True
+Madhumati,False,True
+Madhur Jaffrey,False,True
+Madhuri Dixit,False,True
+Mahi Gill,False,True
+Mahima Chaudhry,False,True
+Main Chup Rahungi,False,True
+Majboor,False,True
+Major,False,True
+Mala Sinha,False,True
+Mammootty,True,False
+Manasi Parekh,True,False
+Manav Kaul,False,True
+Mandakini,False,True
+Mandi,False,True
+Manish Paul,False,True
+Manisha Koirala,False,True
+Manoj Bajpai,False,True
+Manoj Bajpayee,False,True
+Manoj Kumar,False,True
+Manoj Pahwa,False,True
+Manushi Chhillar,False,True
+Masoom,False,True
+Meena Kumari,False,True
+Meenakshi Seshadri,False,True
+Meghna Malik,False,True
+Mehbooba,False,True
+Mehmood,False,True
+Mithun Chakraborty,False,True
+Mohanlal,False,True
+Mohnish Bahl,False,True
+Mohnish Behl,False,True
+Mohsin Khan,False,True
+Mouni Roy,False,True
+Moushumi Chatterjee,False,True
+Mr. Natwarlal,False,True
+Mugdha Godse,False,True
+Mujhse Shaadi Karogi,False,True
+Mukesh Rishi,False,True
+Mumtaz,False,True
+Muqaddar Ka Sikandar,False,True
+Nagesh,True,False
+Namak Halaal,False,True
+Namkeen,False,True
+Nana Patekar,False,True
+Nanda,False,True
+Nargis,False,True
+Nargis Fakhri,False,True
+Naseeruddin Shah,False,True
+Nawazuddin Siddiqui,False,True
+Nazima,False,True
+Nazneen,False,True
+Neena Gupta,False,True
+Neetu Kapoor,False,True
+Neetu Singh,False,True
+Neha Dhupia,False,True
+Neil Nitin Mukesh,False,True
+Nimmi,False,True
+Nirupa Roy,False,True
+Nitanshi Goel,False,True
+No One Killed Jessica,False,True
+Nutan,False,True
+Om Prakash,False,True
+Om Puri,True,True
+Om Shanti Om,False,True
+Padmini,False,True
+Padmini Kolhapure,False,True
+Pallavi Joshi,False,True
+Pankaj Kapur,False,True
+Pankaj Tripathi,False,True
+Paran Bandopadhyay,False,True
+Paresh Rawal,False,True
+Parineeti Chopra,False,True
+Pati Patni Aur Woh,False,True
+Phool Aur Patthar,False,True
+Pitobash Tripathy,False,True
+Pooja Batra,False,True
+Pooja Bedi,False,True
+Poonam Dhillon,False,True
+Prachi Desai,False,True
+Prajakta Koli,False,True
+Pran,False,True
+Pranutan Bahl,False,True
+Prateik Babbar,False,True
+Pratibha Ranta,False,True
+Pratik Gandhi,False,True
+Preeti Jhangiani,False,True
+Preity Zinta,False,True
+Prem Chopra,False,True
+Prem Nagar,False,True
+Prem Nath,False,True
+Prema Narayan,False,True
+Prince Salim,False,True
+Prithviraj Kapoor,False,True
+Priya Gill,False,True
+Priyamani,False,True
+Priyanka Chopra,False,True
+Pyaar To Hona Hi Tha,False,True
+R. Madhavan,False,True
+Raaj Kumar,False,True
+Raakhee,False,True
+Raakhee Gulzar,False,True
+Radhika,False,True
+Radhika Madan,False,True
+Raghav Juyal,False,True
+Rahul Khanna,False,True
+Raj Arjun,False,True
+Raj Babbar,False,True
+Raj Kapoor,False,True
+Rajat Kapoor,False,True
+Rajendra Kumar,False,True
+Rajesh Khanna,False,True
+Rajkumar Rao,False,True
+Rajkummar Rao,False,True
+Rakesh Roshan,False,True
+Rakhee Gulzar,False,True
+Rama Vij,False,True
+Rami Reddy,False,True
+Ranbir Kapoor,False,True
+Randeep Hooda,False,True
+Randhir Kapoor,False,True
+Rani Mukerji,False,True
+Ranjeeta,False,True
+Ranjeeta Kaur,False,True
+Ranveer Singh,False,True
+Ranvir Shorey,False,True
+Rati Agnihotri,False,True
+Ratna Pathak Shah,False,True
+Raveena Tandon,False,True
+Reema Lagoo,False,True
+Reena Roy,False,True
+Rehana Sultan,False,True
+Rehman,False,True
+Rekha,False,True
+Renuka Shahane,False,True
+Richa Chaddha,False,True
+Richa Chadha,False,True
+Rimi Sen,False,True
+Rishi Kapoor,False,True
+Rita Bhaduri,False,True
+Riteish Deshmukh,False,True
+Rituparna Sengupta,True,False
+Rohini Hattangadi,False,True
+Ronit Roy,False,True
+Roti Kapda Aur Makaan,False,True
+Saba Qamar,False,True
+Sadhana,False,True
+Sadhna,False,True
+Sadia Khateeb,False,True
+Saeed Jaffery,False,True
+Saeed Jaffrey,False,True
+Safar,False,True
+Saiee Manjrekar,False,True
+Saif Ali Khan,False,True
+Saira Banu,False,True
+Saiyami Kher,False,True
+Salim Kumar,True,False
+Salma Agha,False,True
+Salman Khan,False,True
+Sandeepa Dhar,False,True
+Sandhya Mridul,False,True
+Sangeeta Bijlani,False,True
+Sanjay Dutt,False,True
+Sanjay Mishra,False,True
+Sanjay Narvekar,False,True
+Sanjeev Kumar,False,True
+Sanya Malhotra,False,True
+Sanyasi,False,True
+Saranya Ponvannan,True,False
+Sarika,False,True
+Sarkar,False,True
+Sasural,False,True
+Saudagar,False,True
+Sayaji Shinde,False,True
+Seema Bhargava Pahwa,False,True
+Seema Biswas,False,True
+Seema Pahwa,False,True
+Shabana Azmi,False,True
+Shafi Inamdar,False,True
+Shah Rukh Khan,True,True
+Shahana Goswami,False,True
+Shahid Kapoor,False,True
+Shamita Shetty,False,True
+Shammi Kapoor,False,True
+Sharman Joshi,False,True
+Sharmila Tagore,False,True
+Sharmin Segal,False,True
+Shashi Kapoor,False,True
+Shashikala,False,True
+Shatrughan Sinha,False,True
+Shefali Shah,False,True
+Shenaz Treasurywala,False,True
+Shilpa Shetty,False,True
+Shilpa Shirodkar,False,True
+Shilpa Shukla,False,True
+Shiney Ahuja,False,True
+Shivaleeka Oberoi,False,True
+Shobana,True,False
+Sholay,False,True
+Shraddha Kapoor,False,True
+Shreyas Talpade,False,True
+Shriram Lagoo,False,True
+Shubh Mangal Saavdhan,False,True
+Shubha Khote,False,True
+Shweta Prasad,False,True
+Siddharth,False,True
+Sidharth Malhotra,False,True
+Silsila,False,True
+Simi Garewal,False,True
+Simran,False,True
+Sirf Tum,False,True
+Smita Patil,False,True
+Soha Ali Khan,False,True
+Sohini Sengupta,True,False
+Sohrab Modi,False,True
+Soldier,False,True
+Sonakshi Sinha,False,True
+Sonal Chauhan,False,True
+Sonali Kulkarni,False,True
+Sonam Kapoor,False,True
+Sonchiriya,False,True
+Soni Razdan,False,True
+Sonu Sood,False,True
+Sooraj Pancholi,False,True
+Soundarya,False,True
+Sparsh Shrivastava,False,True
+Squadron Leader,False,True
+Sridevi,False,True
+Suchitra Sen,False,True
+Suhasini Mulay,False,True
+Sui Dhaaga,False,True
+Sujata Mehta,False,True
+Sunghursh,False,True
+Suniel Shetty,False,True
+Sunil Dutt,False,True
+Sunny Deol,False,True
+Supriya Pathak,False,True
+Suraj Venjaramoodu,True,False
+Suresh Gopi,True,False
+Suresh Oberoi,False,True
+Suryakumari,False,True
+Sushant Singh Rajput,False,True
+Sushma Seth,False,True
+Sushmita Sen,False,True
+Swara Bhaskar,False,True
+Taapsee Pannu,False,True
+Tabu,False,True
+Tahir Raj Bhasin,False,True
+Talluri Rameshwari,False,True
+Tanuja,False,True
+Tanvi Azmi,False,True
+Tara Sutaria,False,True
+Tariq,False,True
+Tillotama Shome,False,True
+Tisca Chopra,False,True
+Tota Roy Chowdhury,False,True
+Tripti Dimri,False,True
+Trisha,False,True
+Tusshar Kapoor,False,True
+Ulhas,False,True
+Uphaar,False,True
+Urmila Matondkar,False,True
+Urvashi,True,False
+Urvashi Sharma,False,True
+Utpal Dutt,False,True
+Uttam Kumar,False,True
+Varun Dhawan,False,True
+Veere Di Wedding,False,True
+Vicky Kaushal,True,True
+Vidheyan,True,False
+Vidya Balan,False,True
+Vidyut,False,True
+Vijay Varma,False,True
+Vijayshanti,False,True
+Vikram Gokhale,True,False
+Vikrant Massey,False,True
+Vinay Pathak,False,True
+Vineet Kumar Singh,False,True
+Vinod Khanna,False,True
+Vinod Mehra,False,True
+Vir Das,False,True
+Vivek Oberoi,False,True
+Vyjayanthimala,False,True
+Waheeda Rehman,False,True
+Wake Up Sid,False,True
+Yaarana,False,True
+Yami Gautam,False,True
+Zaira Wasim,False,True
+Zarina Wahab,False,True
+Zayed Khan,False,True
+Zeba Bakhtiar,False,True
+Zeenat Aman,False,True
+Zindagi,False,True

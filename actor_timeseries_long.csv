@@ -1,0 +1,571 @@
+actor,actor_nepo,year,movie,gross_cr,film_has_nepo_cast,director
+Aamir Khan,yes,2000,Mela,25.00,yes,Dharmesh Darshan
+Aamir Khan,yes,2001,Dil Chahta Hai,39.72,yes,Farhan Akhtar
+Aamir Khan,yes,2001,Lagaan,65.97,yes,Ashutosh Gowariker
+Aamir Khan,yes,2005,Mangal Pandey: The Rising,52.58,yes,Ketan Mehta
+Aamir Khan,yes,2006,Fanaa,103.00,yes,Kunal Kohli
+Aamir Khan,yes,2006,Rang De Basanti,97.00,yes,Rakeysh Omprakash Mehra
+Aamir Khan,yes,2007,Taare Zameen Par,98.48,yes,Aamir Khan
+Aamir Khan,yes,2008,Ghajini,232.00,yes,A R Murugadoss
+Aamir Khan,yes,2009,3 Idiots,400.61,yes,Rajkumar Hirani
+Aarti Chhabria,no,2002,Awara Paagal Deewana,27.58,no,Vikram Bhatt
+Abhishek Bachchan,yes,2000,Refugee,35.44,yes,J. P. Dutta
+Abhishek Bachchan,yes,2003,LOC: Kargil,31.67,yes,J. P. Dutta
+Abhishek Bachchan,yes,2003,Main Prem Ki Diwani Hoon,39.31,yes,Sooraj Barjatya
+Abhishek Bachchan,yes,2004,Dhoom,72.47,yes,Sanjay Gadhvi
+Abhishek Bachchan,yes,2005,Bunty Aur Babli,90.40,yes,Shaad Ali
+Abhishek Bachchan,yes,2005,Dus,38.84,yes,Anubhav Sinha
+Abhishek Bachchan,yes,2005,Sarkar,39.30,yes,Ram Gopal Varma
+Abhishek Bachchan,yes,2006,Dhoom 2,151.00,yes,Sanjay Gadhvi
+Abhishek Bachchan,yes,2006,Kabhi Alvida Naa Kehna,113.00,yes,Karan Johar
+Abhishek Bachchan,yes,2007,Guru,83.67,yes,Mani Ratnam
+Abhishek Bachchan,yes,2008,Dostana,87.00,yes,Tarun Mansukhani
+Abhishek Bachchan,yes,2008,Sarkar Raj,63.00,yes,Ram Gopal Varma
+Aditya Pancholi,no,2002,Aankhen,33.80,no,Vipul Amrutlal Shah
+Aftab Shivdasani,no,2002,Awara Paagal Deewana,27.58,no,Vikram Bhatt
+Aftab Shivdasani,no,2004,Masti,34.14,yes,Indra Kumar
+Aftab Shivdasani,no,2009,Kambakkht Ishq,85.56,yes,Sabbir Khan
+Aishwarya Rai,no,2000,Hamara Dil Aapke Paas Hai,30.26,no,Satish Kaushik
+Aishwarya Rai,no,2000,Josh,35.06,no,Mansoor Khan
+Aishwarya Rai,no,2000,Mohabbatein,76.91,no,Aditya Chopra
+Aishwarya Rai,no,2002,Devdas,90.00,no,Sanjay Leela Bhansali
+Aishwarya Rai,no,2004,Khakee,49.89,yes,Rajkumar Santoshi
+Aishwarya Rai,no,2006,Dhoom 2,151.00,yes,Sanjay Gadhvi
+Aishwarya Rai,no,2007,Guru,83.67,yes,Mani Ratnam
+Aishwarya Rai Bachchan,no,2008,Jodhaa Akbar,120.00,yes,Ashutosh Gowariker
+Aishwarya Rai Bachchan,no,2008,Sarkar Raj,63.00,yes,Ram Gopal Varma
+Ajay Devgn,no,2001,Lajja,34.29,yes,Rajkumar Santoshi
+Ajay Devgn,no,2002,Company,25.02,yes,Ram Gopal Varma
+Ajay Devgn,no,2003,LOC: Kargil,31.67,yes,J. P. Dutta
+Ajay Devgn,no,2003,Qayamat: City Under Threat,28.52,yes,Harry Baweja
+Ajay Devgn,no,2004,Khakee,49.89,yes,Rajkumar Santoshi
+Ajay Devgn,no,2004,Masti,34.14,yes,Indra Kumar
+Ajay Devgn,no,2008,Golmaal Returns,95.00,yes,Rohit Shetty
+Ajay Devgn,no,2009,All the Best: Fun Begins,61.00,yes,Rohit Shetty
+Ajay Devgn,no,2010,Golmaal 3,167.00,yes,Rohit Shetty
+Ajay Devgn,no,2010,Once Upon A Time In Mumbaai,96.44,no,Milan Luthria
+Ajay Devgn,no,2010,Raajneeti,145.50,yes,Prakash Jha
+Akshay Kumar,no,2001,Ek Rishtaa: The Bond of Love,36.50,yes,Suneel Darshan
+Akshay Kumar,no,2002,Aankhen,33.80,no,Vipul Amrutlal Shah
+Akshay Kumar,no,2002,Awara Paagal Deewana,27.58,no,Vikram Bhatt
+Akshay Kumar,no,2003,Andaaz,28.81,no,Raj Kanwar
+Akshay Kumar,no,2004,Aitraaz,29.00,yes,Abbas–Mustan
+Akshay Kumar,no,2004,Khakee,49.89,yes,Rajkumar Santoshi
+Akshay Kumar,no,2004,Mujhse Shaadi Karogi,62.00,yes,David Dhawan
+Akshay Kumar,no,2005,Garam Masala,64.65,no,Priyadarshan
+Akshay Kumar,no,2005,Waqt: The Race Against Time,42.49,no,Vipul Amrutlal Shah
+Akshay Kumar,no,2006,Bhagam Bhag,67.00,yes,Priyadarshan
+Akshay Kumar,no,2006,Phir Hera Pheri,69.00,no,Neeraj Vora
+Akshay Kumar,no,2007,Bhool Bhulaiyaa,83.00,no,Priyadarshan
+Akshay Kumar,no,2007,Heyy Babyy,84.00,no,Sajid Khan
+Akshay Kumar,no,2007,Namastey London,71.40,yes,Vipul Amrutlal Shah
+Akshay Kumar,no,2007,Welcome,122.00,no,Anees Bazmee
+Akshay Kumar,no,2008,Singh Is Kinng,136.00,no,Anees Bazmee
+Akshay Kumar,no,2009,Blue,63.92,yes,Anthony D'Souza
+Akshay Kumar,no,2009,De Dana Dan,81.85,no,Priyadarshan
+Akshay Kumar,no,2009,Kambakkht Ishq,85.56,yes,Sabbir Khan
+Akshay Kumar,no,2010,Housefull,114.18,no,Sajid Khan
+Akshay Kumar,no,2010,Khatta Meetha,62.79,no,Priyadarshan
+Akshay Kumar,no,2010,Tees Maar Khan,101.89,yes,Farah Khan
+Akshaye Khanna,yes,2001,Dil Chahta Hai,39.72,yes,Farhan Akhtar
+Akshaye Khanna,yes,2002,Humraaz,29.71,yes,Abbas–Mustan
+Akshaye Khanna,yes,2003,LOC: Kargil,31.67,yes,J. P. Dutta
+Akshaye Khanna,yes,2004,Hulchul,33.09,yes,Priyadarshan
+Akshaye Khanna,yes,2008,Race,106.00,yes,Abbas–Mustan
+Akshaye Khanna,yes,2010,Tees Maar Khan,101.89,yes,Farah Khan
+Akshaye Khanna Kareena Kapoor Suniel Shetty Jackie Shroff Arbaaz Khan Arshad Warsi Paresh Rawal Amrish Puri Asrani Manoj Joshi Shakti Kapoor,no,2004,Hulchul,33.09,yes,Priyadarshan
+Ali Haji,no,2006,Fanaa,103.00,yes,Kunal Kohli
+Ali Haji,no,2007,Ta Ra Rum Pum,70.00,yes,Siddharth Anand
+Alice Patten,no,2006,Rang De Basanti,97.00,yes,Rakeysh Omprakash Mehra
+Alok Nath,no,2006,Vivah,49.00,yes,Sooraj R. Barjatya
+Aman Siddiqui,no,2008,Bhoothnath,70.00,no,Vivek Sharma
+Amar Upadhyay,no,2003,LOC: Kargil,31.67,yes,J. P. Dutta
+Ameesha Patel,no,2000,Kaho Naa... Pyaar Hai,80.01,yes,Rakesh Roshan
+Ameesha Patel,no,2001,Gadar: Ek Prem Katha,133.13,yes,Anil Sharma
+Ameesha Patel,no,2002,Humraaz,29.71,yes,Abbas–Mustan
+Ameesha Patel,no,2005,Mangal Pandey: The Rising,52.58,yes,Ketan Mehta
+Ameesha Patel,no,2007,Bhool Bhulaiyaa,83.00,no,Priyadarshan
+Amitabh Bachchan,no,2000,Mohabbatein,76.91,no,Aditya Chopra
+Amitabh Bachchan,no,2001,Ek Rishtaa: The Bond of Love,36.50,yes,Suneel Darshan
+Amitabh Bachchan,no,2001,Kabhi Khushi Kabhie Gham,135.53,yes,Karan Johar
+Amitabh Bachchan,no,2002,Aankhen,33.80,no,Vipul Amrutlal Shah
+Amitabh Bachchan,no,2002,Kaante,36.37,yes,Sanjay Gupta
+Amitabh Bachchan,no,2003,Baghban,43.11,yes,Ravi Chopra
+Amitabh Bachchan,no,2004,Khakee,49.89,yes,Rajkumar Santoshi
+Amitabh Bachchan,no,2005,Black,40.94,yes,Sanjay Leela Bhansali
+Amitabh Bachchan,no,2005,Bunty Aur Babli,90.40,yes,Shaad Ali
+Amitabh Bachchan,no,2005,Sarkar,39.30,yes,Ram Gopal Varma
+Amitabh Bachchan,no,2005,Waqt: The Race Against Time,42.49,no,Vipul Amrutlal Shah
+Amitabh Bachchan,no,2006,Kabhi Alvida Naa Kehna,113.00,yes,Karan Johar
+Amitabh Bachchan,no,2008,Bhoothnath,70.00,no,Vivek Sharma
+Amitabh Bachchan,no,2008,Sarkar Raj,63.00,yes,Ram Gopal Varma
+Amole Gupte,no,2009,Kaminey,71.57,yes,Vishal Bhardwaj
+Amrish Puri,no,2001,Gadar: Ek Prem Katha,133.13,yes,Anil Sharma
+Amrish Puri,no,2001,Yaadein,34.59,yes,Subhash Ghai
+Amrish Puri,no,2003,The Hero: Love Story of a Spy,45.13,yes,Anil Sharma
+Amrish Puri,no,2004,Aitraaz,29.00,yes,Abbas–Mustan
+Amrish Puri,no,2004,Hulchul,33.09,yes,Priyadarshan
+Amrita Arora,no,2002,Awara Paagal Deewana,27.58,no,Vikram Bhatt
+Amrita Arora,no,2008,Golmaal Returns,95.00,yes,Rohit Shetty
+Amrita Arora,no,2009,Kambakkht Ishq,85.56,yes,Sabbir Khan
+Amrita Rao,no,2004,Main Hoon Na,84.00,no,Farah Khan
+Amrita Rao,no,2004,Masti,34.14,yes,Indra Kumar
+Amrita Rao,no,2006,Vivah,49.00,yes,Sooraj R. Barjatya
+Angelina Idnani,no,2007,Ta Ra Rum Pum,70.00,yes,Siddharth Anand
+Anil Kapoor,no,2000,Hamara Dil Aapke Paas Hai,30.26,no,Satish Kaushik
+Anil Kapoor,no,2001,Lajja,34.29,yes,Rajkumar Santoshi
+Anil Kapoor,no,2005,No Entry,95.14,yes,Anees Bazmee
+Anil Kapoor,no,2007,Welcome,122.00,no,Anees Bazmee
+Anil Kapoor,no,2008,Race,106.00,yes,Abbas–Mustan
+Anjana Sukhani,no,2008,Golmaal Returns,95.00,yes,Rohit Shetty
+Annu Kapoor,no,2004,Aitraaz,29.00,yes,Abbas–Mustan
+Antara Mali,no,2002,Company,25.02,yes,Ram Gopal Varma
+Anupam Kher,no,2000,Kaho Naa... Pyaar Hai,80.01,yes,Rakesh Roshan
+Anupam Kher,no,2001,Jodi No.1,34.13,yes,David Dhawan
+Anupam Kher,no,2006,Rang De Basanti,97.00,yes,Rakeysh Omprakash Mehra
+Anupam Kher,no,2006,Vivah,49.00,yes,Sooraj R. Barjatya
+Anupam Kher,no,2010,Dabangg,221.14,yes,Abhinav Kashyap
+Anushka Sharma,no,2008,Rab Ne Bana Di Jodi,157.00,no,Aditya Chopra
+Arbaaz Khan,yes,2003,Qayamat: City Under Threat,28.52,yes,Harry Baweja
+Arbaaz Khan,yes,2004,Hulchul,33.09,yes,Priyadarshan
+Arbaaz Khan,yes,2006,Bhagam Bhag,67.00,yes,Priyadarshan
+Arbaaz Khan,yes,2010,Dabangg,221.14,yes,Abhinav Kashyap
+Arjun Rampal,no,2002,Aankhen,33.80,no,Vipul Amrutlal Shah
+Arjun Rampal,no,2006,Don: The Chase Begins Again,106.00,yes,Farhan Akhtar
+Arjun Rampal,no,2007,Om Shanti Om,152.00,no,Farah Khan
+Arjun Rampal,no,2010,Housefull,114.18,no,Sajid Khan
+Arjun Rampal,no,2010,Raajneeti,145.50,yes,Prakash Jha
+Arshad Warsi,no,2003,Munna Bhai M.B.B.S.,36.29,yes,Rajkumar Hirani
+Arshad Warsi,no,2004,Hulchul,33.09,yes,Priyadarshan
+Arshad Warsi,no,2005,Maine Pyaar Kyun Kiya?,47.22,yes,David Dhawan
+Arshad Warsi,no,2006,Lage Raho Munna Bhai,126.20,yes,Rajkumar Hirani
+Arshad Warsi,no,2008,Golmaal Returns,95.00,yes,Rohit Shetty
+Arshad Warsi,no,2010,Golmaal 3,167.00,yes,Rohit Shetty
+Ashutosh Rana,no,2002,Raaz,37.20,no,Vikram Bhatt
+Ashutosh Rana,no,2003,LOC: Kargil,31.67,yes,J. P. Dutta
+Asin,no,2008,Ghajini,232.00,yes,A R Murugadoss
+Asrani,no,2000,Mela,25.00,yes,Dharmesh Darshan
+Asrani,no,2004,Hulchul,33.09,yes,Priyadarshan
+Asrani,no,2005,Garam Masala,64.65,no,Priyadarshan
+Asrani,no,2006,Bhagam Bhag,67.00,yes,Priyadarshan
+Asrani,no,2007,Bhool Bhulaiyaa,83.00,no,Priyadarshan
+Asrani,no,2009,De Dana Dan,81.85,no,Priyadarshan
+Atul Kulkarni,no,2004,Khakee,49.89,yes,Rajkumar Santoshi
+Atul Kulkarni,no,2006,Rang De Basanti,97.00,yes,Rakeysh Omprakash Mehra
+Ayesha Takia,no,2009,Wanted,93.23,yes,Prabhu Deva
+Bipasha Basu,no,2002,Raaz,37.20,no,Vikram Bhatt
+Bipasha Basu,no,2005,No Entry,95.14,yes,Anees Bazmee
+Bipasha Basu,no,2006,Dhoom 2,151.00,yes,Sanjay Gadhvi
+Bipasha Basu,no,2006,Phir Hera Pheri,69.00,no,Neeraj Vora
+Bipasha Basu,no,2008,Bachna Ae Haseeno,79.00,yes,Siddharth Anand
+Bipasha Basu,no,2008,Race,106.00,yes,Abbas–Mustan
+Bipasha Basu,no,2009,All the Best: Fun Begins,61.00,yes,Rohit Shetty
+Bobby Deol,yes,2002,Humraaz,29.71,yes,Abbas–Mustan
+Boman Irani,no,2003,Munna Bhai M.B.B.S.,36.29,yes,Rajkumar Hirani
+Boman Irani,no,2005,Waqt: The Race Against Time,42.49,no,Vipul Amrutlal Shah
+Boman Irani,no,2006,Don: The Chase Begins Again,106.00,yes,Farhan Akhtar
+Boman Irani,no,2006,Lage Raho Munna Bhai,126.20,yes,Rajkumar Hirani
+Boman Irani,no,2007,Heyy Babyy,84.00,no,Sajid Khan
+Boman Irani,no,2009,3 Idiots,400.61,yes,Rajkumar Hirani
+Celina Jaitley,no,2005,No Entry,95.14,yes,Anees Bazmee
+Celina Jaitley,no,2008,Golmaal Returns,95.00,yes,Rohit Shetty
+Chandrachur Singh,no,2000,Josh,35.06,no,Mansoor Khan
+Clive Standen,no,2007,Namastey London,71.40,yes,Vipul Amrutlal Shah
+Daisy Bopanna,no,2005,Garam Masala,64.65,no,Priyadarshan
+Dalip Tahil,no,2000,Kaho Naa... Pyaar Hai,80.01,yes,Rakesh Roshan
+Danny Denzongpa,no,2001,Indian,42.61,yes,N. Maharajan
+Danny Denzongpa,no,2001,Lajja,34.29,yes,Rajkumar Santoshi
+Darsheel Safary,no,2007,Taare Zameen Par,98.48,yes,Aamir Khan
+Deepika Padukone,no,2007,Om Shanti Om,152.00,no,Farah Khan
+Deepika Padukone,no,2008,Bachna Ae Haseeno,79.00,yes,Siddharth Anand
+Deepika Padukone,no,2009,Love Aaj Kal,119.52,yes,Imtiaz Ali
+Deepika Padukone,no,2010,Housefull,114.18,no,Sajid Khan
+Dia Mirza,no,2006,Lage Raho Munna Bhai,126.20,yes,Rajkumar Hirani
+Dilip Prabhavalkar,no,2006,Lage Raho Munna Bhai,126.20,yes,Rajkumar Hirani
+Dilip Prabhavalkar,no,2008,Sarkar Raj,63.00,yes,Ram Gopal Varma
+Dimple Kapadia,no,2001,Dil Chahta Hai,39.72,yes,Farhan Akhtar
+Dimple Kapadia,no,2010,Dabangg,221.14,yes,Abhinav Kashyap
+Dino Morea,no,2002,Raaz,37.20,no,Vikram Bhatt
+Emraan Hashmi,no,2010,Once Upon A Time In Mumbaai,96.44,no,Milan Luthria
+Esha Deol,yes,2004,Dhoom,72.47,yes,Sanjay Gadhvi
+Esha Deol,yes,2005,No Entry,95.14,yes,Anees Bazmee
+Faisal Khan,yes,2000,Mela,25.00,yes,Dharmesh Darshan
+Fardeen Khan,no,2005,No Entry,95.14,yes,Anees Bazmee
+Fardeen Khan,no,2007,Heyy Babyy,84.00,no,Sajid Khan
+Fardeen Khan,no,2009,All the Best: Fun Begins,61.00,yes,Rohit Shetty
+Feroz Khan,no,2007,Welcome,122.00,no,Anees Bazmee
+Gayatri Joshi,no,2004,Swades,40.20,no,Ashutosh Gowariker
+Genelia,no,2004,Masti,34.14,yes,Indra Kumar
+Giselli Monteiro,no,2009,Love Aaj Kal,119.52,yes,Imtiaz Ali
+Govinda,no,2001,Jodi No.1,34.13,yes,David Dhawan
+Govinda,no,2006,Bhagam Bhag,67.00,yes,Priyadarshan
+Govinda,no,2007,Partner,101.00,yes,David Dhawan
+Gracy Singh,no,2001,Lagaan,65.97,yes,Ashutosh Gowariker
+Gracy Singh,no,2003,Munna Bhai M.B.B.S.,36.29,yes,Rajkumar Hirani
+Hema Malini,no,2003,Baghban,43.11,yes,Ravi Chopra
+Hrithik Roshan,yes,2000,Fiza,32.20,yes,Khalid Mohammed
+Hrithik Roshan,yes,2000,Kaho Naa... Pyaar Hai,80.01,yes,Rakesh Roshan
+Hrithik Roshan,yes,2000,Mission Kashmir,43.30,yes,Vidhu Vinod Chopra
+Hrithik Roshan,yes,2001,Kabhi Khushi Kabhie Gham,135.53,yes,Karan Johar
+Hrithik Roshan,yes,2001,Yaadein,34.59,yes,Subhash Ghai
+Hrithik Roshan,yes,2002,Mujhse Dosti Karoge!,33.61,yes,Kunal Kohli
+Hrithik Roshan,yes,2003,Koi... Mil Gaya,82.32,yes,Rakesh Roshan
+Hrithik Roshan,yes,2003,Main Prem Ki Diwani Hoon,39.31,yes,Sooraj Barjatya
+Hrithik Roshan,yes,2006,Dhoom 2,151.00,yes,Sanjay Gadhvi
+Hrithik Roshan,yes,2006,Krrish,126.50,yes,Rakesh Roshan
+Hrithik Roshan,yes,2008,Jodhaa Akbar,120.00,yes,Ashutosh Gowariker
+Imran Khan,yes,2010,I Hate Luv Storys,72.52,yes,Punit Malhotra
+Irrfan Khan,no,2009,New York,78.34,no,Kabir Khan
+Isha Koppikar,no,2003,Qayamat: City Under Threat,28.52,yes,Harry Baweja
+Isha Koppikar,no,2005,Maine Pyaar Kyun Kiya?,47.22,yes,David Dhawan
+Isha Koppikar,no,2006,Don: The Chase Begins Again,106.00,yes,Farhan Akhtar
+Jackie Shroff,no,2000,Mission Kashmir,43.30,yes,Vidhu Vinod Chopra
+Jackie Shroff,no,2000,Refugee,35.44,yes,J. P. Dutta
+Jackie Shroff,no,2001,Lajja,34.29,yes,Rajkumar Santoshi
+Jackie Shroff,no,2001,Yaadein,34.59,yes,Subhash Ghai
+Jackie Shroff,no,2004,Hulchul,33.09,yes,Priyadarshan
+Jackie Shroff,no,2006,Bhagam Bhag,67.00,yes,Priyadarshan
+Javed Jaffrey,no,2007,Ta Ra Rum Pum,70.00,yes,Siddharth Anand
+Javed Jaffrey,no,2008,Singh Is Kinng,136.00,no,Anees Bazmee
+Javed Jaffrey,no,2009,Kambakkht Ishq,85.56,yes,Sabbir Khan
+Jaya Bachchan,no,2000,Fiza,32.20,yes,Khalid Mohammed
+Jaya Bachchan,no,2001,Kabhi Khushi Kabhie Gham,135.53,yes,Karan Johar
+Jaya Bachchan,no,2003,Kal Ho Naa Ho,86.09,yes,Nikhil Advani
+Jiah Khan,no,2008,Ghajini,232.00,yes,A R Murugadoss
+Jiah Khan,no,2010,Housefull,114.18,no,Sajid Khan
+Jimmy Sheirgill,no,2003,Munna Bhai M.B.B.S.,36.29,yes,Rajkumar Hirani
+Jimmy Sheirgill,no,2004,Hum Tum,43.22,yes,Kunal Kohli
+Jimmy Sheirgill,no,2006,Lage Raho Munna Bhai,126.20,yes,Rajkumar Hirani
+John Abraham,no,2004,Dhoom,72.47,yes,Sanjay Gadhvi
+John Abraham,no,2005,Garam Masala,64.65,no,Priyadarshan
+John Abraham,no,2008,Dostana,87.00,yes,Tarun Mansukhani
+John Abraham,no,2009,New York,78.34,no,Kabir Khan
+Johnny Lever,no,2000,Mela,25.00,yes,Dharmesh Darshan
+Johnny Lever,no,2002,Awara Paagal Deewana,27.58,no,Vikram Bhatt
+Johnny Lever,no,2006,Phir Hera Pheri,69.00,no,Neeraj Vora
+Juanna Sanghvi,no,2007,Heyy Babyy,84.00,no,Sajid Khan
+Juhi Chawla,no,2001,Ek Rishtaa: The Bond of Love,36.50,yes,Suneel Darshan
+Juhi Chawla,no,2008,Bhoothnath,70.00,no,Vivek Sharma
+Kabir Bedi,no,2003,The Hero: Love Story of a Spy,45.13,yes,Anil Sharma
+Kajol,yes,2001,Kabhi Khushi Kabhie Gham,135.53,yes,Karan Johar
+Kajol,yes,2006,Fanaa,103.00,yes,Kunal Kohli
+Kajol,yes,2010,My Name Is Khan,220.30,yes,Karan Johar
+Kangana Ranaut,no,2010,Once Upon A Time In Mumbaai,96.44,no,Milan Luthria
+Karan Nath,no,2003,LOC: Kargil,31.67,yes,J. P. Dutta
+Kareena Kapoor,yes,2000,Refugee,35.44,yes,J. P. Dutta
+Kareena Kapoor,yes,2001,Kabhi Khushi Kabhie Gham,135.53,yes,Karan Johar
+Kareena Kapoor,yes,2001,Yaadein,34.59,yes,Subhash Ghai
+Kareena Kapoor,yes,2002,Mujhse Dosti Karoge!,33.61,yes,Kunal Kohli
+Kareena Kapoor,yes,2003,Main Prem Ki Diwani Hoon,39.31,yes,Sooraj Barjatya
+Kareena Kapoor,yes,2004,Aitraaz,29.00,yes,Abbas–Mustan
+Kareena Kapoor,yes,2004,Hulchul,33.09,yes,Priyadarshan
+Kareena Kapoor,yes,2006,Don: The Chase Begins Again,106.00,yes,Farhan Akhtar
+Kareena Kapoor,yes,2008,Golmaal Returns,95.00,yes,Rohit Shetty
+Kareena Kapoor,yes,2009,Kambakkht Ishq,85.56,yes,Sabbir Khan
+Kareena Kapoor,yes,2010,Golmaal 3,167.00,yes,Rohit Shetty
+Kareena Kapoor Khan,yes,2009,3 Idiots,400.61,yes,Rajkumar Hirani
+Karishma Kapoor,yes,2000,Fiza,32.20,yes,Khalid Mohammed
+Karishma Kapoor,yes,2001,Ek Rishtaa: The Bond of Love,36.50,yes,Suneel Darshan
+Karisma Kapoor,yes,2000,Dulhan Hum Le Jayenge,36.87,yes,David Dhawan
+Katrina Kaif,no,2005,Maine Pyaar Kyun Kiya?,47.22,yes,David Dhawan
+Katrina Kaif,no,2007,Namastey London,71.40,yes,Vipul Amrutlal Shah
+Katrina Kaif,no,2007,Partner,101.00,yes,David Dhawan
+Katrina Kaif,no,2007,Welcome,122.00,no,Anees Bazmee
+Katrina Kaif,no,2008,Race,106.00,yes,Abbas–Mustan
+Katrina Kaif,no,2008,Singh Is Kinng,136.00,no,Anees Bazmee
+Katrina Kaif,no,2009,Ajab Prem Ki Ghazab Kahani,106.74,yes,Rajkumar Santoshi
+Katrina Kaif,no,2009,Blue,63.92,yes,Anthony D'Souza
+Katrina Kaif,no,2009,De Dana Dan,81.85,no,Priyadarshan
+Katrina Kaif,no,2009,New York,78.34,no,Kabir Khan
+Katrina Kaif,no,2010,Raajneeti,145.50,yes,Prakash Jha
+Katrina Kaif,no,2010,Tees Maar Khan,101.89,yes,Farah Khan
+Kay Kay Menon,no,2005,Sarkar,39.30,yes,Ram Gopal Varma
+Kirron Kher,no,2004,Hum Tum,43.22,yes,Kunal Kohli
+Kirron Kher,no,2005,Mangal Pandey: The Rising,52.58,yes,Ketan Mehta
+Kirron Kher,no,2006,Fanaa,103.00,yes,Kunal Kohli
+Kirron Kher,no,2006,Kabhi Alvida Naa Kehna,113.00,yes,Karan Johar
+Kirron Kher,no,2006,Rang De Basanti,97.00,yes,Rakeysh Omprakash Mehra
+Kirron Kher,no,2007,Om Shanti Om,152.00,no,Farah Khan
+Kirron Kher,no,2008,Dostana,87.00,yes,Tarun Mansukhani
+Kirron Kher,no,2008,Singh Is Kinng,136.00,no,Anees Bazmee
+Kirron Kher,no,2009,Kambakkht Ishq,85.56,yes,Sabbir Khan
+Kishori Ballal,no,2004,Swades,40.20,no,Ashutosh Gowariker
+Kumar Gaurav,no,2002,Kaante,36.37,yes,Sanjay Gupta
+Kunal Kapoor,no,2006,Rang De Basanti,97.00,yes,Rakeysh Omprakash Mehra
+Kunal Khemu,no,2010,Golmaal 3,167.00,yes,Rohit Shetty
+Lara Dutta,no,2003,Andaaz,28.81,no,Raj Kanwar
+Lara Dutta,no,2004,Masti,34.14,yes,Indra Kumar
+Lara Dutta,no,2005,No Entry,95.14,yes,Anees Bazmee
+Lara Dutta,no,2006,Bhagam Bhag,67.00,yes,Priyadarshan
+Lara Dutta,no,2007,Partner,101.00,yes,David Dhawan
+Lara Dutta,no,2009,Blue,63.92,yes,Anthony D'Souza
+Lara Dutta,no,2010,Housefull,114.18,no,Sajid Khan
+Lillete Dubey,no,2001,Gadar: Ek Prem Katha,133.13,yes,Anil Sharma
+Lucky Ali,no,2002,Kaante,36.37,yes,Sanjay Gupta
+Madhuri Dixit,no,2001,Lajja,34.29,yes,Rajkumar Santoshi
+Madhuri Dixit,no,2002,Devdas,90.00,no,Sanjay Leela Bhansali
+Madhuri Dixit,no,2002,Hum Tumhare Hain Sanam,34.76,yes,K. S. Adhiyaman
+Mahesh Manjrekar,no,2002,Kaante,36.37,yes,Sanjay Gupta
+Mahesh Manjrekar,no,2009,Wanted,93.23,yes,Prabhu Deva
+Mahie Gill,no,2010,Dabangg,221.14,yes,Abhinav Kashyap
+Mahima Chaudhry,no,2001,Lajja,34.29,yes,Rajkumar Santoshi
+Mahima Chaudhry,no,2003,Baghban,43.11,yes,Ravi Chopra
+Malini Sharma,no,2002,Raaz,37.20,no,Vikram Bhatt
+Mallika Sherawat,no,2007,Welcome,122.00,no,Anees Bazmee
+Manini Mishra,no,2006,Krrish,126.50,yes,Rakesh Roshan
+Manisha Koirala,no,2001,Lajja,34.29,yes,Rajkumar Santoshi
+Manisha Koirala,no,2002,Company,25.02,yes,Ram Gopal Varma
+Manoj Bajpayee,no,2003,LOC: Kargil,31.67,yes,J. P. Dutta
+Manoj Bajpayee,no,2010,Raajneeti,145.50,yes,Prakash Jha
+Manoj Joshi,no,2004,Hulchul,33.09,yes,Priyadarshan
+Manoj Joshi,no,2005,Garam Masala,64.65,no,Priyadarshan
+Manoj Joshi,no,2006,Phir Hera Pheri,69.00,no,Neeraj Vora
+Manoj Joshi,no,2007,Bhool Bhulaiyaa,83.00,no,Priyadarshan
+Milind Gunaji,no,2006,Phir Hera Pheri,69.00,no,Neeraj Vora
+Minissha Lamba,no,2008,Bachna Ae Haseeno,79.00,yes,Siddharth Anand
+Mithun Chakraborty,no,2007,Guru,83.67,yes,Mani Ratnam
+Mithun Chakraborty,no,2010,Golmaal 3,167.00,yes,Rohit Shetty
+Mohanlal,no,2002,Company,25.02,yes,Ram Gopal Varma
+Mohnish Bahl,no,2000,Kaho Naa... Pyaar Hai,80.01,yes,Rakesh Roshan
+Mohnish Bahl,no,2001,Ek Rishtaa: The Bond of Love,36.50,yes,Suneel Darshan
+Mohnish Bahl,no,2003,LOC: Kargil,31.67,yes,J. P. Dutta
+Mona Singh,no,2009,3 Idiots,400.61,yes,Rajkumar Hirani
+Monica Bedi,no,2001,Jodi No.1,34.13,yes,David Dhawan
+Mugdha Godse,no,2009,All the Best: Fun Begins,61.00,yes,Rohit Shetty
+Mukesh Rishi,no,2001,Indian,42.61,yes,N. Maharajan
+Nagarjuna Akkineni,no,2003,LOC: Kargil,31.67,yes,J. P. Dutta
+Nana Patekar,no,2007,Welcome,122.00,no,Anees Bazmee
+Nana Patekar,no,2010,Raajneeti,145.50,yes,Prakash Jha
+Nargis Bagheri,no,2005,Garam Masala,64.65,no,Priyadarshan
+Naseeruddin Shah,no,2006,Krrish,126.50,yes,Rakesh Roshan
+Naseeruddin Shah,no,2010,Raajneeti,145.50,yes,Prakash Jha
+Neetu Chandra,no,2005,Garam Masala,64.65,no,Priyadarshan
+Neha Dhupia,no,2003,Qayamat: City Under Threat,28.52,yes,Harry Baweja
+Neha Dhupia,no,2005,Garam Masala,64.65,no,Priyadarshan
+Neha Dhupia,no,2008,Singh Is Kinng,136.00,no,Anees Bazmee
+Neil Nitin Mukesh,no,2009,New York,78.34,no,Kabir Khan
+Nina Wadia,no,2007,Namastey London,71.40,yes,Vipul Amrutlal Shah
+Om Puri,no,2006,Don: The Chase Begins Again,106.00,yes,Farhan Akhtar
+Om Puri,no,2006,Rang De Basanti,97.00,yes,Rakeysh Omprakash Mehra
+Om Puri,no,2008,Singh Is Kinng,136.00,no,Anees Bazmee
+Paresh Rawal,no,2000,Har Dil Jo Pyar Karega,32.45,yes,Raj Kanwar
+Paresh Rawal,no,2002,Aankhen,33.80,no,Vipul Amrutlal Shah
+Paresh Rawal,no,2002,Awara Paagal Deewana,27.58,no,Vikram Bhatt
+Paresh Rawal,no,2004,Aitraaz,29.00,yes,Abbas–Mustan
+Paresh Rawal,no,2004,Hulchul,33.09,yes,Priyadarshan
+Paresh Rawal,no,2005,Garam Masala,64.65,no,Priyadarshan
+Paresh Rawal,no,2006,Bhagam Bhag,67.00,yes,Priyadarshan
+Paresh Rawal,no,2006,Phir Hera Pheri,69.00,no,Neeraj Vora
+Paresh Rawal,no,2007,Bhool Bhulaiyaa,83.00,no,Priyadarshan
+Paresh Rawal,no,2007,Welcome,122.00,no,Anees Bazmee
+Paresh Rawal,no,2009,De Dana Dan,81.85,no,Priyadarshan
+Paul Blackthorne,no,2001,Lagaan,65.97,yes,Ashutosh Gowariker
+Pavan Malhotra,no,2006,Don: The Chase Begins Again,106.00,yes,Farhan Akhtar
+Prachi Desai,no,2010,Once Upon A Time In Mumbaai,96.44,no,Milan Luthria
+Pradeep Rawat,no,2008,Ghajini,232.00,yes,A R Murugadoss
+Prakash Raj,no,2009,Wanted,93.23,yes,Prabhu Deva
+Preeti Jhangiani,no,2002,Awara Paagal Deewana,27.58,no,Vikram Bhatt
+Preity Zinta,no,2000,Har Dil Jo Pyar Karega,32.45,yes,Raj Kanwar
+Preity Zinta,no,2000,Mission Kashmir,43.30,yes,Vidhu Vinod Chopra
+Preity Zinta,no,2001,Chori Chori Chupke Chupke,37.51,yes,Abbas–Mustan
+Preity Zinta,no,2001,Dil Chahta Hai,39.72,yes,Farhan Akhtar
+Preity Zinta,no,2003,Kal Ho Naa Ho,86.09,yes,Nikhil Advani
+Preity Zinta,no,2003,Koi... Mil Gaya,82.32,yes,Rakesh Roshan
+Preity Zinta,no,2003,The Hero: Love Story of a Spy,45.13,yes,Anil Sharma
+Preity Zinta,no,2004,Veer-Zaara,97.64,yes,Yash Chopra
+Preity Zinta,no,2006,Kabhi Alvida Naa Kehna,113.00,yes,Karan Johar
+Prem Chopra,no,2003,Koi... Mil Gaya,82.32,yes,Rakesh Roshan
+Priya Gill,no,2000,Josh,35.06,no,Mansoor Khan
+Priyanka Chopra,no,2003,Andaaz,28.81,no,Raj Kanwar
+Priyanka Chopra,no,2003,The Hero: Love Story of a Spy,45.13,yes,Anil Sharma
+Priyanka Chopra,no,2004,Aitraaz,29.00,yes,Abbas–Mustan
+Priyanka Chopra,no,2004,Mujhse Shaadi Karogi,62.00,yes,David Dhawan
+Priyanka Chopra,no,2005,Waqt: The Race Against Time,42.49,no,Vipul Amrutlal Shah
+Priyanka Chopra,no,2006,Don: The Chase Begins Again,106.00,yes,Farhan Akhtar
+Priyanka Chopra,no,2006,Krrish,126.50,yes,Rakesh Roshan
+Priyanka Chopra,no,2008,Dostana,87.00,yes,Tarun Mansukhani
+Priyanka Chopra,no,2009,Kaminey,71.57,yes,Vishal Bhardwaj
+Priyanka Chopra,no,2010,Anjaana Anjaani,69.85,yes,Siddharth Anand
+Priyanshu Chatterjee,no,2008,Bhoothnath,70.00,no,Vivek Sharma
+R. Madhavan,no,2007,Guru,83.67,yes,Mani Ratnam
+R. Madhavan,no,2009,3 Idiots,400.61,yes,Rajkumar Hirani
+Rachel Shelley,no,2001,Lagaan,65.97,yes,Ashutosh Gowariker
+Rahul Dev,no,2001,Indian,42.61,yes,N. Maharajan
+Rahul Dev,no,2002,Awara Paagal Deewana,27.58,no,Vikram Bhatt
+Rahul Dev,no,2009,Blue,63.92,yes,Anthony D'Souza
+Raj Babbar,no,2001,Indian,42.61,yes,N. Maharajan
+Rajesh Khattar,no,2006,Don: The Chase Begins Again,106.00,yes,Farhan Akhtar
+Rajpal Yadav,no,2003,The Hero: Love Story of a Spy,45.13,yes,Anil Sharma
+Rajpal Yadav,no,2005,Garam Masala,64.65,no,Priyadarshan
+Rajpal Yadav,no,2005,Waqt: The Race Against Time,42.49,no,Vipul Amrutlal Shah
+Rajpal Yadav,no,2006,Bhagam Bhag,67.00,yes,Priyadarshan
+Rajpal Yadav,no,2006,Phir Hera Pheri,69.00,no,Neeraj Vora
+Rajpal Yadav,no,2007,Bhool Bhulaiyaa,83.00,no,Priyadarshan
+Rajpal Yadav,no,2008,Bhoothnath,70.00,no,Vivek Sharma
+Rajpal Yadav,no,2010,Khatta Meetha,62.79,no,Priyadarshan
+Rakesh Roshan,no,2003,Koi... Mil Gaya,82.32,yes,Rakesh Roshan
+Rakhee Gulzar,no,2001,Ek Rishtaa: The Bond of Love,36.50,yes,Suneel Darshan
+Ranbir Kapoor,yes,2008,Bachna Ae Haseeno,79.00,yes,Siddharth Anand
+Ranbir Kapoor,yes,2009,Ajab Prem Ki Ghazab Kahani,106.74,yes,Rajkumar Santoshi
+Ranbir Kapoor,yes,2010,Anjaana Anjaani,69.85,yes,Siddharth Anand
+Ranbir Kapoor,yes,2010,Raajneeti,145.50,yes,Prakash Jha
+Randeep Hooda,no,2010,Once Upon A Time In Mumbaai,96.44,no,Milan Luthria
+Rani Mukerji,yes,2000,Har Dil Jo Pyar Karega,32.45,yes,Raj Kanwar
+Rani Mukerji,yes,2001,Chori Chori Chupke Chupke,37.51,yes,Abbas–Mustan
+Rani Mukerji,yes,2002,Mujhse Dosti Karoge!,33.61,yes,Kunal Kohli
+Rani Mukerji,yes,2002,Saathiya,29.15,yes,Shaad Ali
+Rani Mukerji,yes,2003,Chalte Chalte,43.29,yes,Aziz Mirza
+Rani Mukerji,yes,2004,Hum Tum,43.22,yes,Kunal Kohli
+Rani Mukerji,yes,2004,Veer-Zaara,97.64,yes,Yash Chopra
+Rani Mukerji,yes,2005,Black,40.94,yes,Sanjay Leela Bhansali
+Rani Mukerji,yes,2005,Bunty Aur Babli,90.40,yes,Shaad Ali
+Rani Mukerji,yes,2005,Mangal Pandey: The Rising,52.58,yes,Ketan Mehta
+Rani Mukerji,yes,2006,Kabhi Alvida Naa Kehna,113.00,yes,Karan Johar
+Rani Mukerji,yes,2007,Ta Ra Rum Pum,70.00,yes,Siddharth Anand
+Ranvir Shorey,no,2008,Singh Is Kinng,136.00,no,Anees Bazmee
+Ratna Pathak Shah,no,2010,Golmaal 3,167.00,yes,Rohit Shetty
+Razak Khan,no,2006,Phir Hera Pheri,69.00,no,Neeraj Vora
+Rekha,yes,2001,Lajja,34.29,yes,Rajkumar Santoshi
+Rekha,yes,2003,Koi... Mil Gaya,82.32,yes,Rakesh Roshan
+Rekha,yes,2006,Krrish,126.50,yes,Rakesh Roshan
+Rimi Sen,no,2004,Dhoom,72.47,yes,Sanjay Gadhvi
+Rimi Sen,no,2005,Garam Masala,64.65,no,Priyadarshan
+Rimi Sen,no,2006,Phir Hera Pheri,69.00,no,Neeraj Vora
+Rishi Kapoor,yes,2004,Hum Tum,43.22,yes,Kunal Kohli
+Rishi Kapoor,yes,2006,Fanaa,103.00,yes,Kunal Kohli
+Rishi Kapoor,yes,2007,Namastey London,71.40,yes,Vipul Amrutlal Shah
+Rishi Kapoor,yes,2009,Love Aaj Kal,119.52,yes,Imtiaz Ali
+Riteish Deshmukh,no,2004,Masti,34.14,yes,Indra Kumar
+Riteish Deshmukh,no,2007,Heyy Babyy,84.00,no,Sajid Khan
+Ritesh Deshmukh,no,2010,Housefull,114.18,no,Sajid Khan
+Riya Sen,no,2003,Qayamat: City Under Threat,28.52,yes,Harry Baweja
+Rohini Hattangadi,no,2003,Munna Bhai M.B.B.S.,36.29,yes,Rajkumar Hirani
+Saif Ali Khan,yes,2001,Dil Chahta Hai,39.72,yes,Farhan Akhtar
+Saif Ali Khan,yes,2003,Kal Ho Naa Ho,86.09,yes,Nikhil Advani
+Saif Ali Khan,yes,2003,LOC: Kargil,31.67,yes,J. P. Dutta
+Saif Ali Khan,yes,2004,Hum Tum,43.22,yes,Kunal Kohli
+Saif Ali Khan,yes,2007,Ta Ra Rum Pum,70.00,yes,Siddharth Anand
+Saif Ali Khan,yes,2008,Race,106.00,yes,Abbas–Mustan
+Saif Ali Khan,yes,2009,Love Aaj Kal,119.52,yes,Imtiaz Ali
+Salman Khan,yes,2000,Dulhan Hum Le Jayenge,36.87,yes,David Dhawan
+Salman Khan,yes,2000,Har Dil Jo Pyar Karega,32.45,yes,Raj Kanwar
+Salman Khan,yes,2001,Chori Chori Chupke Chupke,37.51,yes,Abbas–Mustan
+Salman Khan,yes,2002,Hum Tumhare Hain Sanam,34.76,yes,K. S. Adhiyaman
+Salman Khan,yes,2003,Baghban,43.11,yes,Ravi Chopra
+Salman Khan,yes,2004,Mujhse Shaadi Karogi,62.00,yes,David Dhawan
+Salman Khan,yes,2005,Maine Pyaar Kyun Kiya?,47.22,yes,David Dhawan
+Salman Khan,yes,2005,No Entry,95.14,yes,Anees Bazmee
+Salman Khan,yes,2007,Partner,101.00,yes,David Dhawan
+Salman Khan,yes,2009,Wanted,93.23,yes,Prabhu Deva
+Salman Khan,yes,2010,Dabangg,221.14,yes,Abhinav Kashyap
+Salman Khan Sushmita Sen Katrina Kaif Sohail Khan Arshad Warsi Isha Koppikar,no,2005,Maine Pyaar Kyun Kiya?,47.22,yes,David Dhawan
+Sameera Reddy,no,2008,Race,106.00,yes,Abbas–Mustan
+Sanjay Dutt,yes,2000,Mission Kashmir,43.30,yes,Vidhu Vinod Chopra
+Sanjay Dutt,yes,2001,Jodi No.1,34.13,yes,David Dhawan
+Sanjay Dutt,yes,2002,Kaante,36.37,yes,Sanjay Gupta
+Sanjay Dutt,yes,2003,LOC: Kargil,31.67,yes,J. P. Dutta
+Sanjay Dutt,yes,2003,Munna Bhai M.B.B.S.,36.29,yes,Rajkumar Hirani
+Sanjay Dutt,yes,2005,Dus,38.84,yes,Anubhav Sinha
+Sanjay Dutt,yes,2006,Lage Raho Munna Bhai,126.20,yes,Rajkumar Hirani
+Sanjay Dutt,yes,2009,All the Best: Fun Begins,61.00,yes,Rohit Shetty
+Sanjay Dutt,yes,2009,Blue,63.92,yes,Anthony D'Souza
+Sanjay Kapoor,no,2003,LOC: Kargil,31.67,yes,J. P. Dutta
+Sanjay Kapoor,no,2003,Qayamat: City Under Threat,28.52,yes,Harry Baweja
+Sarah Thompson,no,2010,Raajneeti,145.50,yes,Prakash Jha
+Seema Biswas,no,2002,Company,25.02,yes,Ram Gopal Varma
+Shah Rukh Khan,no,2000,Josh,35.06,no,Mansoor Khan
+Shah Rukh Khan,no,2000,Mohabbatein,76.91,no,Aditya Chopra
+Shah Rukh Khan,no,2001,Kabhi Khushi Kabhie Gham,135.53,yes,Karan Johar
+Shah Rukh Khan,no,2002,Devdas,90.00,no,Sanjay Leela Bhansali
+Shah Rukh Khan,no,2002,Hum Tumhare Hain Sanam,34.76,yes,K. S. Adhiyaman
+Shah Rukh Khan,no,2003,Chalte Chalte,43.29,yes,Aziz Mirza
+Shah Rukh Khan,no,2003,Kal Ho Naa Ho,86.09,yes,Nikhil Advani
+Shah Rukh Khan,no,2004,Main Hoon Na,84.00,no,Farah Khan
+Shah Rukh Khan,no,2004,Swades,40.20,no,Ashutosh Gowariker
+Shah Rukh Khan,no,2004,Veer-Zaara,97.64,yes,Yash Chopra
+Shah Rukh Khan,no,2006,Don: The Chase Begins Again,106.00,yes,Farhan Akhtar
+Shah Rukh Khan,no,2006,Kabhi Alvida Naa Kehna,113.00,yes,Karan Johar
+Shah Rukh Khan,no,2007,Chak De! India,109.00,no,Shimit Amin
+Shah Rukh Khan,no,2007,Om Shanti Om,152.00,no,Farah Khan
+Shah Rukh Khan,no,2008,Bhoothnath,70.00,no,Vivek Sharma
+Shah Rukh Khan,no,2008,Rab Ne Bana Di Jodi,157.00,no,Aditya Chopra
+Shah Rukh Khan,no,2010,My Name Is Khan,220.30,yes,Karan Johar
+Shahbaz Khan,no,2003,The Hero: Love Story of a Spy,45.13,yes,Anil Sharma
+Shahid Kapoor,yes,2006,Vivah,49.00,yes,Sooraj R. Barjatya
+Shahid Kapoor,yes,2009,Kaminey,71.57,yes,Vishal Bhardwaj
+Shakti Kapoor,no,2004,Hulchul,33.09,yes,Priyadarshan
+Shakti Kapoor,no,2006,Bhagam Bhag,67.00,yes,Priyadarshan
+Shakti Kapoor,no,2009,De Dana Dan,81.85,no,Priyadarshan
+Sharad Kapoor,no,2000,Josh,35.06,no,Mansoor Khan
+Sharat Saxena,no,2006,Krrish,126.50,yes,Rakesh Roshan
+Sharat Saxena,no,2006,Phir Hera Pheri,69.00,no,Neeraj Vora
+Sharman Joshi,no,2006,Rang De Basanti,97.00,yes,Rakeysh Omprakash Mehra
+Sharman Joshi,no,2009,3 Idiots,400.61,yes,Rajkumar Hirani
+Shefali Shah,no,2005,Waqt: The Race Against Time,42.49,no,Vipul Amrutlal Shah
+Shilpa Shetty,no,2001,Indian,42.61,yes,N. Maharajan
+Shiney Ahuja,no,2007,Bhool Bhulaiyaa,83.00,no,Priyadarshan
+Shreyas Talpade,no,2007,Om Shanti Om,152.00,no,Farah Khan
+Shreyas Talpade,no,2008,Golmaal Returns,95.00,yes,Rohit Shetty
+Shreyas Talpade,no,2010,Golmaal 3,167.00,yes,Rohit Shetty
+Siddharth,no,2006,Rang De Basanti,97.00,yes,Rakeysh Omprakash Mehra
+Soha Ali Khan,yes,2006,Rang De Basanti,97.00,yes,Rakeysh Omprakash Mehra
+Sohail Khan,yes,2005,Maine Pyaar Kyun Kiya?,47.22,yes,David Dhawan
+Sonakshi Sinha,yes,2010,Dabangg,221.14,yes,Abhinav Kashyap
+Sonali Bendre,no,2000,Hamara Dil Aapke Paas Hai,30.26,no,Satish Kaushik
+Sonali Kulkarni,no,2000,Mission Kashmir,43.30,yes,Vidhu Vinod Chopra
+Sonali Kulkarni,no,2001,Dil Chahta Hai,39.72,yes,Farhan Akhtar
+Sonam Kapoor,yes,2010,I Hate Luv Storys,72.52,yes,Punit Malhotra
+Sonu Sood,no,2008,Singh Is Kinng,136.00,no,Anees Bazmee
+Sonu Sood,no,2010,Dabangg,221.14,yes,Abhinav Kashyap
+Suniel Shetty,no,2000,Refugee,35.44,yes,J. P. Dutta
+Suniel Shetty,no,2003,Qayamat: City Under Threat,28.52,yes,Harry Baweja
+Suniel Shetty,no,2004,Hulchul,33.09,yes,Priyadarshan
+Suniel Shetty,no,2004,Main Hoon Na,84.00,no,Farah Khan
+Suniel Shetty,no,2006,Phir Hera Pheri,69.00,no,Neeraj Vora
+Suniel Shetty,no,2009,De Dana Dan,81.85,no,Priyadarshan
+Sunil Dutt,no,2003,Munna Bhai M.B.B.S.,36.29,yes,Rajkumar Hirani
+Sunil Shetty,no,2002,Awara Paagal Deewana,27.58,no,Vikram Bhatt
+Sunil Shetty,no,2002,Kaante,36.37,yes,Sanjay Gupta
+Sunil Shetty,no,2003,LOC: Kargil,31.67,yes,J. P. Dutta
+Sunil Shetty,no,2005,Dus,38.84,yes,Anubhav Sinha
+Sunny Deol,yes,2001,Gadar: Ek Prem Katha,133.13,yes,Anil Sharma
+Sunny Deol,yes,2001,Indian,42.61,yes,N. Maharajan
+Sunny Deol,yes,2003,The Hero: Love Story of a Spy,45.13,yes,Anil Sharma
+Supriya Pathak,no,2008,Sarkar Raj,63.00,yes,Ram Gopal Varma
+Sushmita Sen,no,2002,Aankhen,33.80,no,Vipul Amrutlal Shah
+Sushmita Sen,no,2004,Main Hoon Na,84.00,no,Farah Khan
+Sushmita Sen,no,2005,Maine Pyaar Kyun Kiya?,47.22,yes,David Dhawan
+Tabu,no,2006,Fanaa,103.00,yes,Kunal Kohli
+Tanay Chheda,no,2007,Taare Zameen Par,98.48,yes,Aamir Khan
+Tara Sharma,no,2004,Masti,34.14,yes,Indra Kumar
+Tinu Verma,no,2000,Mela,25.00,yes,Dharmesh Darshan
+Tisca Chopra,no,2007,Taare Zameen Par,98.48,yes,Aamir Khan
+Toby Stephens,no,2005,Mangal Pandey: The Rising,52.58,yes,Ketan Mehta
+Trisha,no,2010,Khatta Meetha,62.79,no,Priyadarshan
+Tusshar Kapoor,yes,2004,Khakee,49.89,yes,Rajkumar Santoshi
+Tusshar Kapoor,yes,2008,Golmaal Returns,95.00,yes,Rohit Shetty
+Tusshar Kapoor,yes,2010,Golmaal 3,167.00,yes,Rohit Shetty
+Twinkle Khanna,yes,2000,Mela,25.00,yes,Dharmesh Darshan
+Twinkle Khanna,yes,2001,Jodi No.1,34.13,yes,David Dhawan
+Uday Chopra,yes,2002,Mujhse Dosti Karoge!,33.61,yes,Kunal Kohli
+Uday Chopra,yes,2004,Dhoom,72.47,yes,Sanjay Gadhvi
+Uday Chopra,yes,2006,Dhoom 2,151.00,yes,Sanjay Gadhvi
+Upen Patel,no,2007,Namastey London,71.40,yes,Vipul Amrutlal Shah
+Urvashi Sharma,no,2010,Khatta Meetha,62.79,no,Priyadarshan
+Utkarsh Sharma,no,2001,Gadar: Ek Prem Katha,133.13,yes,Anil Sharma
+Vidya Balan,no,2006,Lage Raho Munna Bhai,126.20,yes,Rajkumar Hirani
+Vidya Balan,no,2007,Bhool Bhulaiyaa,83.00,no,Priyadarshan
+Vidya Balan,no,2007,Guru,83.67,yes,Mani Ratnam
+Vidya Balan,no,2007,Heyy Babyy,84.00,no,Sajid Khan
+Vinay Pathak,no,2008,Rab Ne Bana Di Jodi,157.00,no,Aditya Chopra
+Vinod Khanna,no,2009,Wanted,93.23,yes,Prabhu Deva
+Vinod Khanna,no,2010,Dabangg,221.14,yes,Abhinav Kashyap
+Vipin Sharma,no,2007,Taare Zameen Par,98.48,yes,Aamir Khan
+Vivek Oberoi,yes,2002,Company,25.02,yes,Ram Gopal Varma
+Vivek Oberoi,yes,2002,Saathiya,29.15,yes,Shaad Ali
+Vivek Oberoi,yes,2004,Masti,34.14,yes,Indra Kumar
+Vivek Shauq,no,2001,Gadar: Ek Prem Katha,133.13,yes,Anil Sharma
+Waheeda Rehman,no,2006,Rang De Basanti,97.00,yes,Rakeysh Omprakash Mehra
+Zayed Khan,no,2004,Main Hoon Na,84.00,no,Farah Khan
+Zayed Khan,no,2005,Dus,38.84,yes,Anubhav Sinha
+Zayed Khan,no,2009,Blue,63.92,yes,Anthony D'Souza
