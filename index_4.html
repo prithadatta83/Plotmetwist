@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Plot.me.twist — everyday questions, plotted with data</title>
+<meta name="description" content="Everyday questions and debates, analysed with data and simple maths to put things in perspective.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,900;1,9..144,600&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Mono:wght@400;500;600&family=Noto+Serif+Devanagari:wght@600;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#15110c; --bg2:#1d1812; --card:#211b14;
+    --ink:#f4ece0; --muted:#b3a288; --faint:#7a6c58;
+    --line:rgba(244,236,224,.12); --line2:rgba(244,236,224,.06);
+    --nepo:#e24a3b; --nepo-soft:rgba(226,74,59,.16);
+    --out:#57b0c4; --out-soft:rgba(87,176,196,.16);
+    --gold:#e0b15c; --gold-deep:#c8923a; --grey:#9aa0a0;
+    --maxw:880px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--ink);font-family:"Newsreader",Georgia,serif;
+    font-size:19px;line-height:1.7;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+  body::before{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;
+    background:radial-gradient(60% 50% at 78% 8%,rgba(224,177,92,.10),transparent 70%),
+      radial-gradient(55% 45% at 12% 22%,rgba(226,74,59,.08),transparent 70%),
+      radial-gradient(70% 60% at 50% 120%,rgba(87,176,196,.06),transparent 70%)}
+  body::after{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.05;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");mix-blend-mode:overlay}
+  .wrap{position:relative;z-index:1;max-width:var(--maxw);margin:0 auto;padding:0 24px}
+  p{margin-bottom:1.1em;color:#e9e0d2}
+  .mono{font-family:"IBM Plex Mono",monospace}
+  .red{color:var(--nepo)} .blue{color:var(--out)} .gold{color:var(--gold)}
+
+  /* ---------- HERO ---------- */
+  header{min-height:84vh;display:flex;flex-direction:column;justify-content:center;padding:80px 0 60px}
+  .kicker-row{display:flex;align-items:center;gap:16px;margin-bottom:30px}
+  .kicker-row .rule{height:1px;flex:1;background:var(--line)}
+  .series{font-family:"Fraunces",serif;font-weight:900;font-size:14px;letter-spacing:.06em;color:var(--gold);text-transform:uppercase}
+  .eyebrow{font-family:"IBM Plex Mono",monospace;font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--faint)}
+  h1{font-family:"Fraunces",serif;font-weight:900;font-size:clamp(52px,13vw,108px);
+     line-height:.9;letter-spacing:-.03em;color:var(--ink)}
+  h1 .d{font-style:normal}
+  h1 .d.r{color:var(--nepo)} h1 .d.b{color:var(--out)}
+  h1 .hi{font-family:"Noto Serif Devanagari",serif;font-weight:900;color:var(--gold);
+     font-size:.82em;line-height:1;display:inline-block;vertical-align:baseline}
+  .lede{font-family:"Newsreader",serif;font-size:clamp(21px,2.8vw,29px);line-height:1.5;
+    color:var(--ink);max-width:30ch;margin-top:34px}
+  .scroll-cue{margin-top:46px;font-family:"IBM Plex Mono",monospace;font-size:11px;
+    letter-spacing:.3em;color:var(--faint);text-transform:uppercase;animation:bob 2.4s ease-in-out infinite}
+  @keyframes bob{0%,100%{transform:translateY(0);opacity:.5}50%{transform:translateY(7px);opacity:1}}
+
+  /* ---------- SECTIONS ---------- */
+  section{padding:64px 0;border-top:1px solid var(--line2)}
+  .sec-num{font-family:"IBM Plex Mono",monospace;font-size:12px;letter-spacing:.3em;
+    color:var(--gold);text-transform:uppercase;display:block;margin-bottom:22px}
+  .idea p{font-family:"Newsreader",serif;font-size:clamp(20px,2.5vw,25px);line-height:1.55;color:#e9e0d2;max-width:42ch}
+  .idea p.first{color:var(--ink)}
+  .idea .pmt{font-style:italic;color:var(--gold);font-weight:600}
+
+  /* ---------- INDEX ---------- */
+  .index-head{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;margin-bottom:26px;flex-wrap:wrap}
+  .index-head .sec-num{margin-bottom:0}
+  .index-head .count{font-family:"IBM Plex Mono",monospace;font-size:12px;letter-spacing:.12em;color:var(--faint);text-transform:uppercase}
+
+  .issue{display:block;text-decoration:none;color:inherit;
+    background:linear-gradient(180deg,var(--card),#1a150f);border:1px solid var(--line);
+    border-radius:12px;padding:26px 26px 24px;box-shadow:0 30px 60px -34px rgba(0,0,0,.7);
+    transition:border-color .35s ease,transform .35s cubic-bezier(.2,.7,.2,1),box-shadow .35s ease}
+  .issue + .issue{margin-top:18px}
+  .issue-top{display:flex;align-items:center;gap:13px;margin-bottom:16px}
+  .issue-no{font-family:"IBM Plex Mono",monospace;font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
+  .issue-tag{font-family:"IBM Plex Mono",monospace;font-size:12px;letter-spacing:.06em;color:var(--muted);
+    padding:3px 10px;border:1px solid var(--nepo-soft);background:var(--nepo-soft);border-radius:20px}
+  .issue h2{font-family:"Fraunces",serif;font-weight:600;font-size:clamp(28px,5vw,42px);
+    line-height:1.04;letter-spacing:-.015em;color:var(--ink);transition:color .3s ease}
+  .issue .hook{color:var(--muted);font-size:17px;line-height:1.55;margin-top:14px;max-width:58ch}
+  .issue .hook b{color:var(--ink);font-weight:600}
+  .issue-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;
+    margin-top:20px;padding-top:16px;border-top:1px solid var(--line2)}
+  .issue .stats{font-family:"IBM Plex Mono",monospace;font-size:12px;letter-spacing:.06em;color:var(--faint);text-transform:uppercase}
+  .issue .read{font-family:"IBM Plex Mono",monospace;font-size:13px;letter-spacing:.08em;color:var(--gold);white-space:nowrap}
+  .issue .read .arr{display:inline-block;transition:transform .35s cubic-bezier(.2,.7,.2,1)}
+  .issue:hover,.issue:focus-visible{border-color:var(--gold-deep);transform:translateY(-3px);
+    box-shadow:0 36px 70px -34px rgba(0,0,0,.8);outline:none}
+  .issue:hover h2,.issue:focus-visible h2{color:var(--gold)}
+  .issue:hover .read .arr,.issue:focus-visible .read .arr{transform:translateX(5px)}
+  .issue:focus-visible{box-shadow:0 0 0 2px var(--gold-deep)}
+
+  .soon{font-family:"IBM Plex Mono",monospace;font-size:12.5px;letter-spacing:.08em;color:var(--faint);text-transform:uppercase;margin-top:22px}
+
+  /* ---------- FOOTER ---------- */
+  footer{padding:56px 0 80px;border-top:1px solid var(--line2)}
+  footer .mono{font-family:"IBM Plex Mono",monospace;font-size:12.5px;letter-spacing:.12em;color:var(--faint);text-transform:uppercase}
+  footer .mono .dot{color:var(--gold)}
+
+  /* ---------- MOTION ---------- */
+  .reveal{opacity:0;transform:translateY(26px);transition:opacity .9s cubic-bezier(.2,.7,.2,1),transform .9s cubic-bezier(.2,.7,.2,1)}
+  .reveal.in{opacity:1;transform:none}
+  @media (prefers-reduced-motion:reduce){
+    *{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+    .reveal{opacity:1;transform:none}
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+
+    <!-- HERO -->
+    <header>
+      <div class="kicker-row reveal">
+        <span class="series">Plot.me.twist</span>
+        <span class="rule"></span>
+        <span class="eyebrow">Everyday questions, plotted</span>
+      </div>
+      <h1 class="reveal">Plot<span class="d r">.</span><span class="hi">में</span><span class="d b">.</span>twist</h1>
+      <p class="lede reveal">Everyday questions and debates, analysed with data and simple maths to put things in perspective.</p>
+      <div class="scroll-cue">Scroll ↓</div>
+    </header>
+
+    <!-- THE IDEA -->
+    <section class="idea">
+      <span class="sec-num reveal">The idea</span>
+      <p class="first reveal">With an analytical mind, I've always seen the world as a bunch of equations that are solvable. But over the last few years, I've come to recognise that life doesn't offer linear — or even deterministic — equations. Problems are abstract, and they get amplified when emotions come into play. For a person like me, that's unsettling.</p>
+      <p class="reveal" style="margin-top:1.2em">And yet, so many of the debates we hear and engage with every day can actually be contextualised with the right numbers. <span class="pmt">Plot.me.twist</span> is my attempt to plot the everyday questions we all have — with data — and give readers the context to steer any conversation in a more structured direction.</p>
+    </section>
+
+    <!-- THE INDEX -->
+    <section class="index">
+      <div class="index-head reveal">
+        <span class="sec-num">The index</span>
+        <span class="count">No. 01 — and counting</span>
+      </div>
+
+      <!-- ════════════════════════════════════════════════════════════
+           ISSUES — to add one, copy a whole <a class="issue">…</a> block
+           and change: the href (file name), the No., the tag, the <h2>
+           title, the .hook line, the .stats and the date.
+           Newest issue goes at the top.
+      ═══════════════════════════════════════════════════════════════ -->
+
+      <a class="issue reveal" href="nepotism">
+        <div class="issue-top">
+          <span class="issue-no">No. 01</span>
+          <span class="issue-tag">The Nepo debate</span>
+        </div>
+        <h2>Not everything grows under a Banyan tree</h2>
+        <p class="hook"><span class="red">Sonam Kapoor</span> said the network is a star kid's one real edge; <span class="blue">Rajkummar Rao</span> called it grating. So I pulled every film I could find and asked the data <b>who's actually right</b>.</p>
+        <div class="issue-foot">
+          <span class="stats">2,824 films · 9,660 appearances · 26 years</span>
+          <span class="read">Jun 2026 &nbsp; Read the issue <span class="arr">→</span></span>
+        </div>
+      </a>
+
+      <p class="soon reveal">More questions, soon →</p>
+    </section>
+
+    <footer>
+      <p class="mono reveal">plotmetwist<span class="dot">.</span>in &nbsp;·&nbsp; everyday questions, plotted with data</p>
+    </footer>
+
+  </div>
+
+<script>
+  (function(){
+    var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var nodes = document.querySelectorAll('.reveal');
+    if(reduce || !('IntersectionObserver' in window)){
+      nodes.forEach(function(n){ n.classList.add('in'); }); return;
+    }
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); } });
+    }, {threshold:.12, rootMargin:'0px 0px -40px 0px'});
+    nodes.forEach(function(n){ io.observe(n); });
+    setTimeout(function(){ nodes.forEach(function(n){ n.classList.add('in'); }); }, 1600);
+  })();
+</script>
+</body>
+</html>
